@@ -19,6 +19,7 @@ team_names_list = [
     'ה. חדרה'
 ]
 
+
 def sort_players(player_data, sort_option):
     if sort_option == 'name':
         return sorted(player_data, key=lambda x: x['name'])
@@ -49,7 +50,7 @@ option = st.sidebar.selectbox('Select an option:', [
 if option == 'Total Players':
     st.sidebar.header('Options')
     type_option = st.sidebar.selectbox('Type by:', ['Minimum', 'Equal'])
-    
+
     # Get player data from the Analyzer class based on type_option
     if type_option == 'Minimum':
         points_input = st.sidebar.number_input(
@@ -57,17 +58,18 @@ if option == 'Total Players':
         price_input_min = st.sidebar.number_input(
             'Filter by Minimum Price:', min_value=3, max_value=15, step=1)
         price_input_max = st.sidebar.number_input(
-        'Filter by Maximum Price:', min_value=3, max_value=15, step=1, value=15)
-        player_data = analyzer.get_total_players(points_input, price_input_min, price_input_max, True)
+            'Filter by Maximum Price:', min_value=3, max_value=15, step=1, value=15)
+        player_data = analyzer.get_total_players(
+            points_input, price_input_min, price_input_max, True)
     else:
         points_input = st.sidebar.number_input(
             'Filter by Equal Points:', min_value=0, step=1)
         price_input_min = st.sidebar.number_input(
             'Filter by Minimum Price:', min_value=3, max_value=15, step=1)
         price_input_max = st.sidebar.number_input(
-        'Filter by Maximum Price:', min_value=3, max_value=15, step=1, value=15)
-        player_data = analyzer.get_total_players(points_input, price_input_min, price_input_max, False)
-
+            'Filter by Maximum Price:', min_value=3, max_value=15, step=1, value=15)
+        player_data = analyzer.get_total_players(
+            points_input, price_input_min, price_input_max, False)
 
     sort_option = st.sidebar.selectbox(
         'Sort by:', ['points', 'position', 'team', 'price', 'name'])
@@ -109,8 +111,12 @@ if option == 'Total Players':
         sorted_data = sort_players(filtered_data, sort_option)
 
         # Display the filtered and sorted data in a table
-        st.write(
-            f'Total Players with {points_input} Points or more in selected positions: {len(sorted_data)}')
+        if type_option == 'Minimum':
+            st.write(
+                f'Total Players with {points_input} Points or more in selected positions and teams: {len(sorted_data)}')
+        else:
+            st.write(
+                f'Total Players with {points_input} Points in selected positions and teams: {len(sorted_data)}')
 
         # Limit the displayed data based on the user's selection
         num_players_to_display = min(num_players_to_display, len(sorted_data))
@@ -145,8 +151,9 @@ elif option == 'Best Team':
     }
     st.write('Best Team:')
 
-    best_team, total_points, total_cost = analyzer.find_best_team(budget, position_constraints)
-    
+    best_team, total_points, total_cost = analyzer.find_best_team(
+        budget, position_constraints)
+
     # Create a list to store player data in the best team
     best_team_data = []
 
@@ -155,22 +162,22 @@ elif option == 'Best Team':
 
     # Create a DataFrame with all players in the best team
     df = pd.DataFrame(best_team_data)
-    
+
     # Define the order of positions for sorting
-    position_order = ['GK', 'CB', 'MD', 'FW'] 
-    
+    position_order = ['GK', 'CB', 'MD', 'FW']
+
     # Sort the DataFrame by position
-    df['position'] = pd.Categorical(df['position'], categories=position_order, ordered=True)
+    df['position'] = pd.Categorical(
+        df['position'], categories=position_order, ordered=True)
     df = df.sort_values(by='position')
 
     df = df.reset_index(drop=True)
     df.index = range(1, len(df) + 1)
-    
+
     st.table(df[['name', 'position', 'team', 'price', 'points']])
-    
+
     st.write(
         f'Total Cost is {total_cost}M and Total Points: {total_points}')
-
 
 
 # To run the Streamlit app, use the following command:

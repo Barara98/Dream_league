@@ -14,6 +14,14 @@ class PlayersDataAnalyzer:
         """
         with open(json_file_path, 'r', encoding='utf-8') as json_file:
             self.players_data = json.load(json_file)
+        self.budget = 108  # Define the budget attribute
+        self.position_constraints = {
+            'GK': (1, 1),  # Exactly 1 goalkeeper
+            'CB': (3, 5),  # 3 to 5 center-backs
+            'MD': (3, 5),  # 3 to 5 midfielders
+            'FW': (1, 3)   # 1 to 3 forwards
+        }
+        self.max_players_per_team = 2
 
     def get_total_players(self, points=0, min_price = 3, max_price = 15, min = True):
         if min:
@@ -108,7 +116,8 @@ class PlayersDataAnalyzer:
             for player in players:
                 print(f"- {player['name']} ({player['team']})")
 
-    def find_best_team(self, budget, position_constraints, max_players_per_team=2):
+    def find_best_team(self, max_players_per_team=2):
+        #lpsum is the sum of the values in the array, the object inside are 0 or 1, because of this we multyply the points and price and just sum the num of players and positions.
         # Create a linear programming problem
         model = pulp.LpProblem("Fantasy_Football_Team_Selection", pulp.LpMaximize)
 
@@ -118,15 +127,15 @@ class PlayersDataAnalyzer:
         for position, players in self.players_data.items():
             for i, player in enumerate(players):
                 player_vars[(position, i)] = pulp.LpVariable(f"Player_{position}_{i}", cat=pulp.LpBinary)
-
+        
         # Objective function: Maximize total points
         model += pulp.lpSum(player["points"] * player_vars[(position, i)] for position, players in self.players_data.items() for i, player in enumerate(players)), "Total_Points"
 
         # Budget constraint
-        model += pulp.lpSum(player["price"] * player_vars[(position, i)] for position, players in self.players_data.items() for i, player in enumerate(players)) <= budget, "Budget_Constraint"
+        model += pulp.lpSum(player["price"] * player_vars[(position, i)] for position, players in self.players_data.items() for i, player in enumerate(players)) <= self.budget, "Budget_Constraint"
 
         # Position constraints
-        for position, (min_count, max_count) in position_constraints.items():
+        for position, (min_count, max_count) in self.position_constraints.items():
             model += pulp.lpSum(player_vars[(position, i)] for i in range(len(self.players_data[position]))) >= min_count, f"{position}_Min_Constraint"
             model += pulp.lpSum(player_vars[(position, i)] for i in range(len(self.players_data[position]))) <= max_count, f"{position}_Max_Constraint"
 
@@ -143,6 +152,7 @@ class PlayersDataAnalyzer:
                 else:
                     team_counts[team] = [player_vars[(position, i)]]
 
+        # team vars is the players inside the team
         for team, team_vars in team_counts.items():
             model += pulp.lpSum(team_vars) <= max_players_per_team, f"Max_Players_Team_{team}"
 
@@ -189,7 +199,7 @@ position_constraints = {
 }
 
 # Use the find_best_team function to find the best team.
-best_team, total_points, total_cost = analyzer.find_best_team(budget, position_constraints)
+best_team, total_points, total_cost = analyzer.find_best_team()
 
 # Print the selected team and its details.
 print("Selected Team:")

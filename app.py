@@ -151,8 +151,7 @@ elif option == 'Best Team':
     }
     st.write('Best Team:')
 
-    best_team, total_points, total_cost = analyzer.find_best_team(
-        budget, position_constraints)
+    best_team, total_points, total_cost = analyzer.find_best_team()
 
     # Create a list to store player data in the best team
     best_team_data = []

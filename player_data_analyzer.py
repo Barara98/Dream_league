@@ -189,14 +189,6 @@ analyzer = PlayersDataAnalyzer(json_file_path)
 # analyzer.display_team(random_team)
 # print(f'Remaining Budget: {remaining_budget}M')
 
-# Next, define your budget and position constraints.
-budget = 108
-position_constraints = {
-    'GK': (1, 1),  # Exactly 1 goalkeeper
-    'CB': (3, 5),  # 3 to 5 center-backs
-    'MD': (3, 5),  # 3 to 5 midfielders
-    'FW': (1, 3)   # 1 to 3 forwards
-}
 
 # Use the find_best_team function to find the best team.
 best_team, total_points, total_cost = analyzer.find_best_team()

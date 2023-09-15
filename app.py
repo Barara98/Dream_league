@@ -1,24 +1,9 @@
 import streamlit as st
 import pandas as pd
 from player_data_analyzer import PlayersDataAnalyzer
+from data_utility import DataUtility
 
-team_names_list = [
-    'ב. ירושלים',
-    'מ. אשדוד',
-    'ה. ב. שבע',
-    'ב. סכנין',
-    'מ. חיפה',
-    'ה. ירושלים',
-    'ה. פ. תקווה',
-    'ה. חיפה',
-    'ה. ת. אביב',
-    'מ. פ. תקווה',
-    'מ. ת. אביב',
-    'מ. ב. ריינה',
-    'מ. נתניה',
-    'ה. חדרה'
-]
-
+data_utility = DataUtility()
 
 def sort_players(player_data, sort_option):
     if sort_option == 'name':
@@ -36,7 +21,7 @@ def sort_players(player_data, sort_option):
 
 
 # Create an instance of PlayersDataAnalyzer
-json_file_path = 'players_data.json'
+json_file_path = 'all_players_data.json'
 analyzer = PlayersDataAnalyzer(json_file_path)
 
 # Streamlit app
@@ -79,13 +64,14 @@ if option == 'Total Players':
         'Select Positions:', ['GK', 'CB', 'MD', 'FW'], default=['GK', 'CB', 'MD', 'FW'])
 
     selected_teams = st.sidebar.multiselect(
-        'Select Teams:', team_names_list, default=team_names_list)
+        'Select Teams:', data_utility.full_team_name_list, default = data_utility.full_team_name_list)
 
     # Filter player data based on selected positions and teams
     filtered_data = [
         player for player in player_data if player['position'] in selected_positions and player['team'] in selected_teams]
 
     num_players_to_display = len(filtered_data)
+    print(num_players_to_display)
 
     col1, col2, col3 = st.sidebar.columns(3)
 
@@ -142,21 +128,14 @@ elif option == 'Random Team':
             f'remaining Budget is {budget}M and Total points:{total_points}')
 
 elif option == 'Best Team':
-    budget = 108
-    position_constraints = {
-        'GK': (1, 1),  # Exactly 1 goalkeeper
-        'CB': (3, 5),  # 3 to 5 center-backs
-        'MD': (3, 5),  # 3 to 5 midfielders
-        'FW': (1, 3)   # 1 to 3 forwards
-    }
     st.write('Best Team:')
 
-    best_team, total_points, total_cost = analyzer.find_best_team()
+    best_team, total_points, total_cost = analyzer.find_best_team_lp()
 
     # Create a list to store player data in the best team
     best_team_data = []
 
-    for player, _ in best_team:
+    for player in best_team:
         best_team_data.append(player)  # Append player data to the list
 
     # Create a DataFrame with all players in the best team

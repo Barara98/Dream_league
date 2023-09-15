@@ -23,7 +23,7 @@ class PlayersDataAnalyzer:
         }
         self.max_players_per_team = 2
 
-    def get_total_players(self, points=0, min_price = 3, max_price = 15, min = True):
+    def get_total_players(self, points = 0, min_price = 3, max_price = 15, min = True):
         if min:
             qualifying_players = [player for position_data in self.players_data.values()
                             for player in position_data if player['points'] >= points and player['price'] >= min_price and player['price'] <= max_price]
@@ -116,65 +116,51 @@ class PlayersDataAnalyzer:
             for player in players:
                 print(f"- {player['name']} ({player['team']})")
 
-    def find_best_team(self, max_players_per_team=2):
-        #lpsum is the sum of the values in the array, the object inside are 0 or 1, because of this we multyply the points and price and just sum the num of players and positions.
+    def find_best_team_lp(self):
         # Create a linear programming problem
-        model = pulp.LpProblem("Fantasy_Football_Team_Selection", pulp.LpMaximize)
+        prob = pulp.LpProblem("FantasyFootball", pulp.LpMaximize)
 
-        # Create a dictionary to store player variables
-        player_vars = {}
-        # Define decision variables (binary variables for player selection)
-        for position, players in self.players_data.items():
-            for i, player in enumerate(players):
-                player_vars[(position, i)] = pulp.LpVariable(f"Player_{position}_{i}", cat=pulp.LpBinary)
-        
-        # Objective function: Maximize total points
-        model += pulp.lpSum(player["points"] * player_vars[(position, i)] for position, players in self.players_data.items() for i, player in enumerate(players)), "Total_Points"
+        # Define variables: binary variables for player selection
+        player_vars = {player['name']: pulp.LpVariable(player['name'], cat=pulp.LpBinary) for position_players in self.players_data.values() for player in position_players}
+
+        # Objective function: maximize total points
+        prob += pulp.lpSum(player['points'] * player_vars[player['name']] for position_players in self.players_data.values() for player in position_players)
 
         # Budget constraint
-        model += pulp.lpSum(player["price"] * player_vars[(position, i)] for position, players in self.players_data.items() for i, player in enumerate(players)) <= self.budget, "Budget_Constraint"
+        prob += pulp.lpSum(player['price'] * player_vars[player['name']] for position_players in self.players_data.values() for player in position_players) <= self.budget
 
         # Position constraints
         for position, (min_count, max_count) in self.position_constraints.items():
-            model += pulp.lpSum(player_vars[(position, i)] for i in range(len(self.players_data[position]))) >= min_count, f"{position}_Min_Constraint"
-            model += pulp.lpSum(player_vars[(position, i)] for i in range(len(self.players_data[position]))) <= max_count, f"{position}_Max_Constraint"
+            prob += pulp.lpSum(player_vars[player['name']] for player in self.players_data[position]) >= min_count
+            prob += pulp.lpSum(player_vars[player['name']] for player in self.players_data[position]) <= max_count
 
-        # Additional constraint: Select exactly 11 players
-        model += pulp.lpSum(player_vars[(position, i)] for position in self.players_data for i in range(len(self.players_data[position]))) == 11, "Select_11_Players"
+        # Max 2 players from the same team constraint
+        for team in set(player['team'] for position_players in self.players_data.values() for player in position_players):
+            prob += pulp.lpSum(player_vars[player['name']] for position_players in self.players_data.values() for player in position_players if player['team'] == team) <= self.max_players_per_team
 
-        # Additional constraint: Maximum 2 players from the same team
-        team_counts = {}
-        for position, players in self.players_data.items():
-            for i, player in enumerate(players):
-                team = player["team"]
-                if team in team_counts:
-                    team_counts[team].append(player_vars[(position, i)])
-                else:
-                    team_counts[team] = [player_vars[(position, i)]]
+        # Exactly 11 players constraint
+        prob += pulp.lpSum(player_vars.values()) == 11
 
-        # team vars is the players inside the team
-        for team, team_vars in team_counts.items():
-            model += pulp.lpSum(team_vars) <= max_players_per_team, f"Max_Players_Team_{team}"
+        # Solve the LP problem
+        prob.solve()
 
-        # Solve the optimization problem
-        model.solve()
+        # Extract the selected players as objects
+        best_team = [player for position_players in self.players_data.values() for player in position_players if pulp.value(player_vars[player['name']]) == 1]
 
-        # Extract the selected team
-        selected_team = [(player, player_vars[(position, i)]) for position, players in self.players_data.items() for i, player in enumerate(players) if pulp.value(player_vars[(position, i)]) == 1]
+        # Calculate total points
+        total_points = pulp.value(prob.objective)
+        total_cost = sum(player["price"] for player in best_team)
 
-        # Calculate total points and total cost
-        total_points = sum(player["points"] for player, _ in selected_team)
-        total_cost = sum(player["price"] for player, _ in selected_team)
+        return best_team, total_points, total_cost
 
-        return selected_team, total_points, total_cost
 
 # Create an instance of PlayersDataAnalyzer
-json_file_path = 'players_data.json'  # Replace with your JSON file path
+json_file_path = 'all_players_data.json'  # Replace with your JSON file path
 analyzer = PlayersDataAnalyzer(json_file_path)
 
-# # Test the get_total_players method
-# total_players = analyzer.get_total_players()
-# print(f'Total Players: {total_players}')
+# Test the get_total_players method
+total_players = analyzer.get_total_players()
+print(f'Total Players: {len(total_players)}')
 
 # # Test the get_total_points_by_position method
 # total_points_by_position = analyzer.get_total_points_by_position()
@@ -191,13 +177,10 @@ analyzer = PlayersDataAnalyzer(json_file_path)
 
 
 # Use the find_best_team function to find the best team.
-best_team, total_points, total_cost = analyzer.find_best_team()
+best_team, best_points, total_cost = analyzer.find_best_team_lp()
+print("Best Team:")
+for player in best_team:
+    print(f"{player['name']} ({player['position']}) - {player['team']} - Price: {player['price']} - Points: {player['points']}")
+print(f"Total Points: {best_points}")
+print(f"Total Cost: {total_cost}")
 
-# Print the selected team and its details.
-print("Selected Team:")
-for player, _ in best_team:
-    print(f"{player['name']} ({player['position']} - {player['team']}): {player['points']} points")
-
-
-print(f"Total Points: {total_points}")
-print(f"Total Cost: {total_cost}M")

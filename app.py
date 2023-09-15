@@ -129,17 +129,18 @@ elif option == 'Random Team':
 
 elif option == 'Best Team':
     st.write('Best Team:')
+    st.sidebar.header('Options')
+    type_option = st.sidebar.selectbox('Type by:', ['Total', 'By Fixture'])
 
-    best_team, total_points, total_cost = analyzer.find_best_team_lp()
-
-    # Create a list to store player data in the best team
-    best_team_data = []
-
-    for player in best_team:
-        best_team_data.append(player)  # Append player data to the list
+    if type_option == 'Total':
+        best_team, total_points, total_cost = analyzer.find_best_team_lp()
+    else:
+        fixture_option = st.sidebar.selectbox('Select Fixture:', ['Fixture1', 'Fixture2'])
+        print(fixture_option)
+        best_team, total_points, total_cost = analyzer.find_best_team_lp_by_fixture(fixture_option.lower())
 
     # Create a DataFrame with all players in the best team
-    df = pd.DataFrame(best_team_data)
+    df = pd.DataFrame(best_team)
 
     # Define the order of positions for sorting
     position_order = ['GK', 'CB', 'MD', 'FW']
@@ -147,7 +148,6 @@ elif option == 'Best Team':
     # Sort the DataFrame by position
     df['position'] = pd.Categorical(
         df['position'], categories=position_order, ordered=True)
-    df = df.sort_values(by='position')
 
     df = df.reset_index(drop=True)
     df.index = range(1, len(df) + 1)

@@ -38,11 +38,19 @@ if option == "Total Players":
     type_option = st.sidebar.selectbox("Type by:", ["Minimum", "Equal"])
     fixture_option = st.sidebar.selectbox("Fixtures:", data_utility.fixture_list)
     fixture_events_option = None
+    fixture_events_quantity = -1
 
     player_data = fixture_option
     if fixture_option != "All":
-        fixture_events_option = st.sidebar.selectbox("Fixtures Events:", data_utility.events_list)
-        player_data = analyzer.get_total_players_by_fixture(fixture_option.lower(), fixture_events_option)
+        fixture_events_option = st.sidebar.selectbox(
+            "Fixtures Events:", data_utility.events_list
+        )
+        fixture_events_quantity = st.sidebar.number_input(
+            "Filter by Minimum Quantity:", min_value=0, step=1, value=0
+        )
+        player_data = analyzer.get_total_players_by_fixture(
+            fixture_option.lower(), fixture_events_option, fixture_events_quantity
+        )
 
     # Get player data from the Analyzer class based on type_option
     if type_option == "Minimum":
@@ -139,14 +147,25 @@ if option == "Total Players":
         num_players_to_display = min(num_players_to_display, len(sorted_data))
         if fixture_events_option != None:
             for player in sorted_data:
-                fixture_data = player['fixtures'][fixture_option.lower()]
-                event_name = fixture_data.get(fixture_events_option, 'None')
-                quantity = fixture_data['events'][fixture_events_option]['Quantity']
-                points = fixture_data['events'][fixture_events_option]['Points']
-                player[fixture_events_option] = f'{quantity} ({points})'
+                fixture_data = player["fixtures"][fixture_option.lower()]
+                event_name = fixture_data.get(fixture_events_option, "None")
+                quantity = fixture_data["events"][fixture_events_option]["Quantity"]
+                points = fixture_data["events"][fixture_events_option]["Points"]
+                player[fixture_events_option] = f"{quantity} ({points})"
             df = pd.DataFrame(sorted_data[:num_players_to_display])
             df.index = range(1, len(df) + 1)
-            st.table(df[["name", "position", "team", "price", "points", fixture_events_option]])
+            st.table(
+                df[
+                    [
+                        "name",
+                        "position",
+                        "team",
+                        "price",
+                        "points",
+                        fixture_events_option,
+                    ]
+                ]
+            )
         else:
             df = pd.DataFrame(sorted_data[:num_players_to_display])
             df.index = range(1, len(df) + 1)

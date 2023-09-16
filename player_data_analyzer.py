@@ -56,7 +56,9 @@ class PlayersDataAnalyzer:
         # Return the count of qualifying players
         return qualifying_players
 
-    def get_total_players_by_fixture(self, fixture="all", event="Minutes Played"):
+    def get_total_players_by_fixture(self, fixture="all", event="Minutes Played", min_quantity=0):
+        if event == "Minutes Played" and min_quantity == 0:
+            min_quantity = 0.1
         if fixture == "all":
             return self.get_total_players()
         else:
@@ -65,7 +67,7 @@ class PlayersDataAnalyzer:
                 for player in position_data:
                     if fixture in player["fixtures"]:
                         fixture_data = player["fixtures"][fixture]
-                        if fixture_data["events"][event]["Quantity"] > 0:
+                        if fixture_data["events"][event]["Quantity"] >= min_quantity:
                             #update the points to the fixture points
                             player['points'] = player['fixtures'][fixture]['Points']
                             qualifying_players.append(player)

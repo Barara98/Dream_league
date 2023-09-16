@@ -2,7 +2,6 @@ from itertools import combinations
 import json
 import random
 import pulp
-import gurobipy
 
 class PlayersDataAnalyzer:
     def __init__(self, json_file_path):

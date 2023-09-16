@@ -5,7 +5,7 @@ from player_data_analyzer import PlayersDataAnalyzer
 json_file_path = 'all_players_data.json'
 analyzer = PlayersDataAnalyzer(json_file_path)
 
-def update_unique_teams(fixture_name):
+def find_unique_teams(fixture_name):
     file_name = f'best_teams/{fixture_name}.txt'
     
     try:
@@ -38,7 +38,7 @@ if __name__ == '__main__':
         sys.exit(1)
 
     fixture_name = sys.argv[1]
-    update_unique_teams(fixture_name)
+    find_unique_teams(fixture_name)
 
 #     for i in {1..1000}; do
 #     echo "Iteration: $i"

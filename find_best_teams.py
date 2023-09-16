@@ -1,36 +1,44 @@
 import sys
+import json
 from player_data_analyzer import PlayersDataAnalyzer
 
 # Create an instance of PlayersDataAnalyzer
 json_file_path = 'all_players_data.json'
 analyzer = PlayersDataAnalyzer(json_file_path)
 
-def find_unique_teams(fixture_name):
-    file_name = f'best_teams/{fixture_name}.txt'
-    
+def load_existing_teams(file_name):
     try:
-        # Try to open the file for reading
-        with open(file_name, 'r') as file:
-            unique_teams = [line.strip() for line in file]
+        with open(file_name, 'r', encoding='utf-8') as file:
+            return json.load(file)
     except FileNotFoundError:
-        # If the file doesn't exist, initialize with an empty list
-        unique_teams = [] 
+        return []
+
+
+def save_teams_to_json(file_name, teams):
+    with open(file_name, 'w') as file:
+        json.dump(teams, file, ensure_ascii=False, indent=4)
+
+def is_team_unique(teams, new_team):
+    # Check if the new team is unique by comparing player names
+    for team in teams:
+        if set(player['name'] for player in team) == set(player['name'] for player in new_team):
+            return False
+    return True
+
+def find_unique_teams(fixture_name):
+    file_name = f'best_teams/{fixture_name}.json'
+    existing_unique_teams = load_existing_teams(file_name)
 
     if fixture_name == 'all':
         team, _, _ = analyzer.find_best_team_lp()
     else:
         team, _, _ = analyzer.find_best_team_lp_by_fixture(fixture_name)
-    # Create a comma-separated string of player names
-    team_names = ', '.join(player['name'] for player in team)
 
-    if team_names in unique_teams:
-        print('Team already in the dictionary')
+    if is_team_unique(existing_unique_teams, team):
+        existing_unique_teams.append(team)
+        save_teams_to_json(file_name, existing_unique_teams)
     else:
-        unique_teams.append(team_names)
-
-    # Update the text file with unique teams
-    with open(file_name, 'w') as file:
-        file.write('\n'.join(unique_teams))
+        print('Team is already exists')
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
@@ -40,7 +48,10 @@ if __name__ == '__main__':
     fixture_name = sys.argv[1]
     find_unique_teams(fixture_name)
 
+
+
 #     for i in {1..1000}; do
 #     echo "Iteration: $i"
-#     python -u "/Users/shlomi/DreamLeague/find_best_teams.py" "fixture1"
+#     python -u "/Users/shlomi/DreamLeague/find_best_teams.py" "fixture2"
+#     python -u "/Users/shlomi/DreamLeague/find_best_teams.py" "all"
 # done

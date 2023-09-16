@@ -36,7 +36,7 @@ class DataUtility:
             "בישולים": "Assists",
             "פנדלים שגרם": "Penalties Caused",
             "לא ספג שערים": "Clean Sheets",
-            "פנדלים שנסחטו": "Penalties Saved",
+            "פנדלים שנסחטו": "Penalties Squeezed",
             "שערים": "Goals Scored",
             "שערים שספג": "Goals Conceded",
             "דקות משחק": "Minutes Played",
@@ -55,3 +55,21 @@ class DataUtility:
             "קשר": "MD",
             "חלוץ": "FW",
         }
+        self.events_list = [
+            "Minutes Played",
+            "Assists",
+            "Penalties Caused",
+            "Clean Sheets",
+            "Penalties Squeezed",
+            "Goals Scored",
+            "Goals Conceded",
+            "Starting Lineup",
+            "Own Goals",
+            "Penalties Missed",
+            "Penalties Stopped",
+            "Red Cards",
+            "Substituted In",
+            "Substituted Out",
+            "Yellow Cards",
+        ]
+        self.fixture_list = ["All", "Fixture1", "Fixture2"]

@@ -36,11 +36,18 @@ option = st.sidebar.selectbox(
 if option == "Total Players":
     st.sidebar.header("Options")
     type_option = st.sidebar.selectbox("Type by:", ["Minimum", "Equal"])
+    fixture_option = st.sidebar.selectbox("Fixtures:", data_utility.fixture_list)
+    fixture_events_option = None
+
+    player_data = fixture_option
+    if fixture_option != "All":
+        fixture_events_option = st.sidebar.selectbox("Fixtures Events:", data_utility.events_list)
+        player_data = analyzer.get_total_players_by_fixture(fixture_option.lower(), fixture_events_option)
 
     # Get player data from the Analyzer class based on type_option
     if type_option == "Minimum":
         points_input = st.sidebar.number_input(
-            "Filter by Minimum Points:", min_value=0, step=1
+            "Filter by Minimum Points:", min_value=-10, step=1, value=0
         )
         price_input_min = st.sidebar.number_input(
             "Filter by Minimum Price:", min_value=3, max_value=15, step=1
@@ -49,11 +56,11 @@ if option == "Total Players":
             "Filter by Maximum Price:", min_value=3, max_value=15, step=1, value=15
         )
         player_data = analyzer.get_total_players(
-            points_input, price_input_min, price_input_max, True
+            player_data, points_input, price_input_min, price_input_max, True
         )
     else:
         points_input = st.sidebar.number_input(
-            "Filter by Equal Points:", min_value=0, step=1
+            "Filter by Equal Points:", min_value=-10, step=1, value=0
         )
         price_input_min = st.sidebar.number_input(
             "Filter by Minimum Price:", min_value=3, max_value=15, step=1
@@ -62,7 +69,7 @@ if option == "Total Players":
             "Filter by Maximum Price:", min_value=3, max_value=15, step=1, value=15
         )
         player_data = analyzer.get_total_players(
-            points_input, price_input_min, price_input_max, False
+            player_data, points_input, price_input_min, price_input_max, False
         )
 
     sort_option = st.sidebar.selectbox(
@@ -130,9 +137,21 @@ if option == "Total Players":
 
         # Limit the displayed data based on the user's selection
         num_players_to_display = min(num_players_to_display, len(sorted_data))
-        df = pd.DataFrame(sorted_data[:num_players_to_display])
-        df.index = range(1, len(df) + 1)
-        st.table(df[["name", "position", "team", "price", "points"]])
+        if fixture_events_option != None:
+            for player in sorted_data:
+                fixture_data = player['fixtures'][fixture_option.lower()]
+                event_name = fixture_data.get(fixture_events_option, 'None')
+                quantity = fixture_data['events'][fixture_events_option]['Quantity']
+                points = fixture_data['events'][fixture_events_option]['Points']
+                player[fixture_events_option] = f'{quantity} ({points})'
+            df = pd.DataFrame(sorted_data[:num_players_to_display])
+            df.index = range(1, len(df) + 1)
+            st.table(df[["name", "position", "team", "price", "points", fixture_events_option]])
+        else:
+            df = pd.DataFrame(sorted_data[:num_players_to_display])
+            df.index = range(1, len(df) + 1)
+            st.table(df[["name", "position", "team", "price", "points"]])
+
     else:
         st.write("No players match the selected criteria.")
 

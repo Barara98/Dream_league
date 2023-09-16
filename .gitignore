@@ -11,3 +11,5 @@ scrapper.py
 
 # Ignore the players folder and its contents
 players/
+
+.DS_Store

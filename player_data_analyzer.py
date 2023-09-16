@@ -23,11 +23,21 @@ class PlayersDataAnalyzer:
         }
         self.max_players_per_team = 2
 
-    def get_total_players(self, points=0, min_price=3, max_price=15, min=True):
+    def get_total_players(
+        self, players_data="All", points=0, min_price=3, max_price=15, min=True
+    ):
+        if players_data == "All":
+            players_data = self.players_data.values()
+        else:
+            players = {"GK": [], "CB": [], "MD": [], "FW": []}
+            for player in players_data:
+                players[player["position"]].append(player)
+            players_data = players.values()
+
         if min:
             qualifying_players = [
                 player
-                for position_data in self.players_data.values()
+                for position_data in players_data
                 for player in position_data
                 if player["points"] >= points
                 and player["price"] >= min_price
@@ -36,9 +46,9 @@ class PlayersDataAnalyzer:
         else:
             qualifying_players = [
                 player
-                for position_data in self.players_data.values()
+                for position_data in players_data
                 for player in position_data
-                if player["points"] == points
+                if int(player["points"]) == points
                 and player["price"] >= min_price
                 and player["price"] <= max_price
             ]
@@ -46,7 +56,7 @@ class PlayersDataAnalyzer:
         # Return the count of qualifying players
         return qualifying_players
 
-    def get_total_players_by_fixture(self, fixture="all"):
+    def get_total_players_by_fixture(self, fixture="all", event="Minutes Played"):
         if fixture == "all":
             return self.get_total_players()
         else:
@@ -55,12 +65,9 @@ class PlayersDataAnalyzer:
                 for player in position_data:
                     if fixture in player["fixtures"]:
                         fixture_data = player["fixtures"][fixture]
-                        if (
-                            fixture_data.get("events")
-                            .get("Minutes Played")
-                            .get("Quantity")
-                            > 0
-                        ):
+                        if fixture_data["events"][event]["Quantity"] > 0:
+                            #update the points to the fixture points
+                            player['points'] = player['fixtures'][fixture]['Points']
                             qualifying_players.append(player)
             return qualifying_players
 
@@ -305,17 +312,18 @@ class PlayersDataAnalyzer:
 
 
 # Create an instance of PlayersDataAnalyzer
-# json_file_path = 'all_players_data.json'  # Replace with your JSON file path
-# analyzer = PlayersDataAnalyzer(json_file_path)
+json_file_path = "all_players_data.json"  # Replace with your JSON file path
+analyzer = PlayersDataAnalyzer(json_file_path)
 
-# # Test the get_total_players method
-# total_players = analyzer.get_total_players()
-# print(f'Total Players: {len(total_players)}')
+# Test the get_total_players method
+total_players = analyzer.get_total_players()
+print(f"Total Players: {len(total_players)}")
 
-# total_players = analyzer.get_total_players_by_fixture('fixture1')
-# print(f'Total Players in fixture 1: {len(total_players)}')
-# for player in total_players:
-#     print(player['name'])
+total_players = analyzer.get_total_players_by_fixture("fixture1", "Goals Scored")
+total_players = analyzer.get_total_players(total_players)
+print(f"Total Players in fixture 1: {len(total_players)}")
+for player in total_players:
+    print(player["name"])
 
 
 # # Test the get_total_points_by_position method

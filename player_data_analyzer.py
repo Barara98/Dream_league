@@ -2,7 +2,7 @@ from itertools import combinations
 import json
 import random
 import pulp
-
+import gurobipy
 
 class PlayersDataAnalyzer:
     def __init__(self, json_file_path):
@@ -45,9 +45,7 @@ class PlayersDataAnalyzer:
                         fixture_data = player['fixtures'][fixture]
                         if fixture_data.get('events').get('Minutes Played').get('Quantity') > 0:
                             qualifying_players.append(player)
-            return qualifying_players
-    
-
+            return qualifying_players 
 
     def get_total_points_by_position(self):
         total_points_by_position = {}
@@ -158,7 +156,8 @@ class PlayersDataAnalyzer:
         prob += pulp.lpSum(player_vars.values()) == 11
 
         # Solve the LP problem
-        prob.solve()
+        prob.solve(pulp.PULP_CBC_CMD(msg=False))
+
 
         # Extract the selected players as objects
         best_team = [player for position_players in self.players_data.values() for player in position_players if pulp.value(player_vars[player['name']]) == 1]
@@ -196,7 +195,7 @@ class PlayersDataAnalyzer:
         prob += pulp.lpSum(player_vars.values()) == 11
 
         # Solve the LP problem
-        prob.solve()
+        prob.solve(pulp.PULP_CBC_CMD(msg=False))
 
         # Extract the selected players as objects
         best_team = [player for player in player_list if pulp.value(player_vars[player['name']]) == 1]
@@ -210,19 +209,20 @@ class PlayersDataAnalyzer:
             player['points'] = player['fixtures'][fixture]['Points']
 
         return best_team, total_points, total_cost
+   
 
 # Create an instance of PlayersDataAnalyzer
-json_file_path = 'all_players_data.json'  # Replace with your JSON file path
-analyzer = PlayersDataAnalyzer(json_file_path)
+# json_file_path = 'all_players_data.json'  # Replace with your JSON file path
+# analyzer = PlayersDataAnalyzer(json_file_path)
 
-# Test the get_total_players method
-total_players = analyzer.get_total_players()
-print(f'Total Players: {len(total_players)}')
+# # Test the get_total_players method
+# total_players = analyzer.get_total_players()
+# print(f'Total Players: {len(total_players)}')
 
-total_players = analyzer.get_total_players_by_fixture('fixture1')
-print(f'Total Players in fixture 1: {len(total_players)}')
-for player in total_players:
-    print(player['name'])
+# total_players = analyzer.get_total_players_by_fixture('fixture1')
+# print(f'Total Players in fixture 1: {len(total_players)}')
+# for player in total_players:
+#     print(player['name'])
 
 
 # # Test the get_total_points_by_position method
@@ -247,10 +247,10 @@ for player in total_players:
 # print(f"Total Points: {best_points}")
 # print(f"Total Cost: {total_cost}")
 
-fixture = 'fixture2'
-best_team, best_points, total_cost = analyzer.find_best_team_lp_by_fixture(fixture)
-print("Best Team:")
-for player in best_team:
-    print(f"{player['name']} ({player['position']}) - {player['team']} - Price: {player['price']} - Points: {player['points']}")
-print(f"Total Points: {best_points}")
-print(f"Total Cost: {total_cost}")
+# fixture = 'fixture2'
+# best_team, best_points, total_cost = analyzer.find_best_team_lp_by_fixture(fixture)
+# print("Best Team:")
+# for player in best_team:
+#     print(f"{player['name']} ({player['position']}) - {player['team']} - Price: {player['price']} - Points: {player['points']}")
+# print(f"Total Points: {best_points}")
+# print(f"Total Cost: {total_cost}")

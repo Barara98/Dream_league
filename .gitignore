@@ -10,6 +10,6 @@ __pycache__/
 scrapper.py
 
 # Ignore the players folder and its contents
-players/
+data/
 
 .DS_Store

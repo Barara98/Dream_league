@@ -1,7 +1,10 @@
-from itertools import combinations
 import json
 import random
 import pulp
+
+from playerDB import PlayerDataDB
+
+db = PlayerDataDB("player_data.db")
 
 
 class PlayersDataAnalyzer:
@@ -56,8 +59,10 @@ class PlayersDataAnalyzer:
         # Return the count of qualifying players
         return qualifying_players
 
-    def get_total_players_by_fixture(self, fixture="all", event="Minutes Played", min_quantity=0):
-        if event == "Minutes Played" and min_quantity == 0:
+    def get_total_players_by_fixture(
+        self, fixture="all", event="Minutes Played", min_quantity=0
+    ):
+        if event == "Minutes Played" or "Assist" and min_quantity == 0:
             min_quantity = 0.1
         if fixture == "all":
             return self.get_total_players()
@@ -68,10 +73,15 @@ class PlayersDataAnalyzer:
                     if fixture in player["fixtures"]:
                         fixture_data = player["fixtures"][fixture]
                         if fixture_data["events"][event]["Quantity"] >= min_quantity:
-                            #update the points to the fixture points
-                            player['points'] = player['fixtures'][fixture]['Points']
+                            # update the points to the fixture points
+                            player["points"] = player["fixtures"][fixture]["Points"]
                             qualifying_players.append(player)
             return qualifying_players
+
+    def get_players_by_fixture(self, fixture_name):
+        # Modify this method to retrieve players from your JSON data
+        players_data = self.players_data.get(fixture_name, [])
+        return players_data
 
     def get_total_points_by_position(self):
         total_points_by_position = {}
@@ -152,90 +162,8 @@ class PlayersDataAnalyzer:
             for player in players:
                 print(f"- {player['name']} ({player['team']})")
 
-    def find_best_team_lp(self):
-        # Create a linear programming problem
-        prob = pulp.LpProblem("FantasyFootball", pulp.LpMaximize)
-
-        # Define variables: binary variables for player selection
-        player_vars = {
-            player["name"]: pulp.LpVariable(player["name"], cat=pulp.LpBinary)
-            for position_players in self.players_data.values()
-            for player in position_players
-        }
-
-        # Objective function: maximize total points
-
-        prob += pulp.lpSum(
-            player["points"] * player_vars[player["name"]]
-            for position_players in self.players_data.values()
-            for player in position_players
-        )
-
-        # Budget constraint
-        prob += (
-            pulp.lpSum(
-                player["price"] * player_vars[player["name"]]
-                for position_players in self.players_data.values()
-                for player in position_players
-            )
-            <= self.budget
-        )
-
-        # Position constraints
-        for position, (min_count, max_count) in self.position_constraints.items():
-            prob += (
-                pulp.lpSum(
-                    player_vars[player["name"]]
-                    for player in self.players_data[position]
-                )
-                >= min_count
-            )
-            prob += (
-                pulp.lpSum(
-                    player_vars[player["name"]]
-                    for player in self.players_data[position]
-                )
-                <= max_count
-            )
-
-        # Max 2 players from the same team constraint
-        for team in set(
-            player["team"]
-            for position_players in self.players_data.values()
-            for player in position_players
-        ):
-            prob += (
-                pulp.lpSum(
-                    player_vars[player["name"]]
-                    for position_players in self.players_data.values()
-                    for player in position_players
-                    if player["team"] == team
-                )
-                <= self.max_players_per_team
-            )
-
-        # Exactly 11 players constraint
-        prob += pulp.lpSum(player_vars.values()) == 11
-
-        # Solve the LP problem
-        prob.solve(pulp.PULP_CBC_CMD(msg=False))
-
-        # Extract the selected players as objects
-        best_team = [
-            player
-            for position_players in self.players_data.values()
-            for player in position_players
-            if pulp.value(player_vars[player["name"]]) == 1
-        ]
-
-        # Calculate total points
-        total_points = pulp.value(prob.objective)
-        total_cost = sum(player["price"] for player in best_team)
-
-        return best_team, total_points, total_cost
-
     def find_best_team_lp_by_fixture(self, fixture="fixture1"):
-        player_list = self.get_total_players_by_fixture(fixture)
+        player_list = db.get_players_by_fixture(fixture)
         # Create a linear programming problem
         prob = pulp.LpProblem("FantasyFootball", pulp.LpMaximize)
 
@@ -247,8 +175,7 @@ class PlayersDataAnalyzer:
 
         # Objective function: maximize total points
         prob += pulp.lpSum(
-            player["fixtures"][fixture]["Points"] * player_vars[player["name"]]
-            for player in player_list
+            player["points"] * player_vars[player["name"]] for player in player_list
         )
 
         # Budget constraint
@@ -306,26 +233,200 @@ class PlayersDataAnalyzer:
         total_points = pulp.value(prob.objective)
         total_cost = sum(player["price"] for player in best_team)
 
-        # Update points to fixture points
-        for player in best_team:
-            player["points"] = player["fixtures"][fixture]["Points"]
+        return best_team, total_points, total_cost
+
+    def find_best_team_lp(self):
+        players_data = db.get_all_players()
+        # Create a linear programming problem
+        prob = pulp.LpProblem("FantasyFootball", pulp.LpMaximize)
+
+        # Define variables: binary variables for player selection
+        player_vars = {
+            player_data["name"]: pulp.LpVariable(player_data["name"], cat=pulp.LpBinary)
+            for player_data in players_data
+        }
+
+        # Objective function: maximize total points
+        prob += pulp.lpSum(
+            player_data["points"] * player_vars[player_data["name"]]
+            for player_data in players_data
+        )
+
+        # Budget constraint
+        prob += (
+            pulp.lpSum(
+                player_data["price"] * player_vars[player_data["name"]]
+                for player_data in players_data
+            )
+            <= self.budget
+        )
+
+        # Position constraints
+        for position, (min_count, max_count) in self.position_constraints.items():
+            prob += (
+                pulp.lpSum(
+                    player_vars[player_data["name"]]
+                    for player_data in players_data
+                    if player_data["position"] == position
+                )
+                >= min_count
+            )
+            prob += (
+                pulp.lpSum(
+                    player_vars[player_data["name"]]
+                    for player_data in players_data
+                    if player_data["position"] == position
+                )
+                <= max_count
+            )
+
+        # Max 2 players from the same team constraint
+        teams = set(player_data["team"] for player_data in players_data)
+        for team in teams:
+            prob += (
+                pulp.lpSum(
+                    player_vars[player_data["name"]]
+                    for player_data in players_data
+                    if player_data["team"] == team
+                )
+                <= self.max_players_per_team
+            )
+
+        # Exactly 11 players constraint
+        prob += pulp.lpSum(player_vars.values()) == 11
+
+        # Solve the LP problem
+        prob.solve(pulp.PULP_CBC_CMD(msg=False))
+
+        # Extract the selected players as objects
+        best_team = [
+            player_data
+            for player_data in players_data
+            if pulp.value(player_vars[player_data["name"]]) == 1
+        ]
+
+        # Calculate total points and total cost
+        total_points = pulp.value(prob.objective)
+        total_cost = sum(player_data["price"] for player_data in best_team)
 
         return best_team, total_points, total_cost
 
+    def find_best_team_stars(self, players_data):
+        # Create a linear programming problem
+        prob = pulp.LpProblem("FantasyFootball", pulp.LpMaximize)
 
-# Create an instance of PlayersDataAnalyzer
-json_file_path = "all_players_data.json"  # Replace with your JSON file path
-analyzer = PlayersDataAnalyzer(json_file_path)
+        # Define variables: binary variables for player selection
+        player_vars = {
+            player_data["name"]: pulp.LpVariable(player_data["name"], cat=pulp.LpBinary)
+            for player_data in players_data
+        }
 
-# Test the get_total_players method
-total_players = analyzer.get_total_players()
-print(f"Total Players: {len(total_players)}")
+        # Objective function: maximize total points
+        prob += pulp.lpSum(
+            player_data["stars"] * player_vars[player_data["name"]]
+            for player_data in players_data
+        )
 
-total_players = analyzer.get_total_players_by_fixture("fixture1", "Goals Scored")
-total_players = analyzer.get_total_players(total_players)
-print(f"Total Players in fixture 1: {len(total_players)}")
-for player in total_players:
-    print(player["name"])
+        # Budget constraint
+        prob += (
+            pulp.lpSum(
+                player_data["price"] * player_vars[player_data["name"]]
+                for player_data in players_data
+            )
+            <= self.budget
+        )
+
+        # Position constraints
+        for position, (min_count, max_count) in self.position_constraints.items():
+            prob += (
+                pulp.lpSum(
+                    player_vars[player_data["name"]]
+                    for player_data in players_data
+                    if player_data["position"] == position
+                )
+                >= min_count
+            )
+            prob += (
+                pulp.lpSum(
+                    player_vars[player_data["name"]]
+                    for player_data in players_data
+                    if player_data["position"] == position
+                )
+                <= max_count
+            )
+
+        # Max 2 players from the same team constraint
+        teams = set(player_data["team"] for player_data in players_data)
+        for team in teams:
+            prob += (
+                pulp.lpSum(
+                    player_vars[player_data["name"]]
+                    for player_data in players_data
+                    if player_data["team"] == team
+                )
+                <= self.max_players_per_team
+            )
+
+        # Exactly 11 players constraint
+        prob += pulp.lpSum(player_vars.values()) == 11
+
+        # Solve the LP problem
+        prob.solve(pulp.PULP_CBC_CMD(msg=False))
+
+        # Extract the selected players as objects
+        best_team = [
+            player_data
+            for player_data in players_data
+            if pulp.value(player_vars[player_data["name"]]) == 1
+        ]
+
+        # Calculate total points and total cost
+        total_points = sum(player_data["points"] for player_data in best_team)
+        total_cost = sum(player_data["price"] for player_data in best_team)
+        total_stars = sum(player_data["stars"] for player_data in best_team)
+
+        return best_team, total_points, total_cost, total_stars
+
+    def get_attackers_by_team(self, team_name):
+        attackers = []
+        for category_data in self.players_data.values():
+            for player in category_data:
+                if (
+                    player["position"] in ["FW", "MD"]
+                    and player["team"] == team_name
+                    and player["injury"] == False
+                    and player["stars"] > 2
+                ):
+                    attackers.append(player)
+        return attackers
+
+    def get_defenders_by_team(self, team_name):
+        defenders = []
+        for category_data in self.players_data.values():
+            for player in category_data:
+                if (
+                    player["position"] in ["CB", "GK"]
+                    and player["team"] == team_name
+                    and player["injury"] == False
+                    and player["stars"] > 2
+                ):
+                    defenders.append(player)
+        return defenders
+
+
+# # Create an instance of PlayersDataAnalyzer
+# json_file_path = "all_players_data.json"  # Replace with your JSON file path
+# analyzer = PlayersDataAnalyzer(json_file_path)
+
+# # Test the get_total_players method
+# total_players = analyzer.get_total_players()
+# print(f"Total Players: {len(total_players)}")
+
+# total_players = analyzer.get_total_players_by_fixture("fixture1", "Goals Scored")
+# total_players = analyzer.get_total_players(total_players)
+# print(f"Total Players in fixture 1: {len(total_players)}")
+# for player in total_players:
+#     print(player["name"])
 
 
 # # Test the get_total_points_by_position method

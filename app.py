@@ -22,7 +22,7 @@ def sort_players(player_data, sort_option):
 
 
 # Create an instance of PlayersDataAnalyzer
-json_file_path = "all_players_data.json"
+json_file_path = "data/all_players_data.json"
 analyzer = PlayersDataAnalyzer(json_file_path)
 
 # Streamlit app
@@ -103,7 +103,6 @@ if option == "Total Players":
     ]
 
     num_players_to_display = len(filtered_data)
-    print(num_players_to_display)
 
     col1, col2, col3 = st.sidebar.columns(3)
 
@@ -199,7 +198,6 @@ elif option == "Best Team":
         fixture_option = st.sidebar.selectbox(
             "Select Fixture:", ["Fixture1", "Fixture2"]
         )
-        print(fixture_option)
         best_team, total_points, total_cost = analyzer.find_best_team_lp_by_fixture(
             fixture_option.lower()
         )

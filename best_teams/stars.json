@@ -1,0 +1,2432 @@
+[
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "נדב נידם",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 5,
+            "points": 9,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אופק ביטון",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 7,
+            "points": 10,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "צ`ארון שרי",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 14,
+            "points": 5,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "גיא דזנט",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 3,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "פרד פריידיי",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 11,
+            "points": 1,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אופק ביטון",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 7,
+            "points": 10,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "תומר אלטמן",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 6,
+            "points": 4,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "צ`ארון שרי",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 14,
+            "points": 5,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "הדר פוקס",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 5,
+            "points": 2,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "גיא דזנט",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 3,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ערן זהבי",
+            "position": "FW",
+            "team": "מכבי תל אביב",
+            "price": 15,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "אופק ביטון",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 7,
+            "points": 10,
+            "stars": 3
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "רז כרמי",
+            "position": "GK",
+            "team": "מכבי נתניה",
+            "price": 6,
+            "points": 0,
+            "stars": 4
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "מואיז אדילהו",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 6,
+            "points": 2,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "גיא דזנט",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 3,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "צ`ארון שרי",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 14,
+            "points": 5,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "נדב נידם",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 5,
+            "points": 9,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "נדב נידם",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 5,
+            "points": 9,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "פרד פריידיי",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 11,
+            "points": 1,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "תומר אלטמן",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 6,
+            "points": 4,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "פרד פריידיי",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 11,
+            "points": 1,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "גיא דזנט",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 3,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "ירדן כהן",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 6,
+            "points": 3,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "צ`ארון שרי",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 14,
+            "points": 5,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "גיא דזנט",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 3,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ערן זהבי",
+            "position": "FW",
+            "team": "מכבי תל אביב",
+            "price": 15,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "נדב נידם",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 5,
+            "points": 9,
+            "stars": 3
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "רז כרמי",
+            "position": "GK",
+            "team": "מכבי נתניה",
+            "price": 6,
+            "points": 0,
+            "stars": 4
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ערן זהבי",
+            "position": "FW",
+            "team": "מכבי תל אביב",
+            "price": 15,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "נדב נידם",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 5,
+            "points": 9,
+            "stars": 3
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "רז כרמי",
+            "position": "GK",
+            "team": "מכבי נתניה",
+            "price": 6,
+            "points": 0,
+            "stars": 4
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "תומר אלטמן",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 6,
+            "points": 4,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "פרד פריידיי",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 11,
+            "points": 1,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "נדב נידם",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 5,
+            "points": 9,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "הדר פוקס",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 5,
+            "points": 2,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ערן זהבי",
+            "position": "FW",
+            "team": "מכבי תל אביב",
+            "price": 15,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "תומר אלטמן",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 6,
+            "points": 4,
+            "stars": 3
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "רז כרמי",
+            "position": "GK",
+            "team": "מכבי נתניה",
+            "price": 6,
+            "points": 0,
+            "stars": 4
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "הדר פוקס",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 5,
+            "points": 2,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "מוחמד הינדי",
+            "position": "CB",
+            "team": "מכבי פתח תקווה",
+            "price": 6,
+            "points": 9,
+            "stars": 3
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "מתן חוזז",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 8,
+            "points": 4,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "מיירון ג`ורג`",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 9,
+            "points": 11,
+            "stars": 4
+        },
+        {
+            "name": "דולב חזיזה",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 13,
+            "points": 1,
+            "stars": 5
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 2,
+            "stars": 4
+        },
+        {
+            "name": "נדב נידם",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 5,
+            "points": 9,
+            "stars": 3
+        },
+        {
+            "name": "אורלנדו מוסקרה",
+            "position": "GK",
+            "team": "מכבי תל אביב",
+            "price": 8,
+            "points": 0,
+            "stars": 5
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        }
+    ],
+    [
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ערן זהבי",
+            "position": "FW",
+            "team": "מכבי תל אביב",
+            "price": 15,
+            "points": 15,
+            "stars": 5
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 10,
+            "stars": 5
+        },
+        {
+            "name": "פרד פריידיי",
+            "position": "FW",
+            "team": "בית\"ר ירושלים",
+            "price": 11,
+            "points": 1,
+            "stars": 4
+        },
+        {
+            "name": "סטניסלב בילנקי",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 5,
+            "stars": 4
+        },
+        {
+            "name": "נדב נידם",
+            "position": "MD",
+            "team": "הפועל ירושלים",
+            "price": 5,
+            "points": 9,
+            "stars": 3
+        },
+        {
+            "name": "פייר קורנו",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 10,
+            "points": 2,
+            "stars": 5
+        },
+        {
+            "name": "עבדולאי סק",
+            "position": "CB",
+            "team": "מכבי חיפה",
+            "price": 9,
+            "points": 8,
+            "stars": 5
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 13,
+            "stars": 5
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 14,
+            "stars": 5
+        },
+        {
+            "name": "רז כרמי",
+            "position": "GK",
+            "team": "מכבי נתניה",
+            "price": 6,
+            "points": 0,
+            "stars": 4
+        }
+    ]
+]

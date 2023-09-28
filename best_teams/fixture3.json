@@ -1,0 +1,5492 @@
+[
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורן ביטון",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור ישראלוב",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 6,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בן ביטון",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור בלוריאן",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור ישראלוב",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 6,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורי דהן",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בן ביטון",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "פרנן מאיימבו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורי דהן",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "ג`ורג` דיבה",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור ישראלוב",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 6,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור בלוריאן",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "דניס פוליאקוב",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אלון אזוגי",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור בלוריאן",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "ג`ורג` דיבה",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור בלוריאן",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורי דהן",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "פרנן מאיימבו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורן ביטון",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורן ביטון",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אלון אזוגי",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "גרגורי מורוזוב",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור ישראלוב",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 6,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אלון אזוגי",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור בלוריאן",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "פרנן מאיימבו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורן ביטון",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורן ביטון",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "פרנן מאיימבו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור ישראלוב",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 6,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורי דהן",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור בלוריאן",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "דניס פוליאקוב",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בן ביטון",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אורן ביטון",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אור ישראלוב",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 6,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "דניס פוליאקוב",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אלון אזוגי",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אלון אזוגי",
+            "position": "CB",
+            "team": "הפועל תל אביב",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "ינון אליהו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "ג`ורג` דיבה",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "ג`ורג` דיבה",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "גרגורי מורוזוב",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "ינון אליהו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "ג`ורג` דיבה",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 5,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "פרנן מאיימבו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "מיגל ויטור",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 9,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "ינון אליהו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "מיגל סילבה",
+            "position": "GK",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "פרנן מאיימבו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בן ביטון",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "הלדר לופס",
+            "position": "CB",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "גרגורי מורוזוב",
+            "position": "CB",
+            "team": "בית\"ר ירושלים",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "ינון אליהו",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "טל בן חיים",
+            "position": "MD",
+            "team": "מכבי פתח תקווה",
+            "price": 9,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "אופיר מרציאנו",
+            "position": "GK",
+            "team": "הפועל באר שבע",
+            "price": 8,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "דניס פוליאקוב",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ],
+    [
+        {
+            "name": "יואב ג`ראפי",
+            "position": "GK",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "בר נאווי",
+            "position": "CB",
+            "team": "הפועל פתח תקווה",
+            "price": 5,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "אביב סולומון",
+            "position": "CB",
+            "team": "בני סכנין",
+            "price": 6,
+            "points": 12,
+            "stars": 0
+        },
+        {
+            "name": "דניס פוליאקוב",
+            "position": "CB",
+            "team": "הפועל חיפה",
+            "price": 7,
+            "points": 6,
+            "stars": 0
+        },
+        {
+            "name": "לירן רוטמן",
+            "position": "MD",
+            "team": "מכבי נתניה",
+            "price": 9,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "פליסיו מילסון",
+            "position": "MD",
+            "team": "מכבי תל אביב",
+            "price": 13,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "דיא סבע",
+            "position": "MD",
+            "team": "מכבי חיפה",
+            "price": 15,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "ירדן שועה",
+            "position": "MD",
+            "team": "בית\"ר ירושלים",
+            "price": 13,
+            "points": 8,
+            "stars": 0
+        },
+        {
+            "name": "סאהר תאג`י",
+            "position": "MD",
+            "team": "בני סכנין",
+            "price": 5,
+            "points": 10,
+            "stars": 0
+        },
+        {
+            "name": "אנס מחמיד",
+            "position": "FW",
+            "team": "מכבי פתח תקווה",
+            "price": 4,
+            "points": 7,
+            "stars": 0
+        },
+        {
+            "name": "איגור זלטאנוביץ`",
+            "position": "FW",
+            "team": "מכבי נתניה",
+            "price": 11,
+            "points": 8,
+            "stars": 0
+        }
+    ]
+]

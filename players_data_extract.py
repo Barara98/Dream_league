@@ -80,6 +80,8 @@ def extract_player_profile(html_file_path):
         .replace("מחיר ", "")
         .replace("M", "")
     )
+    injury_icon = soup.find("img", alt="פצוע")
+    injury = True if injury_icon is not None else False
 
     player_position = data_utility.position_mapping.get(
         player_position, player_position
@@ -95,14 +97,16 @@ def extract_player_profile(html_file_path):
         "team": player_team,
         "price": player_price,
         "points": player_points,
-        "fixtures": {},  # You can populate this with fixture data as needed
+        "stars": 0, 
+        "injury": injury,
+        "fixtures": {}
     }
 
     return player_object
 
 
 def process_player_folders(root_directory):
-    all_players_data = {"GK": [], "CB": [], "MD": [], "FW": []}
+    all_players_data = {}
     # Iterate over player(number) folders
     for player_folder in os.listdir(root_directory):
         player_folder_path = os.path.join(root_directory, player_folder)
@@ -130,10 +134,12 @@ def process_player_folders(root_directory):
                     fixture_name = os.path.splitext(fixture_file)[0]
                     fixture = fixture_data(fixture_file_path)
                     player_data["fixtures"][fixture_name] = fixture
-
+                    
+            if player_data["position"] not in all_players_data:
+                all_players_data[player_data["position"]] = []
             all_players_data[player_data["position"]].append(player_data)
 
-    file_path = "all_players_data.json"
+    file_path = "all_players_data_fixture4.json"
 
     # Write the player data to the JSON file
     with open(file_path, "w", encoding="utf-8") as json_file:
@@ -148,7 +154,7 @@ def process_player_folders(root_directory):
 
 
 # Define the root directory
-root_directory = "players"
+root_directory = "players_fixture4/"
 
 # Call the function to process player folders
 process_player_folders(root_directory)

@@ -16,19 +16,21 @@ chrome_options = Options()
 chrome_options.add_argument("--disable-extensions")
 # chrome_options.add_argument('--headless')  # Add this line if you want to run in headless mode (without a visible browser window)
 # Replace with the actual path to your Chrome binary if needed
-chrome_options.binary_location = (
-    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-)
+# chrome_options.binary_location = (
+#     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+# )
 
 # Create the WebDriver instance
 driver = webdriver.Chrome(options=chrome_options)
+driver.maximize_window()
 
 try:
     # Now you can navigate to a webpage and interact with it using driver
     driver.get("https://dreamteam.sport5.co.il/my-team")
 
     # Find the anchor element with href="/login" by its XPath
-    login_link = driver.find_element(By.XPATH, '//a[contains(@href, "/login")]')
+    login_link = driver.find_element(
+        By.XPATH, '//a[contains(@href, "/login")]')
 
     # Click the login link
     login_link.click()
@@ -52,11 +54,12 @@ try:
     password_input = driver.find_element(By.NAME, "password")
 
     # Enter your email and password
-    email_input.send_keys(os.environ.get("USERNAME"))
+    email_input.send_keys(os.environ.get("USERNAME1"))
     password_input.send_keys(os.environ.get("PASSWORD"))
 
     # Find the "התחבר" (Login) button by its text and click it
-    login_button = driver.find_element(By.XPATH, '//button[contains(text(), "התחבר")]')
+    login_button = driver.find_element(
+        By.XPATH, '//button[contains(text(), "התחבר")]')
     login_button.click()
 
     # Sleep for a few seconds to allow the login process to complete
@@ -72,7 +75,8 @@ try:
     time.sleep(0.5)
 
     # Find the "הכל" (All) button by its label text
-    all_button = driver.find_element(By.XPATH, '//label[contains(text(), "הכל")]')
+    all_button = driver.find_element(
+        By.XPATH, '//label[contains(text(), "הכל")]')
 
     # Click the "הכל" button
     all_button.click()
@@ -152,7 +156,8 @@ try:
                     # Create an HTML string to represent the table with all 'tr' elements
                     table_stats_html = "<table>"
                     for table_stat in table_stats:
-                        table_stats_html += table_stat.get_attribute("outerHTML")
+                        table_stats_html += table_stat.get_attribute(
+                            "outerHTML")
                     table_stats_html += "</table>"
 
                     # Write the table stats HTML to the fixture HTML file

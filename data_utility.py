@@ -192,74 +192,6 @@ class DataUtility:
                 ("הפועל פתח תקווה", "הפועל ירושלים"),
             ],
         }
-        self.cl_teams_translator = {
-            "ברצלונה": "FC Barcelona",
-            "קופנהאגן": "F.C. Copenhagen",
-            "אוניון ברלין": "1. FC Union Berlin",
-            "אנטוורפן": "Royal Antwerp FC",
-            "פ.ס.וו איינדהובן": "PSV Eindhoven",
-            "מילאן": "AC Milan",
-            "פיינורד": "Feyenoord",
-            "ריאל סוסיאדד": "Real Sociedad",
-            "לייפציג": "RB Leipzig",
-            "הכוכב האדום": "FK Crvena zvezda",
-            "יאנג בויז": "BSC Young Boys",
-            "זלצבורג": "FC Salzburg",
-            "לאנס": "RC Lens",
-            "בורוסיה דורטמונד": "Borussia Dortmund",
-            "סביליה": "Sevilla FC",
-            "בנפיקה": "SL Benfica",
-            "אתלטיקו מדריד": "Club Atlético de Madrid",
-            "אינטר": "FC Internazionale Milano",
-            "נאפולי": "SSC Napoli",
-            "בראגה": "SC Braga",
-            "ארסנל": "Arsenal FC",
-            "מנצ`סטר סיטי": "Manchester City",
-            "מנצ`סטר יונייטד": "Manchester United",
-            "שחטאר דונייצק": "FC Shakhtar Donetsk",
-            "גלאטסראיי": "Galatasaray A.Ş.",
-            "באיירן מינכן": "FC Bayern München",
-            "סלטיק": "Celtic FC",
-            "לאציו": "S.S. Lazio",
-            "ניוקאסל": "Newcastle United FC",
-            "ריאל מדריד": "Real Madrid CF",
-            "פורטו": "FC Porto",
-            "פ.ס.ז`": "Paris Saint-Germain",
-        }
-        self.cl_teams_translator2 = {
-            "FC Barcelona": "ברצלונה",
-            "F.C. Copenhagen": "קופנהאגן",
-            "1. FC Union Berlin": "אוניון ברלין",
-            "Royal Antwerp FC": "אנטוורפן",
-            "PSV Eindhoven": "פ.ס.וו איינדהובן",
-            "AC Milan": "מילאן",
-            "Feyenoord": "פיינורד",
-            "Real Sociedad": "ריאל סוסיאדד",
-            "RB Leipzig": "לייפציג",
-            "FK Crvena zvezda": "הכוכב האדום",
-            "BSC Young Boys": "יאנג בויז",
-            "FC Salzburg": "זלצבורג",
-            "RC Lens": "לאנס",
-            "Borussia Dortmund": "בורוסיה דורטמונד",
-            "Sevilla FC": "סביליה",
-            "SL Benfica": "בנפיקה",
-            "Club Atlético de Madrid": "אתלטיקו מדריד",
-            "FC Internazionale Milano": "אינטר",
-            "SSC Napoli": "נאפולי",
-            "SC Braga": "בראגה",
-            "Arsenal FC": "ארסנל",
-            "Manchester City": "מנצ`סטר סיטי",
-            "Manchester United": "מנצ`סטר יונייטד",
-            "FC Shakhtar Donetsk": "שחטאר דונייצק",
-            "Galatasaray A.Ş.": "גלאטסראיי",
-            "FC Bayern München": "באיירן מינכן",
-            "Celtic FC": "סלטיק",
-            "S.S. Lazio": "לאציו",
-            "Newcastle United FC": "ניוקאסל",
-            "Real Madrid CF": "ריאל מדריד",
-            "FC Porto": "פורטו",
-            "Paris Saint-Germain": "פ.ס.ז`",
-        }
         self.event_weights = {
             "Minutes Played": 0.2,
             "Assists": 3,
@@ -277,27 +209,3 @@ class DataUtility:
             "Substituted Out": -0.5,
             "Yellow Cards": -1,
         }
-
-    # def set_team_attributes(self, team_dict):
-    #     for team_name in team_dict.keys():
-    #         print(f"Enter attributes for team: {team_name}")
-    #         overall = float(input("Overall rating: "))
-    #         attack = float(input("Attack rating: "))
-    #         defend = float(input("Defend rating: "))
-
-    #         # Update the team attributes in the dictionary
-    #         team_dict[team_name]["overall"] = overall
-    #         team_dict[team_name]["attack"] = attack
-    #         team_dict[team_name]["defend"] = defend
-
-    #     return team_dict
-
-
-# dt = DataUtility()
-
-# team_dict = {
-#     team_name: {"overall": 0, "attack": 0, "defend": 0}
-#     for team_name in dt.full_team_name_list
-# }
-# team_dict = dt.set_team_attributes(team_dict)
-# print(team_dict)

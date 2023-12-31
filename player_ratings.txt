@@ -1,425 +1,434 @@
-name	predicted_rating
-Χ Χ™Χ‘ ΧΧ ΧΧΧ	
-ΧΆΧΧ™Χª ΧΧ©Χ™Χ—	
-ΧΧ¨Χ§Χ• Χ•Χ•ΧΧ£	
-ΧΧ“ΧΧΧ™Χ™ ΧΧ“Χ‘ΧΧ™Χ•	
-Χ Χ“Χ‘ Χ–ΧΧ™Χ¨	
-Χ©Χ’Χ™Χ Χ”Χ¨ΧΧ	
-ΧΆΧ•ΧΧ¨ Χ›Χ¥	
-Χ¨Χ•ΧΆΧ™ ΧΧ©Χ¤ΧªΧ™	
-ΧΧ™ΧªΧΧ¨ Χ Χ™Χ¦Χ	
-Χ’Χ“ ΧΆΧΧ•Χ΅	
-Χ¨Χ•ΧΆΧ™ Χ¤Χ•Χ§Χ΅	
-ΧΧ™Χ’Χ Χ΅Χ™ΧΧ‘Χ”	
-ΧΧ”Χ¨ΧΧ Χ’ΧΧ“Χ™Χ¨	
-Χ¨Χ– Χ›Χ¨ΧΧ™	
-ΧªΧ•ΧΧ¨ ΧΧΧ•Χ	
-ΧΧ•Χ¤Χ™Χ¨ ΧΧ¨Χ¦Χ™ΧΧ Χ•	
-Χ¨Χ•Χ‘Χ™ ΧΧ‘Χ§Χ•Χ‘Χ™Χ¥`	
-ΧΧ¨Χ™ΧΧ Χ”Χ¨Χ•Χ©	
-Χ“Χ Χ™ΧΧ Χ¦Χ“Χ™Χ§	
-Χ’Χ™Χ Χ”Χ¨ΧΧ	
-Χ™Χ•ΧΧ‘ ΧΧ¨Χ™Χ›Χ	
-Χ™Χ•ΧΧ‘ Χ’`Χ¨ΧΧ¤Χ™	
-ΧΧ•Χ—ΧΧ“ ΧΧ‘Χ• Χ Χ™Χ	
-Χ©Χ—Χ¨ Χ’Χ•ΧΧ	
-Χ Χ™Χ‘ ΧΧΧ™ΧΧ΅Χ™	
-ΧΧΧ™ΧΧ™Χ•Χ© Χ–Χ•Χ‘ΧΧ΅	
-ΧΆΧ“Χ™ Χ—Χ™Χ™Χ§Χ™Χ	
-ΧΆΧΧ™Χª Χ΅Χ•ΧΧ¨Χ™	
-Χ§Χ™Χ Χ–Χ™Χ‘Χª	
-Χ¨Χ Χ—Χ©Χ¤Χ™Χ”	
-Χ¨Χ•Χ™ Χ©Χ©Χ•Χ	
-Χ¤Χ•Χ¨Χ– Χ•ΧΧ§Χ•Χ‘Χ™Χ¥`	
-ΧªΧ•ΧΧ¨ Χ¦Χ¨Χ¤ΧªΧ™	
-Χ“Χ Χ™ΧΧ ΧΧ Χ Χ‘ΧΧ•Χ	
-ΧΧ•Χ¨ΧΧ Χ“Χ• ΧΧ•Χ΅Χ§Χ¨Χ”	
-Χ©Χ¨Χ™Χ£ Χ›Χ™Χ•Χ£	
-Χ¨Χ•Χ™ Χ‘Χ¨Χ Χ΅	
-Χ¨ΧΧ Χ’Χ•ΧΧ	
-Χ Χ™Χ§Χ•ΧΧΧ΅ Χ”ΧΧ’Χ	
-Χ™Χ•Χ ΧªΧ Χ©Χ Χ™	
-ΧΆΧ•ΧΧ¨ Χ Χ—Χ¤ΧΧ•Χ•Χ™	
-ΧΧ•Χ”Χ“ ΧΧ•Χ™ΧΧ”	
-Χ΅Χ”Χ¨ Χ—Χ΅Χ•Χ	
-ΧΧΧ™Χ¨ ΧΧ¨Χ™ΧΧΧ™	
-Χ“Χ¨Χ•Χ¨ Χ Χ™Χ¨	
-Χ Χ™ΧªΧΧ™ Χ‘Χ™ΧªΧ	
-ΧΆΧ–Χ™Χ– Χ§ΧΧ™Χ•Χ Χ“Χ•	
-Χ–`ΧΧ Χ§Χ™Χ Χ™Χ•Χ Χ΅	
-Χ΅Χ•ΧΧ™ΧΧΧ Χ§Χ•ΧΧ™Χ‘ΧΧΧ™	
-ΧΆΧΧ™Χª Χ›Χ”Χ	
-Χ’Χ™Χ Χ“Χ–Χ Χ	
-ΧΧªΧ Χ¤ΧΧ’	
-ΧΧ§Χ΅Χ™Χ Χ’Χ¨Χ¦`Χ§Χ™Χ	
-Χ‘Χ¨Χ™ΧΧ Χ¤ΧΧ΅Χ™	
-Χ Χ•ΧΆΧ Χ‘Χ Χ”Χ¨Χ•Χ©	
-ΧΆΧ‘Χ“Χ•Χ Χ§Χ•ΧΧ™Χ‘ΧΧΧ™	
-Χ©Χ¨Χ Χ™Χ™Χ Χ™	
-ΧΧ‘Χ™Χ©Χ™ Χ›Χ”Χ	
-ΧΧ™ΧΧ• Χ‘Χ Χ‘Χ Χ™Χ©ΧªΧ™	
-ΧΧΧ™Χ¨ ΧΧΧΧ•Χ¨Χ™	
-Χ‘Χ Χ‘Χ™ΧΧ•Χ	
-ΧΆΧ•ΧΧ¨ Χ§Χ•Χ¨Χ΅Χ™Χ”	
-ΧΧ•Χ¤Χ™Χ¨ Χ“Χ•Χ™Χ“Χ–ΧΧ“Χ”	
-ΧΧ•Χ¨Χ Χ¦Χ• Χ©Χ™ΧΧ™Χ¥`	
-Χ’Χ¨Χ’Χ•Χ¨Χ™ ΧΧ•Χ¨Χ•Χ–Χ•Χ‘	
-Χ—Χ΅Χ Χ—Χ™ΧΧ•	
-Χ¨Χ•Χ Χ™ ΧΧΧ•Χ¤Χ¨	
-ΧΆΧΧ™Χª Χ’ΧΧ–Χ¨	
-ΧΧªΧ Χ’Χ•Χ©Χ”	
-Χ Χ¤ΧªΧΧ™ Χ‘ΧΧΧ™	
-Χ¨Χ ΧΧ•Χ™	
-ΧΧΧ•Χ¨ Χ§Χ Χ“Χ™Χ	
-Χ ΧΧ Χ™Χ” ΧΧ™Χ•Χ‘Χ™Χ΅Χ‘ΧΧ™Χ™Χ‘Χ™Χ¥`	
-ΧΧ•Χ¨ΧΧ Χ“Χ’Χ Χ™	
-ΧΆΧ™Χ“Χ• Χ•Χ™Χ™Χ¨	
-Χ”Χ“Χ¨ Χ¤Χ•Χ§Χ΅	
-ΧΧ•Χ¤Χ§ Χ Χ“Χ™Χ¨	
-Χ¤Χ™Χ™Χ¨ Χ§Χ•Χ¨Χ Χ•	
-Χ’`Χ•Χ¨Χ’` Χ“Χ™Χ‘Χ”	
-Χ©Χ’Χ™Χ‘ Χ™Χ—Χ–Χ§ΧΧ	
-ΧΧ™Χ’Χ Χ•Χ™ΧΧ•Χ¨	
-ΧΆΧ•Χ‘Χ™Χ™Χ“Χ” Χ—ΧΧΧ‘	
-ΧΧ Χ¨Χ™Χ§ Χ΅ΧΧ‘Χ•Χ¨Χ™Χ	
-Χ—ΧΧªΧ ΧΆΧ‘Χ“ ΧΧΧ—ΧΧ™Χ“	
-ΧΧ™ΧΧ™Χ” ΧΧ¨ΧΧ™Χ Χ•Χ‘Χ™Χ¥`	
-ΧΧ•Χ—ΧΧ“ Χ”Χ™Χ Χ“Χ™	
-Χ”ΧΧ“Χ¨ ΧΧ•Χ¤Χ΅	
-Χ“Χ•ΧΧ‘ ΧΧ–Χ¨Χ•ΧΧ	
-Χ©Χ§Χ“ Χ—Χ›ΧΧ•Χ	
-ΧΧ™ΧΧ“ Χ—`Χ•ΧΧ‘Χ	
-ΧΧ©Χ¨Χ£ Χ¨Χ‘ΧΧ—	
-ΧΧΧΧ‘ ΧΧ•Χ•ΧΧΧ—Χ”	
-ΧΆΧ™ΧΧ“ ΧΧ‘Χ• ΧΆΧ‘Χ™Χ“	
-Χ Χ™Χ¨ Χ‘Χ™ΧΧ•Χ	
-ΧΧ‘Χ™ ΧªΧ•Χ¨Χ’`ΧΧ	
-ΧΧ‘Χ™Χ‘ Χ΅Χ•ΧΧ•ΧΧ•Χ	
-ΧΧ•Χ Χ‘Χ Χ–Χ§Χ	
-Χ“Χ™Χ ΧΧ‘ΧΧ‘Χ™Χ“Χ™	
-Χ¤Χ¨Χ Χ ΧΧΧ™Χ™ΧΧ‘Χ•	
-Χ¤ΧΧΧΧ Χ’ΧΧΧ‘Χ•Χ‘	
-Χ™Χ–Χ Χ Χ΅ΧΧ¨	
-ΧΆΧ™Χ“Χ• ΧΧ•Χ™	
-Χ’Χ™Χ Χ›Χ”Χ	
-ΧΧ•Χ ΧΧ¨Χ™ Χ§ΧΧΧ”Χ Χ™	
-Χ›ΧΧ¨Χ Χ’`ΧΧ‘Χ¨	
-Χ©Χ—Χ¨ Χ¤Χ™Χ‘Χ	
-Χ ΧΧ΅Χ™Χ ΧΧ•ΧΧΧΧ•	
-Χ“Χ Χ™ΧΧ Χ¤ΧΧ©Χ¨	
-ΧΧ Χ“Χ¨Χ” ΧΧ™Χ©Χ™Χ™Χ¨Χ”	
-Χ“Χ Χ™Χ΅ Χ§Χ•ΧΧ™Χ§Χ•Χ‘	
-ΧΧ•Χ—ΧΧ“ Χ’Χ ΧΧΧ”	
-Χ™ΧΆΧ¨ Χ–ΧΧ‘Χ•Χ¨Χ΅Χ§Χ™	
-Χ¨Χ•Χ™ Χ¨Χ‘Χ™Χ‘Χ•	
-Χ™Χ”Χ‘ Χ’Χ•Χ¨Χ¤Χ™Χ Χ§Χ	
-Χ™Χ¨Χ™Χ Χ—Χ Χ•Χ	
-Χ§ΧΧΧ¨Χ§ Χ¨Χ•Χ‘Χ¨ΧΧ΅Χ•Χ	
-ΧΧ•Χ Χ“Χ–`Χ™Χ™ Χ‘ΧΧ¦`Χ•	
-Χ¤ΧΧ’ Χ—ΧΧ Χ™	
-Χ¨Χ•Χ ΧΧ•Χ Χ’Χ¨	
-Χ΅Χ¤Χ™Χ¨ ΧΧ™ΧΧ—	
-ΧΧ•Χ¨ Χ™Χ©Χ¨ΧΧΧ•Χ‘	
-Χ’Χ™Χ ΧΧ–Χ¨Χ—Χ™	
-ΧΧ•Χ¨ Χ‘ΧΧ•Χ¨Χ™ΧΧ	
-ΧΧ™Χ¦Χ™Χ§ Χ©Χ•ΧΧΧ™Χ™Χ΅ΧΧ¨	
-ΧΧ‘Χ™Χ‘ ΧΧ™Χ	
-ΧΧΧ•Χ–` Χ™ΧΧ•	
-Χ¨Χ Χ•ΧΧªΧ•Χ¨Χ™	
-Χ‘Χ¨ Χ ΧΧ•Χ•Χ™	
-ΧΆΧ•ΧΧ¨ ΧΧ’Χ‘Χ“Χ™Χ©	
-Χ¨Χ•ΧΆΧ™ ΧΧΧ™ΧΧΧ	
-ΧΧ™-ΧΧ•Χ ΧΧ–Χ¨Χ—Χ™	
-ΧΧ™Χ‘Χ ΧΧΧ΅Χ•Χ	
-ΧΧ•Χ¨Χ™ Χ“Χ”Χ	
-Χ“Χ•Χ¨ ΧΧΧ•	
-ΧΆΧ‘Χ“Χ•ΧΧΧ™ Χ΅Χ§	
-Χ™Χ•Χ¨ΧΧ™ ΧΧΧ™Χ—	
-ΧΧªΧ ΧΧ•Χ™	
-ΧΧ•Χ—ΧΧ“ ΧΧ•Χ¨ΧΧ“	
-Χ Χ•ΧΆΧ ΧΧΧΧ•Χ“	
-Χ©Χ•Χ Χ’Χ•ΧΧ“Χ‘Χ¨Χ’	
-ΧΆΧ‘Χ“ Χ’`ΧΧ‘Χ¨	
-Χ΅ΧΧ‘Χ™Χ Χ™Χ”	
-Χ“Χ¨Χ™Χ§ ΧΧ•Χ§ΧΧ΅Χ	
-ΧΧ•Χ¨Χ Χ¦Χ• Χ¤Χ¨ΧΧΧΧ™	
-ΧΧ™ΧªΧ ΧΧ™Χ‘Χ™	
-Χ¨ΧΧ™ Χ’Χ¨Χ©Χ•Χ	
-ΧΧ•ΧΧ™Χ– ΧΧ“Χ™ΧΧ”Χ•	
-ΧªΧ•ΧΧ¨ ΧΧ•Χ™	
-ΧΧ ΧΧ¨Χ¦`Χ	
-Χ¨Χ•ΧªΧ Χ§ΧΧ¨	
-Χ“Χ Χ™ΧΧ Χ΅Χ•Χ Χ“Χ’Χ¨Χ	
-Χ™Χ¨Χ“Χ Χ›Χ”Χ	
-ΧΧ™ΧªΧ™ Χ‘Χ Χ©Χ‘Χª	
-ΧΧ“Χ™ Χ’Χ•ΧΧΧ™Χ‘	
-ΧΆΧ™Χ“Χ Χ Χ—ΧΧ™ΧΧ΅	
-ΧΧΧ•Χ ΧΧ–Χ•Χ’Χ™	
-ΧΧ¨Χ™ ΧΧ¨Χ Χ©ΧΧ™Χ™Χ	
-Χ“Χ•Χ¨ ΧΧΧ•Χ	
-ΧΧΧ¨Χ§ Χ‘Χ•Χ©Χ ΧΧ§	
-ΧΧ•Χ¨Χ Χ‘Χ™ΧΧ•Χ	
-ΧΧΧ¨Χ•Χ Χ’Χ ΧΧ•Χ΅	
-Χ§Χ•Χ™Χ” ΧΧ‘ΧΧ”	
-Χ Χ™Χ‘ Χ¤ΧΧ™ΧΧ¨	
-ΧΧ™ΧΧ•ΧªΧ™ ΧΧ•Χ•ΧΧ Χ™	
-Χ“Χ•Χ“ Χ§Χ•Χ¤Χ¨ΧΧ	
-ΧΧ•Χ¤ΧΧ— Χ©ΧΧΧΆΧΧ”	
-Χ“Χ Χ™Χ΅ Χ¤Χ•ΧΧ™ΧΧ§Χ•Χ‘	
-ΧΧ‘Χ™Χ‘ Χ΅ΧΧ	
-Χ™Χ Χ•Χ ΧΧΧ™Χ”Χ•	
-Χ’`Χ•ΧΧ ΧΧ‘Χ• Χ—Χ Χ	
-Χ¨Χ™ΧΧ“ ΧΧ‘Χ• Χ¨Χ™Χ	
-Χ”Χ¨ΧΧ Χ©ΧΧ•Χ	
-Χ–Χ•Χ”Χ¨ Χ–Χ΅Χ Χ•	
-Χ¨ΧΧΧ™ Χ’Χ ΧΧ™Χ	
-ΧΧ™Χ“Χ•Χ¨ ΧΧ™ΧΧ•Χ	
-ΧΆΧ•Χ‘Χ“Χ™Χ” Χ“Χ¨Χ•Χ•Χ™Χ©	
-Χ¤Χ™ΧΧ™Χ¤ ΧΧ™Χ¤Χ•ΧΧ”	
-ΧΆΧ™Χ“Χ Χ“Χ”Χ	
-ΧΧ•Χ¤Χ§ Χ‘Χ™ΧΧ•Χ	
-Χ—Χ•Χ΅Χ” Χ¨Χ•Χ“Χ¨Χ™Χ’Χ΅	
-Χ¨Χ•ΧΆΧ™ ΧΧΧ	
-ΧΧ§Χ΅Χ™Χ Χ‘Χ‘Χ§Χ•	
-Χ¨Χ•ΧΆΧ™ Χ¨Χ‘Χ™Χ Χ•Χ‘Χ™Χ¥`	
-ΧΧ‘Χ™Χ‘ ΧΧ‘Χ¨Χ”Χ	
-Χ¨Χ•Χ™ Χ‘Χ Χ Χ‘Χ™Χ	
-ΧΧ™ΧΧ•Χ¨ Χ§ΧΧ΅Χ”	
-ΧΧ™Χ™Χ Χ’Χ•ΧΧ΅Χ”	
-Χ¨Χ™Χ£ ΧΧΧ΅ΧΧ	
-Χ“Χ ΧΧ™Χ™Χ Χ‘Χ™Χ Χ“Χ¨	
-ΧΧ™Χ–Χ™ΧΧ Χ• Χ¦`Χ§Χ Χ”	
-ΧΧ•Χ¨ Χ¨Χ•Χ™Χ–ΧΧ	
-Χ™Χ™Χ΅ΧΧΧ• Χ§Χ‘Χ“Χ”	
-ΧªΧ•ΧΧ¨ ΧΧΧΧΧ	
-Χ™Χ¨Χ™Χ Χ’Χ‘Χ¨Χ™	
-Χ‘Χ¨ Χ›Χ”Χ	
-Χ Χ™Χ‘ ΧΧ•Χ‘Χ•Χ	
-ΧΧ™Χ¨Χ•Χ ΧΧ	
-ΧΆΧ™Χ“Χ• Χ“Χ•Χ™Χ“Χ•Χ‘	
-Χ™ΧΆΧ§Χ‘ Χ‘Χ¨Χ™Χ”Χ•Χ	
-ΧΧ•ΧΧ™ Χ—ΧΧ£	
-Χ¨Χ•ΧΆΧ™ ΧΧ•Χ™	
-ΧΆΧ™ΧΧΧ™ ΧΧ¨Χ•Χ΅Χ	
-Χ™Χ¨Χ™Χ ΧΧ•Χ™	
-ΧΧΧ•Χ•Χ™Χ΅ Χ¦`Χ™Χ‘Χ•ΧΧ”	
-Χ’Χ™Χ Χ‘Χ“Χ©	
-Χ§Χ™Χ§Χ• Χ‘Χ•Χ Χ“Χ•Χ΅Χ•	
-Χ’Χ“ΧΆΧ•Χ ΧΧ§Χ•Χ•Χ”	
-ΧΧ™Χ¨Χ Χ¨Χ•ΧΧΧ	
-Χ¨Χ•ΧΆΧ™ Χ©Χ•Χ§Χ¨Χ Χ™	
-ΧΆΧ ΧΧ Χ—ΧΧΧ™ΧΧ™	
-ΧΧ™Χ–Χ§ Χ¤ΧΧ¤Χ•	
-ΧΆΧ“Χ™ Χ™Χ•Χ Χ”	
-Χ™Χ•Χ¨Χ™Χ΅ Χ•ΧΧ ΧΧ•Χ‘Χ¨Χ™Χ™Χ	
-ΧΆΧΧ¨Χ™ ΧΧΧΧΧ	
-Χ”Χ™Χ©ΧΧ ΧΧΧ™Χ•Χ΅	
-Χ’`Χ™ΧΧ™ ΧΧΧ›Χ΅Χ™Χ΅	
-Χ’Χ‘Χ™ Χ§Χ Χ™Χ§Χ•Χ‘Χ΅Χ§Χ™	
-ΧΆΧ•Χ“Χ“ Χ¦Χ•Χ§Χ•Χ	
-ΧΧ‘Χ™ΧΧ Χ–Χ¨Χ’Χ¨Χ™	
-ΧΧ™ΧΧ•Χ¨ Χ¨Χ¤ΧΧΧ•Χ‘	
-ΧΧ•Χ—ΧΧ“ ΧΧ•Χ΅ΧΧ	
-ΧΧ™ΧΧ™Χ™ ΧΧΧ	
-ΧªΧΧ™Χ¨ Χ’ΧΧ–Χ¨	
-ΧΧªΧ ΧΧ ΧΧ“Χ΅Χ”	
-ΧΧ Χ©Χ” Χ–ΧΧ§Χ”	
-Χ¤ΧΧ™Χ΅Χ™Χ• ΧΧ™ΧΧ΅Χ•Χ	
-ΧΧ ΧΧ•Χ Χ™Χ• Χ΅Χ¤Χ¨	
-ΧΧΧ•Χ¨ ΧΧ•Χ™	
-Χ’`Χ•Χ¨Χ“Χ Χ΅Χ‘Χ	
-Χ΅ΧΧ”Χ¨ ΧªΧΧ’`Χ™	
-ΧΧ“Χ¨Χ™ΧΧ Χ¤ΧΧ•Χ	
-ΧΧΧΆΧ“ ΧΧ“ΧΧ•Χ	
-Χ’Χ•ΧΧ Χ‘Χ Χ™	
-Χ“Χ•ΧΧ‘ Χ—Χ–Χ™Χ–Χ”	
-ΧΧªΧ Χ—Χ•Χ–Χ–	
-ΧΧ¨Χ™ΧΧ ΧΧ•Χ’Χ΅Χ™	
-Χ“Χ™Χ Χ΅Χ‘ΧΆ	
-Χ™Χ•Χ Χ™ Χ΅ΧΧ•Χ™ΧΧ Χ•Χ‘	
-Χ¨Χ•ΧªΧ Χ—ΧΧ•ΧΧ	
-ΧΧ™ΧªΧ ΧΧ–Χ•ΧΧΧ™	
-Χ©Χ•ΧΧ•	
-Χ“Χ Χ™ Χ”Χ•Χ¦`Χ§Χ•	
-ΧΧ—ΧΧ“ ΧΧΧ”Χ	
-ΧΧ Χ“Χ¨Χ” Χ¤Χ•Χ§Χ•	
-ΧΧ“Χ”Χ Χ΅Χ•Χ•ΧΧΆΧ“	
-ΧΧ Χ™Χ Χ§Χ Χ¦Χ¤Χ•ΧΧ΅Χ§Χ™	
-ΧΧ™ΧΧ•Χ¨ Χ¨Χ•Χ§Χ—	
-Χ Χ”Χ•Χ¨ΧΧ™ Χ“Χ‘Χ•Χ©	
-Χ”Χ Χ¨Χ™ Χ•ΧΧ§Χ”	
-ΧΧ¨Χ™ Χ›Χ”Χ	
-ΧΆΧ•Χ– Χ‘Χ™ΧΧ•	
-Χ Χ•ΧΆΧ Χ‘Χ•Χ Χ”	
-ΧΆΧ–ΧΧΧ“Χ™Χ Χ’Χ‘Χ™Χ΅	
-ΧΧ•Χ¨Χ Χ΅Χ™ΧΧ‘Χ•Χ	
-Χ©Χ™ ΧΧΧ™ΧΧ΅	
-Χ™Χ•Χ‘Χ Χ›Χ”Χ	
-ΧΧ™Χ΅ΧΧΆΧ™ΧΧ” Χ΅Χ•Χ¨Χ•	
-ΧªΧ•ΧΧ¨ Χ™Χ•Χ΅Χ¤Χ™	
-Χ Χ™Χ¨ Χ—Χ΅Χ•Χ	
-Χ¨Χ Χ‘Χ Χ™ΧΧ™Χ	
-ΧΧ•Χ Χ™ Χ’Χ•ΧΧ΅	
-ΧΧ•Χ—ΧΧ“ Χ‘Χ“ΧΧ¨Χ Χ”	
-ΧΧ—ΧΧ“ ΧΆΧΧ‘Χ“	
-Χ΅Χ•ΧΧ™ΧΧ ΧΧΧ¨Χ”	
-ΧΧ™ΧΧ Χ“Χ¨ΧΆΧ™	
-Χ™Χ•Χ ΧªΧ ΧΧΧ™ΧΧ΅	
-ΧΧ•ΧΧ™ Χ‘Χ¨Χ©Χ¦Χ§Χ™	
-Χ™Χ¨Χ™Χ Χ΅Χ¨Χ“Χ	
-Χ¨Χ™Χ¦`ΧΧ¨Χ“ Χ‘Χ•ΧΧΧ Χ’	
-ΧΧ™ΧΧ Χ Χ—Χ•Χ	
-Χ ΧΧ•Χ¨ Χ΅Χ‘Χ’	
-ΧΧ™ΧΆΧ Χ“Χ•Χ“ ΧΧ¨Χ’Χ™	
-ΧΧ™ΧªΧΧ¨ Χ Χ•Χ™	
-ΧΧ‘Χ™ Χ¨Χ™Χ§Χ	
-ΧΧ™ΧªΧ™ Χ–Χ“Χ”	
-Χ§ΧΧ¤Χ™ΧΧ”	
-ΧΆΧΧ™ ΧΆΧ‘ΧΧ΅	
-ΧΧ•Χ©Χ¨ Χ“Χ•Χ™Χ“Χ”	
-ΧΧ•Χ¨ΧΧ Χ‘ΧΧ™Χ™Χ”	
-Χ“Χ Χ‘Χ™ΧΧ•Χ	
-ΧΧ™Χ™Χ Χ”Χ• Χ¤Χ¨Χ“Χ”	
-ΧΧ™ΧΧ™ Χ¦ΧΆΧ™Χ¨Χ™	
-Χ“Χ•Χ¨ ΧΧ™Χ›Χ”	
-Χ Χ“Χ‘ Χ Χ™Χ“Χ	
-Χ¨Χ•Χ™ Χ§Χ•Χ¨Χ™Χ	
-ΧΧ—ΧΧ•Χ“ Χ’`ΧΧ‘Χ¨	
-Χ“Χ ΧΆΧ–Χ¨Χ™Χ”	
-ΧΧ•Χ§ΧΧ΅ Χ΅ΧΧ™Χ ΧΧ΅	
-ΧΧ Χ‘Χ Χ—Χ™Χ™Χ	
-ΧΧ§Χ΅Χ™Χ Χ¤ΧΧ§Χ•Χ©Χ¦`Χ Χ§Χ•	
-ΧΧΧΆΧ“ Χ©Χ—Χ£	
-Χ™Χ•Χ ΧªΧ ΧΧ¤Χ¨	
-Χ‘Χ΅ΧΧ Χ–ΧΆΧ¨Χ•Χ¨Χ”	
-ΧΧ•Χ•Χ§Χ” ΧΧ©ΧΧ”	
-Χ›Χ¨Χ™Χ΅ΧΧ•Χ¤Χ¨ Χ¤ΧΧ¨Χ΅Χ•Χ	
-Χ¨Χ•Χ™ Χ ΧΧ•Χ•Χ™	
-ΧªΧΧ™Χ¨ ΧΆΧ“Χ™	
-Χ™Χ•Χ ΧªΧ Χ›Χ”Χ	
-ΧΧ™Χ¨Χ•Χ™ Χ’Χ‘ΧΧ™	
-Χ΅ΧΧ•ΧΧ Χ‘Χ¨ΧΧ•Χ	
-Χ¨ΧΧ¦`Χ™Χ“ Χ¦`Χ™Χ¨Χ™Χ Χ•	
-ΧΆΧ™Χ“Χ• Χ©Χ—Χ¨	
-ΧΆΧ™Χ“Χ Χ•Χ¨Χ“	
-ΧΧΧ™Χ¨ Χ‘Χ¨Χ§Χ•Χ‘Χ™Χ¥`	
-ΧΧ•Χ¤Χ™Χ¨ Χ§Χ¨Χ™ΧΧ£	
-Χ΅Χ•Χ£ Χ¤Χ•Χ“Χ’Χ•Χ¨ΧΧ Χ•	
-Χ™Χ•Χ‘Χ Χ©Χ“Χ”	
-Χ“Χ•Χ¨ Χ¤Χ¨Χ¥	
-Χ¤ΧΧ™Χ¤Χ” Χ΅Χ ΧΧ•Χ΅	
-ΧΧ™Χ‘Χ¨Χ”Χ™Χ Χ’`Χ‘ΧΧ¨	
-Χ™Χ•Χ‘Χ ΧΧ©Χ›Χ Χ–Χ™	
-ΧΧ¨Χ™ΧΧ Χ• Χ‘Χ¨Χ™Χ™Χ¨Χ•	
-Χ©ΧΧ• Χ”Χ¨Χ•Χ©	
-Χ©ΧΧ•ΧΧ™ ΧΧ–Χ•ΧΧΧ™ (Χ§Χ©Χ¨)	
-ΧΧ¨Χ•Χ•ΧΧ Χ§Χ‘Χ”Χ	
-ΧΆΧΧ™Χª ΧΧΧ™Χ¨	
-Χ΅ΧΧ™ Χ‘Χ•Χ¨ΧΧ¨	
-Χ¦`ΧΧ¨Χ•Χ Χ©Χ¨Χ™	
-Χ¨Χ•ΧΆΧ™ Χ’Χ•Χ¨Χ“Χ Χ”	
-Χ™Χ¨Χ“Χ Χ©Χ•ΧΆΧ”	
-ΧΧ™Χ¨Χ Χ΅Χ¨Χ“Χ	
-ΧΆΧ“Χ Χ©ΧΧ™Χ¨	
-Χ’Χ•Χ Χ™ Χ ΧΧ•Χ¨	
-ΧΧ•Χ—ΧΧ“ Χ©Χ›Χ¨	
-Χ‘Χ•Χ¨Χ™Χ΅ ΧΧ™Χ Χ•	
-Χ‘Χ™Χ¨Χ Χ›Χ™ΧΧ	
-Χ’Χ‘Χ™ Χ’Χ•Χ¨Χ™	
-ΧΆΧ™ΧΧΧ™Χ™ Χ—Χ’`Χ’`	
-ΧΧ™ΧΧ™Χ™ ΧΧ“ΧΧ•Χ	
-Χ©Χ’Χ™Χ Χ’Χ Χ™Χ΅	
-ΧΧ•Χ—ΧΧ“ Χ›Χ ΧΆΧΧ	
-ΧΧ¨ΧΧ™Χ ΧΧ Χ“Χ–Χ™ ΧΧΧΧ Χ’Χ”	
-ΧΧ Χ™Χ΅ ΧΆΧ™ΧΧ©	
-ΧΆΧΧ™ ΧΧ•Χ—ΧΧ“	
-Χ΅Χ™Χ™Χ“ ΧΧ‘Χ• Χ¤Χ¨Χ—Χ™	
-Χ™Χ¨Χ™Χ Χ΅Χ•Χ•Χ™Χ΅Χ”	
-ΧΧ™ΧΧ• ΧΧ•Χ–Χ™	
-Χ Χ•ΧΆΧ ΧΧ•Χ¦`Χ”	
-Χ¨ΧΧ Χ™ Χ—Χ“Χ™Χ“	
-Χ Χ™Χ‘ Χ’Χ•ΧΧΧ™Χ‘	
-ΧΆΧΧΧ¨ Χ‘ΧΧ΅Χ	
-Χ΅ΧªΧ™Χ• ΧΧ•Χ¨Χ™ΧΧ	
-Χ‘Χ¨ ΧΧ™Χ	
-Χ—ΧΧ–Χ” Χ©Χ™Χ‘ΧΧ™	
-Χ–Χ™Χ• Χ‘Χ Χ©Χ™ΧΧ•Χ	
-Χ΅ΧΧ¤Χ ΧΧ•ΧΧΧ•Χ Χ’Χ”	
-ΧΧ¨ΧΧ–Χ™ ΧªΧ•ΧΧ	
-ΧΧΧ™Χ¨ Χ’`Χ ΧΧ—	
-Χ¨Χ•ΧΆΧ™ ΧΧΧ§Χ•Χ§Χ™Χ	
-Χ™Χ•ΧΧ‘ ΧªΧ•ΧΧ¨	
-Χ¨Χ– Χ–Χ¨Χ‘ΧΧ™ΧΧ•Χ‘	
-Χ›ΧΧ¨Χ Χ–Χ•ΧΆΧ‘Χ™	
-Χ“Χ•Χ Χ΅Χ“Χ¨Χ™Χ§	
-Χ§Χ•Χ•ΧΧΧ™ Χ¤Χ¤Χ¨Χ”	
-Χ΅ΧΧ Χ™Χ΅ΧΧ‘ Χ‘Χ™ΧΧ Χ§Χ™	
-ΧΧ¨Χ™Χ§ Χ©Χ•Χ¨ΧΧ Χ•Χ‘	
-ΧΧ™Χ’Χ•Χ¨ Χ–ΧΧΧΧ Χ•Χ‘Χ™Χ¥`	
-ΧΧΧ ΧΧ•Χ–`Χ‘Χ•ΧΧ	
-Χ™ΧΧ Χ™Χ•Χ΅Χ•Χ¤Χ•Χ‘	
-ΧΧ™ΧΧ•Χ ΧΧΧΧ•Χ’	
-Χ©ΧΧ•ΧΧ™ ΧΧ–Χ•ΧΧΧ™ (Χ—ΧΧ•Χ¥)	
-ΧΧΧ•Χ ΧªΧ•Χ¨Χ’`ΧΧ	
-Χ΅ΧΆΧ¨ Χ‘Χ¨ΧΧ™	
-ΧΧ™ΧΆΧ“ Χ¨ΧΧ•Χª	
-Χ©Χ‘Χ™Χ ΧΧ–Χ	
-ΧΧ—ΧΧ“ Χ΅ΧΧΧ	
-ΧΧ™ΧªΧ™ Χ©Χ›ΧΧ¨	
-ΧΆΧ¨Χ Χ–Χ”Χ‘Χ™	
-Χ™Χ™ΧΧ” Χ“Χ•Χ™Χ	
-Χ–ΧΧ”Χ™ ΧΧ—ΧΧ“	
-Χ“Χ™Χ Χ“Χ•Χ“	
-Χ“Χ•Χ¨ Χ—Χ•Χ’Χ™	
-Χ“Χ•Χ¨ Χ’`ΧΧ	
-Χ¨Χ– Χ©ΧΧ™Χ™Χ	
-ΧΧ•Χ—ΧΧ“ Χ¤Χ•Χ§Χ¨Χ	
-Χ©Χ•Χ‘Χ Χ’Χ•Χ–ΧΧ	
-Χ‘Χ΅Χ™Χ Χ—Χ•Χ¨Χ™	
-ΧΆΧΧ Χ—Χ΅Χ	
-Χ¨Χ‘Χ™Χ“ ΧΧ‘Χ¨Χ’`Χ™Χ	
-ΧΧ•Χ—ΧΧ“ Χ—ΧΧΧ™Χ™ΧΧ”	
-ΧΧ—ΧΧ“ Χ”ΧΧΧ	
-ΧΧ™ΧªΧ™ Χ‘Χ•Χ’ΧΧ Χ™Χ	
-ΧΧ•Χ¤Χ§ ΧΧ•Χ©Χ¨	
-Χ’Χ™Χ™Χ‘ Χ΅Χ’Χ	
-Χ¤Χ•Χ¨Χ¦`Χ Χ‘ΧΧ΅Χ™Χ™	
-ΧΆΧ™Χ“Χ ΧΧ•Χ§ΧΧ•ΧΧΧ™	
-ΧΧ Χ΅ ΧΧ—ΧΧ™Χ“	
-Χ¨Χ– ΧΧ•Χ•Χ™Χ–Χ¨	
-Χ‘Χ ΧΧ–`Χ•Χ‘Χ	
-ΧΧ‘Χ ΧΆΧ–Χ¨ ΧΧΧΧΧ”	
-Χ§Χ™Χ™Χ΅ Χ’ΧΧ Χ	
-Χ’Χ™Χ ΧΧΧΧ“	
-ΧªΧ•ΧΧ¨ Χ—ΧΧ“	
-Χ¤Χ¨Χ“ Χ¤Χ¨Χ™Χ™Χ“Χ™Χ™	
-Χ‘Χ Χ©Χ”Χ¨	
-Χ¨ΧΧ Χ’`ΧΧ• Χ™ΧΧ Χ’Χ”	
-Χ¤ΧΧ¨Χ™Χ§ Χ§ΧΧ™ΧΧΧ”	
-Χ¤Χ¨ΧΧ Χ–Χ™ Χ¤Χ™Χ™Χ¨Χ•	
-ΧΧ•Χ—ΧΧ“ Χ§ΧΧΧ¨Χ”	
-ΧΆΧ•ΧΧ¨ Χ΅Χ Χ™Χ•Χ¨	
-Χ“Χ•Χ¨ ΧªΧ•Χ¨Χ’`ΧΧ	
-Χ™Χ•ΧΧ ΧΧ‘Χ•Χ—Χ¦Χ™Χ¨Χ”	
-Χ΅ΧΧΧ™Χ• Χ’Χ•ΧΧ™Χ Χ“Χ•	
-ΧΧΧ¨Χ§ Χ§Χ•Χ΅ΧΧ”	
-ΧΧ•Χ¨ Χ¤Χ“Χ™Χ“Χ”	
-ΧΧ™Χ™Χ¨Χ•Χ Χ’`Χ•Χ¨Χ’`	
-ΧΧ•Χ©Χ¨ ΧΧΧ™Χ”Χ•	
-ΧΧ’`Χ“ Χ΅Χ•ΧΧ™ΧΧΧ	
-Χ Χ•ΧΆΧ Χ©Χ—Χ¨	
-ΧΧ“Χ™Χ¨ ΧΧ•Χ™	
-Χ¨Χ•Χ ΧΧΧ™Χ’Χ•Χ	
-Χ’`ΧΧ¨Χ“ Χ§ΧΧ΅Χ”	
-Χ¦`Χ™Χ Χ™ΧΧ™Χ¨Χ™Χ Χ’Χ•Χ“Χ•Χ™Χ	
-ΧΧ™ΧªΧΧ¨ Χ©Χ‘Χ™Χ¨Χ•	
-ΧΧ™ΧΧ™Χ™ ΧΧ•Χ¨	
-ΧΧ•Χ”Χ“ Χ‘Χ¨Χ–Χ™ΧΧ™	
-ΧΧ¨Χ•Χ ΧΧ™Χ™Χ” ΧΧ™Χ΅Χ§Χ”	
-ΧΧ™ΧΧ¨Χ ΧΧ•ΧΧΧ“ ΧΆΧ•ΧΧΧ¨	
-ΧΧ™Χ›ΧΧ ΧΧ•Χ—Χ Χ”	
-Χ¤Χ¨Χ“Χ™ Χ•Χ¨Χ’ΧΧ΅	
-Χ’`Χ•Χ¨Χ“Χ Χ‘Χ•ΧΧΧ§Χ”	
-ΧΧ—ΧΧ“ ΧΆΧ•Χ•ΧΧ“	
-Χ΅ΧΧ¨Χ’`Χ™ ΧΧΧΧΧ Χ΅	
-ΧΧΧ™Χ” Χ’ΧΧ”Χ•Χ	
+
+Rating 5 (Total Players: 18):
+Player: ψεςι ξωτϊι, Rating: 5, Overall Score: 132.8, Points Score: 22
+Player: ΰξιμιεω ζεαΰρ, Rating: 5, Overall Score: 126.2, Points Score: 16
+Player: ξιβμ ειθεψ, Rating: 5, Overall Score: 148.4, Points Score: 31
+Player: δμγψ μετρ, Rating: 5, Overall Score: 126.2, Points Score: 28
+Player: ψει ψαιαε, Rating: 5, Overall Score: 126.0, Points Score: 29
+Player: ιδα βεψτιπχμ, Rating: 5, Overall Score: 133.2, Points Score: 20
+Player: ΰεψ αμεψιΰο, Rating: 5, Overall Score: 126.2, Points Score: 16
+Player: γο ΰιιπαιπγψ, Rating: 5, Overall Score: 124.6, Points Score: 17
+Player: τμιριε ξιμρεο, Rating: 5, Overall Score: 145.3, Points Score: 31
+Player: ΰπθεπιε ρτψ, Rating: 5, Overall Score: 136.1, Points Score: 26
+Player: ΰιϊο ΰζεμΰι, Rating: 5, Overall Score: 137.6, Points Score: 22
+Player: ϊεξψ ιερτι, Rating: 5, Overall Score: 143.3, Points Score: 28
+Player: ιψγο ωεςδ, Rating: 5, Overall Score: 148.7, Points Score: 28
+Player: ρθπιρμα αιμπχι, Rating: 5, Overall Score: 123.4, Points Score: 18
+Player: ωμεξι ΰζεμΰι (ημευ), Rating: 5, Overall Score: 141.6, Points Score: 28
+Player: ςψο ζδαι, Rating: 5, Overall Score: 153.2, Points Score: 31
+Player: ςιγο θεχμεξθι, Rating: 5, Overall Score: 139.5, Points Score: 23
+Player: βιΰ ξμξγ, Rating: 5, Overall Score: 152.7, Points Score: 28
+
+Rating 4 (Total Players: 35):
+Player: βγ ςξερ, Rating: 4, Overall Score: 103.4, Points Score: 9
+Player: ξιβμ ριμαδ, Rating: 4, Overall Score: 111.4, Points Score: 10
+Player: ιεΰα β`ψΰτι, Rating: 4, Overall Score: 113.0, Points Score: 12
+Player: ρεμιξΰο χεμιαΰμι, Rating: 4, Overall Score: 106.0, Points Score: 6
+Player: ΰεψΰμ γβπι, Rating: 4, Overall Score: 109.6, Points Score: 9
+Player: ΰπψιχ ρΰαεψιθ, Rating: 4, Overall Score: 113.7, Points Score: 19
+Player: ξεηξγ διπγι, Rating: 4, Overall Score: 114.8, Points Score: 20
+Player: ΰιΰγ η`εθαΰ, Rating: 4, Overall Score: 105.3, Points Score: 11
+Player: πιψ αιθεο, Rating: 4, Overall Score: 103.8, Points Score: 19
+Player: τψπο ξΰιιξαε, Rating: 4, Overall Score: 104.0, Points Score: 7
+Player: ΰιαο ξΰρεο, Rating: 4, Overall Score: 105.4, Points Score: 16
+Player: ΰεψο αιθεο, Rating: 4, Overall Score: 118.4, Points Score: 15
+Player: χειδ ξαΰδ, Rating: 4, Overall Score: 109.6, Points Score: 8
+Player: ΰετχ αιθεο, Rating: 4, Overall Score: 117.8, Points Score: 20
+Player: ηερδ ψεγψιβρ, Rating: 4, Overall Score: 111.4, Points Score: 12
+Player: ψεςι ωεχψπι, Rating: 4, Overall Score: 108.6, Points Score: 10
+Player: ιεψιρ εΰο ΰεαψιιν, Rating: 4, Overall Score: 109.3, Points Score: 13
+Player: διωΰν μΰιερ, Rating: 4, Overall Score: 121.3, Points Score: 17
+Player: βαι χπιχεαρχι, Rating: 4, Overall Score: 105.2, Points Score: 16
+Player: ϊξιψ βμζψ, Rating: 4, Overall Score: 106.7, Points Score: 9
+Player: ξΰεψ μει, Rating: 4, Overall Score: 118.1, Points Score: 19
+Player: β`εψγο ραο, Rating: 4, Overall Score: 109.5, Points Score: 9
+Player: ρΰδψ ϊΰβ`ι, Rating: 4, Overall Score: 121.3, Points Score: 18
+Player: πΰεψ ραβ, Rating: 4, Overall Score: 111.7, Points Score: 10
+Player: γο αιθεο, Rating: 4, Overall Score: 115.6, Points Score: 22
+Player: ΰετιψ χψιΰσ, Rating: 4, Overall Score: 110.4, Points Score: 12
+Player: γεψ τψυ, Rating: 4, Overall Score: 111.8, Points Score: 22
+Player: ρξι αεψΰψ, Rating: 4, Overall Score: 120.5, Points Score: 13
+Player: φ`ΰψεο ωψι, Rating: 4, Overall Score: 109.8, Points Score: 20
+Player: αεψιρ ΰιπε, Rating: 4, Overall Score: 111.6, Points Score: 8
+Player: ΰμο ΰεζ`αεμθ, Rating: 4, Overall Score: 112.9, Points Score: 22
+Player: χιιρ βΰπν, Rating: 4, Overall Score: 106.0, Points Score: 14
+Player: ξεηξγ χξΰψδ, Rating: 4, Overall Score: 118.3, Points Score: 14
+Player: ξΰψχ χερθδ, Rating: 4, Overall Score: 117.7, Points Score: 13
+Player: ξιιψεο β`εψβ`, Rating: 4, Overall Score: 104.2, Points Score: 21
+
+Rating 3 (Total Players: 105):
+Player: ΰγμΰιι ΰγαΰιε, Rating: 3, Overall Score: 102.2, Points Score: 6
+Player: ςεξψ λυ, Rating: 3, Overall Score: 95.8, Points Score: 11
+Player: ΰετιψ ξψφιΰπε, Rating: 3, Overall Score: 103.2, Points Score: 16
+Player: ψεαι μαχεαιυ`, Rating: 3, Overall Score: 101.8, Points Score: 7
+Player: ΰψιΰμ δψεω, Rating: 3, Overall Score: 101.2, Points Score: 5
+Player: πιχεμΰρ δΰβο, Rating: 3, Overall Score: 81.2, Points Score: 4
+Player: ΰεδγ μειθδ, Rating: 3, Overall Score: 69.7, Points Score: 1
+Player: βιΰ γζπθ, Rating: 3, Overall Score: 64.0, Points Score: 6
+Player: αο αιθεο, Rating: 3, Overall Score: 79.1, Points Score: 10
+Player: βψβεψι ξεψεζεα, Rating: 3, Overall Score: 89.5, Points Score: 11
+Player: ηρο ηιμε, Rating: 3, Overall Score: 89.5, Points Score: 5
+Player: ςξιϊ βμζψ, Rating: 3, Overall Score: 69.8, Points Score: 4
+Player: ξϊο βεωδ, Rating: 3, Overall Score: 78.5, Points Score: 5
+Player: πτϊμι αμΰι, Rating: 3, Overall Score: 57.9, Points Score: 4
+Player: ψν μει, Rating: 3, Overall Score: 64.8, Points Score: 7
+Player: πξπιδ μιεαιραμιιαιυ`, Rating: 3, Overall Score: 98.0, Points Score: 6
+Player: δγψ τεχρ, Rating: 3, Overall Score: 101.6, Points Score: 7
+Player: ΰετχ πγιψ, Rating: 3, Overall Score: 60.7, Points Score: 4
+Player: τιιψ χεψπε, Rating: 3, Overall Score: 82.8, Points Score: 5
+Player: ωβια ιηζχΰμ, Rating: 3, Overall Score: 53.9, Points Score: 10
+Player: ΰιμιδ ξψθιπεαιυ`, Rating: 3, Overall Score: 57.0, Points Score: 0
+Player: ΰαια ρεμεξεο, Rating: 3, Overall Score: 86.3, Points Score: 14
+Player: γιΰ μαΰαιγι, Rating: 3, Overall Score: 90.0, Points Score: 7
+Player: ςιγε μει, Rating: 3, Overall Score: 100.7, Points Score: 8
+Player: βιμ λδο, Rating: 3, Overall Score: 74.0, Points Score: 0
+Player: λΰψν β`ΰαψ, Rating: 3, Overall Score: 82.7, Points Score: 7
+Player: ωηψ τιαο, Rating: 3, Overall Score: 77.8, Points Score: 7
+Player: ΰπγψδ θιωιιψδ, Rating: 3, Overall Score: 81.4, Points Score: 3
+Player: χμΰψχ ψεαψθρεο, Rating: 3, Overall Score: 87.3, Points Score: 10
+Player: ΰεπγζ`ιι αΰφ`ε, Rating: 3, Overall Score: 60.6, Points Score: 3
+Player: ΰεψ ιωψΰμεα, Rating: 3, Overall Score: 94.4, Points Score: 13
+Player: ΰμεζ` ιΰε, Rating: 3, Overall Score: 68.1, Points Score: 9
+Player: ΰεψι γδο, Rating: 3, Overall Score: 87.7, Points Score: 8
+Player: ςαγεμΰι ρχ, Rating: 3, Overall Score: 92.8, Points Score: 11
+Player: ξϊο μει, Rating: 3, Overall Score: 70.8, Points Score: 5
+Player: ωεο βεμγαψβ, Rating: 3, Overall Score: 63.4, Points Score: 5
+Player: ςαγ β`ΰαψ, Rating: 3, Overall Score: 97.6, Points Score: 9
+Player: ρξαιπιδ, Rating: 3, Overall Score: 97.4, Points Score: 6
+Player: ξεΰιζ ΰγιμδε, Rating: 3, Overall Score: 101.8, Points Score: 7
+Player: γπιΰμ ρεπγβψο, Rating: 3, Overall Score: 71.4, Points Score: 5
+Player: ιψγο λδο, Rating: 3, Overall Score: 57.1, Points Score: 5
+Player: ΰμεο ΰζεβι, Rating: 3, Overall Score: 93.3, Points Score: 12
+Player: ξΰψεο βπθερ, Rating: 3, Overall Score: 81.2, Points Score: 4
+Player: γεγ χετψξο, Rating: 3, Overall Score: 54.3, Points Score: 8
+Player: γπιρ τεμιΰχεα, Rating: 3, Overall Score: 95.0, Points Score: 10
+Player: ιπεο ΰμιδε, Rating: 3, Overall Score: 87.4, Points Score: 10
+Player: β`εΰμ ΰαε ηπΰ, Rating: 3, Overall Score: 71.6, Points Score: 7
+Player: ςεαγιδ γψεειω, Rating: 3, Overall Score: 76.3, Points Score: 8
+Player: ϊεξψ ΰμθξο, Rating: 3, Overall Score: 78.5, Points Score: 8
+Player: αψ λδο, Rating: 3, Overall Score: 85.3, Points Score: 16
+Player: ψεςι μει, Rating: 3, Overall Score: 87.4, Points Score: 8
+Player: ςιμΰι θψερθ, Rating: 3, Overall Score: 63.7, Points Score: 6
+Player: ξΰεειρ φ`ιαεθδ, Rating: 3, Overall Score: 62.2, Points Score: 10
+Player: βγςεο ΰχεεδ, Rating: 3, Overall Score: 61.2, Points Score: 7
+Player: ςπΰο ημΰιμι, Rating: 3, Overall Score: 73.6, Points Score: 10
+Player: ςγι ιεπδ, Rating: 3, Overall Score: 69.7, Points Score: 7
+Player: ςξψι ΰμθξο, Rating: 3, Overall Score: 65.6, Points Score: 6
+Player: μιΰεψ ψτΰμεα, Rating: 3, Overall Score: 62.2, Points Score: 10
+Player: ξεηξγ ΰερξο, Rating: 3, Overall Score: 99.7, Points Score: 9
+Player: ΰγψιΰο τΰεο, Rating: 3, Overall Score: 58.9, Points Score: 11
+Player: ξϊο ηεζζ, Rating: 3, Overall Score: 86.9, Points Score: 9
+Player: γιΰ ρας, Rating: 3, Overall Score: 90.3, Points Score: 18
+Player: ιεπι ρθειΰπεα, Rating: 3, Overall Score: 103.2, Points Score: 9
+Player: ΰπγψδ τεχε, Rating: 3, Overall Score: 67.5, Points Score: 6
+Player: ΰμ ιν χπφτεμρχι, Rating: 3, Overall Score: 56.5, Points Score: 3
+Player: ωι ΰμιΰρ, Rating: 3, Overall Score: 83.0, Points Score: 2
+Player: ΰιρξςιμδ ρεψε, Rating: 3, Overall Score: 55.3, Points Score: 4
+Player: ψο απιξιο, Rating: 3, Overall Score: 71.9, Points Score: 6
+Player: θεπι βεξρ, Rating: 3, Overall Score: 60.8, Points Score: 7
+Player: ΰαι ψιχο, Rating: 3, Overall Score: 72.8, Points Score: 11
+Player: χΰτιθδ, Rating: 3, Overall Score: 62.1, Points Score: 6
+Player: γεψ ξιλδ, Rating: 3, Overall Score: 67.3, Points Score: 6
+Player: πγα πιγν, Rating: 3, Overall Score: 83.5, Points Score: 11
+Player: μεχΰρ ρμιπΰρ, Rating: 3, Overall Score: 65.4, Points Score: 7
+Player: ΰμςγ ωησ, Rating: 3, Overall Score: 78.2, Points Score: 8
+Player: ιεπϊο θτψ, Rating: 3, Overall Score: 54.6, Points Score: 8
+Player: ΰεεχδ ΰωθδ, Rating: 3, Overall Score: 65.6, Points Score: 5
+Player: ψει πΰεει, Rating: 3, Overall Score: 81.4, Points Score: 2
+Player: ϊξιψ ςγι, Rating: 3, Overall Score: 81.2, Points Score: 8
+Player: ιεπϊο λδο, Rating: 3, Overall Score: 54.3, Points Score: 6
+Player: ρξεΰμ αψΰεο, Rating: 3, Overall Score: 90.4, Points Score: 7
+Player: ψΰφ`ιγ φ`ιψιπε, Rating: 3, Overall Score: 78.0, Points Score: 12
+Player: τμιτδ ρπθερ, Rating: 3, Overall Score: 90.3, Points Score: 13
+Player: ΰιαψδιν β`αΰψ, Rating: 3, Overall Score: 88.6, Points Score: 12
+Player: ξψιΰπε αψιιψε, Rating: 3, Overall Score: 76.2, Points Score: 4
+Player: ψεςι βεψγπδ, Rating: 3, Overall Score: 63.3, Points Score: 6
+Player: ΰπιρ ςιΰω, Rating: 3, Overall Score: 82.4, Points Score: 12
+Player: ςμι ξεηξγ, Rating: 3, Overall Score: 82.1, Points Score: 6
+Player: πεςν ξεφ`δ, Rating: 3, Overall Score: 103.2, Points Score: 9
+Player: πια βεθμια, Rating: 3, Overall Score: 60.5, Points Score: 5
+Player: ρθτο ΰεξΰεπβδ, Rating: 3, Overall Score: 90.6, Points Score: 7
+Player: ΰξιψ β`πΰη, Rating: 3, Overall Score: 80.2, Points Score: 10
+Player: γεο ργψιχ, Rating: 3, Overall Score: 65.7, Points Score: 9
+Player: ΰιβεψ ζμθΰπεαιυ`, Rating: 3, Overall Score: 80.1, Points Score: 17
+Player: ΰμεο ϊεψβ`ξο, Rating: 3, Overall Score: 96.7, Points Score: 13
+Player: ιιμδ γειο, Rating: 3, Overall Score: 57.8, Points Score: 9
+Player: ζΰδι ΰηξγ, Rating: 3, Overall Score: 61.7, Points Score: 6
+Player: γεψ ηεβι, Rating: 3, Overall Score: 91.4, Points Score: 12
+Player: ψζ ωθιιο, Rating: 3, Overall Score: 63.2, Points Score: 7
+Player: τεψφ`ο αΰριι, Rating: 3, Overall Score: 88.9, Points Score: 11
+Player: ΰπρ ξηξιγ, Rating: 3, Overall Score: 78.4, Points Score: 24
+Player: ΰαπςζψ ξξΰθδ, Rating: 3, Overall Score: 76.3, Points Score: 7
+Player: τψγ τψιιγιι, Rating: 3, Overall Score: 83.7, Points Score: 11
+Player: τψΰπζι τιιψε, Rating: 3, Overall Score: 75.0, Points Score: 17
+Player: ρΰμιε βεΰιπγε, Rating: 3, Overall Score: 66.2, Points Score: 9
+
+Rating 2 (Total Players: 106):
+Player: ΰιϊξψ πιφο, Rating: 2, Overall Score: 40.2, Points Score: 1
+Player: ψζ λψξι, Rating: 2, Overall Score: 53.4, Points Score: -1
+Player: βιΰ δψξο, Rating: 2, Overall Score: 41.5, Points Score: 7
+Player: ξεηξγ ΰαε πιμ, Rating: 2, Overall Score: 22.2, Points Score: 2
+Player: πια ΰμιΰρι, Rating: 2, Overall Score: 31.4, Points Score: 6
+Player: ϊεξψ φψτϊι, Rating: 2, Overall Score: 26.2, Points Score: -6
+Player: ωψισ λιεσ, Rating: 2, Overall Score: 42.6, Points Score: 3
+Player: γψεψ πιψ, Rating: 2, Overall Score: 45.0, Points Score: 7
+Player: ζ`ΰο χιπιεπρ, Rating: 2, Overall Score: 46.6, Points Score: 2
+Player: ξϊο τμβ, Rating: 2, Overall Score: 17.3, Points Score: 2
+Player: ξχριν βψφ`χιο, Rating: 2, Overall Score: 41.8, Points Score: 2
+Player: αψιΰο τΰρι, Rating: 2, Overall Score: 36.1, Points Score: 7
+Player: ΰαιωι λδο, Rating: 2, Overall Score: 20.1, Points Score: 3
+Player: ςεξψ χεψριδ, Rating: 2, Overall Score: 14.0, Points Score: 1
+Player: ΰετιψ γειγζΰγδ, Rating: 2, Overall Score: 26.8, Points Score: 4
+Player: μεψπφε ωιξιυ`, Rating: 2, Overall Score: 21.6, Points Score: 0
+Player: ξΰεψ χπγιμ, Rating: 2, Overall Score: 15.4, Points Score: 2
+Player: β`εψβ` γιαδ, Rating: 2, Overall Score: 34.8, Points Score: 7
+Player: ηΰϊν ςαγ ΰμηξιγ, Rating: 2, Overall Score: 35.3, Points Score: 4
+Player: ςιΰγ ΰαε ςαιγ, Rating: 2, Overall Score: 36.3, Points Score: 7
+Player: θεν αο ζχο, Rating: 2, Overall Score: 27.4, Points Score: 0
+Player: τμΰξο βμΰαεα, Rating: 2, Overall Score: 42.4, Points Score: 3
+Player: ξεπθψι χξΰδπι, Rating: 2, Overall Score: 13.6, Points Score: -4
+Player: πΰριν ΰεΰξΰε, Rating: 2, Overall Score: 46.4, Points Score: 4
+Player: γπιρ χεμιχεα, Rating: 2, Overall Score: 52.3, Points Score: 4
+Player: αψ πΰεει, Rating: 2, Overall Score: 21.5, Points Score: 9
+Player: ςεξψ ΰβαγιω, Rating: 2, Overall Score: 32.6, Points Score: 1
+Player: ψεςι ΰμιξμκ, Rating: 2, Overall Score: 39.2, Points Score: 7
+Player: μι-ΰεο ξζψηι, Rating: 2, Overall Score: 30.4, Points Score: 3
+Player: γψιχ μεχΰρο, Rating: 2, Overall Score: 44.0, Points Score: 4
+Player: μεψπφε τψξΰθι, Rating: 2, Overall Score: 29.7, Points Score: 3
+Player: ΰιϊο θιαι, Rating: 2, Overall Score: 25.6, Points Score: 2
+Player: ϊεξψ μει, Rating: 2, Overall Score: 12.4, Points Score: 2
+Player: θμ ΰψφ`μ, Rating: 2, Overall Score: 35.3, Points Score: 7
+Player: ψεϊν χμψ, Rating: 2, Overall Score: 12.6, Points Score: 2
+Player: ΰγι βεθμια, Rating: 2, Overall Score: 21.6, Points Score: 1
+Player: γεψ ξμεμ, Rating: 2, Overall Score: 41.3, Points Score: 3
+Player: θΰψχ αεωπΰχ, Rating: 2, Overall Score: 15.6, Points Score: 4
+Player: θιξεϊι ΰεεΰπι, Rating: 2, Overall Score: 48.8, Points Score: -5
+Player: ξετμη ωμΰςθδ, Rating: 2, Overall Score: 35.4, Points Score: 2
+Player: δψΰμ ωμεν, Rating: 2, Overall Score: 25.7, Points Score: 3
+Player: ζεδψ ζρπε, Rating: 2, Overall Score: 30.6, Points Score: 2
+Player: τιμιτ ΰιτεμδ, Rating: 2, Overall Score: 31.2, Points Score: 2
+Player: ςιγο γδο, Rating: 2, Overall Score: 36.3, Points Score: 4
+Player: ΰεψ ψειζξο, Rating: 2, Overall Score: 36.0, Points Score: 5
+Player: ιςχα αψιδεο, Rating: 2, Overall Score: 43.0, Points Score: 5
+Player: μεΰι ημσ, Rating: 2, Overall Score: 28.6, Points Score: 3
+Player: βιΰ αγω, Rating: 2, Overall Score: 28.0, Points Score: 4
+Player: χιχε αεπγερε, Rating: 2, Overall Score: 14.7, Points Score: 4
+Player: μιψο ψεθξο, Rating: 2, Overall Score: 38.7, Points Score: 13
+Player: ΰαιΰμ ζψβψι, Rating: 2, Overall Score: 41.6, Points Score: 4
+Player: ΰιμιι θξν, Rating: 2, Overall Score: 38.9, Points Score: 4
+Player: ξϊπΰμ θγρδ, Rating: 2, Overall Score: 17.6, Points Score: 2
+Player: ξπωδ ζμχδ, Rating: 2, Overall Score: 46.9, Points Score: 4
+Player: ΰμςγ ξγξεο, Rating: 2, Overall Score: 33.5, Points Score: 7
+Player: βεμο απι, Rating: 2, Overall Score: 31.2, Points Score: 5
+Player: ωεΰε, Rating: 2, Overall Score: 38.0, Points Score: 4
+Player: γπι δεφ`χε, Rating: 2, Overall Score: 31.7, Points Score: -1
+Player: ΰηξγ θΰδΰ, Rating: 2, Overall Score: 22.0, Points Score: 1
+Player: πδεψΰι γαεω, Rating: 2, Overall Score: 19.1, Points Score: 2
+Player: δπψι εΰχδ, Rating: 2, Overall Score: 48.7, Points Score: 4
+Player: ςεζ αιμε, Rating: 2, Overall Score: 36.8, Points Score: 5
+Player: ξεηξγ αγΰψπδ, Rating: 2, Overall Score: 25.2, Points Score: 8
+Player: ξεθι αψωφχι, Rating: 2, Overall Score: 32.9, Points Score: 4
+Player: ΰιϊξψ πει, Rating: 2, Overall Score: 31.2, Points Score: 3
+Player: ΰιϊι ζγδ, Rating: 2, Overall Score: 25.3, Points Score: 4
+Player: ΰεωψ γειγδ, Rating: 2, Overall Score: 19.4, Points Score: 3
+Player: ΰιιπδε τψγδ, Rating: 2, Overall Score: 38.9, Points Score: 4
+Player: ξηξεγ β`ΰαψ, Rating: 2, Overall Score: 25.6, Points Score: 3
+Player: γο ςζψιδ, Rating: 2, Overall Score: 28.9, Points Score: 3
+Player: θμ αο ηιιν, Rating: 2, Overall Score: 53.0, Points Score: 10
+Player: ξχριν τμχεωφ`πχε, Rating: 2, Overall Score: 21.4, Points Score: 3
+Player: λψιρθετψ τθψρεο, Rating: 2, Overall Score: 48.5, Points Score: 5
+Player: ςιγε ωηψ, Rating: 2, Overall Score: 15.4, Points Score: 5
+Player: ςιγο εψγ, Rating: 2, Overall Score: 48.0, Points Score: 6
+Player: ΰξιψ αψχεαιυ`, Rating: 2, Overall Score: 31.8, Points Score: 5
+Player: ιεαμ ΰωλπζι, Rating: 2, Overall Score: 19.7, Points Score: 3
+Player: ωμε δψεω, Rating: 2, Overall Score: 12.5, Points Score: 3
+Player: ωμεξι ΰζεμΰι (χωψ), Rating: 2, Overall Score: 35.9, Points Score: 3
+Player: ξψεεΰο χαδΰ, Rating: 2, Overall Score: 23.1, Points Score: 5
+Player: ςξιϊ ξΰιψ, Rating: 2, Overall Score: 18.1, Points Score: 5
+Player: ξεηξγ ωλψ, Rating: 2, Overall Score: 26.7, Points Score: 3
+Player: αιψν λιΰμ, Rating: 2, Overall Score: 35.5, Points Score: 3
+Player: βαι βεψι, Rating: 2, Overall Score: 29.2, Points Score: 2
+Player: θιξε ξεζι, Rating: 2, Overall Score: 17.9, Points Score: 2
+Player: ρϊιε θεψιΰμ, Rating: 2, Overall Score: 51.7, Points Score: 6
+Player: ΰψιχ ωεψΰπεα, Rating: 2, Overall Score: 38.4, Points Score: 7
+Player: ΰιμεο ΰμξεβ, Rating: 2, Overall Score: 28.2, Points Score: 3
+Player: ωαιθ ξζμ, Rating: 2, Overall Score: 39.3, Points Score: 3
+Player: ΰηξγ ρμξο, Rating: 2, Overall Score: 34.3, Points Score: 4
+Player: ΰιϊι ωλθψ, Rating: 2, Overall Score: 21.7, Points Score: 3
+Player: γιο γεγ, Rating: 2, Overall Score: 46.5, Points Score: 5
+Player: γεψ β`ΰο, Rating: 2, Overall Score: 31.7, Points Score: 3
+Player: αριμ ηεψι, Rating: 2, Overall Score: 29.6, Points Score: 4
+Player: ςμΰ ηρο, Rating: 2, Overall Score: 17.4, Points Score: 1
+Player: ΰιϊι αεβΰπιν, Rating: 2, Overall Score: 50.1, Points Score: 8
+Player: ψζ θεειζψ, Rating: 2, Overall Score: 27.2, Points Score: 3
+Player: αο ωδψ, Rating: 2, Overall Score: 31.0, Points Score: 6
+Player: τθψιχ χμιξμδ, Rating: 2, Overall Score: 35.4, Points Score: 7
+Player: γεψ ϊεψβ`ξο, Rating: 2, Overall Score: 42.3, Points Score: 13
+Player: ιεΰμ ΰαεηφιψδ, Rating: 2, Overall Score: 29.6, Points Score: 3
+Player: ΰγιψ μει, Rating: 2, Overall Score: 17.4, Points Score: 6
+Player: ΰιϊξψ ωαιψε, Rating: 2, Overall Score: 21.2, Points Score: 2
+Player: ΰψεο μιιδ ΰιρχδ, Rating: 2, Overall Score: 52.5, Points Score: 8
+Player: τψγι εψβΰρ, Rating: 2, Overall Score: 47.8, Points Score: 6
+Player: β`εψγο αεθΰχδ, Rating: 2, Overall Score: 13.4, Points Score: 2
+
+Rating 1 (Total Players: 160):
+Player: πια ΰπθξο, Rating: 1, Overall Score: 1.8, Points Score: 0
+Player: ςξιϊ ξωιη, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ξψχε εεμσ, Rating: 1, Overall Score: 1.8, Points Score: 0
+Player: πγα ζξιψ, Rating: 1, Overall Score: 1.6, Points Score: 0
+Player: ωβιΰ δψΰμ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψεςι τεχρ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ξδψΰο βΰγιψ, Rating: 1, Overall Score: 1.2, Points Score: 0
+Player: ϊεξψ ΰμεο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: γπιΰμ φγιχ, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: ιεΰα ΰψιλΰ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ωηψ βεμο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ςγι ηιιχιο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ςξιϊ ρεΰψι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: χιν ζιαϊ, Rating: 1, Overall Score: 1.0, Points Score: 0
+Player: ψο ηωτιδ, Rating: 1, Overall Score: 1.4, Points Score: 0
+Player: ψει ωωεο, Rating: 1, Overall Score: 1.6, Points Score: 0
+Player: τεψζ εμχεαιυ`, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: γπιΰμ θππαΰεν, Rating: 1, Overall Score: 2.6, Points Score: 0
+Player: ΰεψμπγε ξερχψδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψει αψπρ, Rating: 1, Overall Score: 1.6, Points Score: 0
+Player: ψΰν βεμο, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: ιεπϊο ωπι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ςεξψ πητΰεει, Rating: 1, Overall Score: 1.0, Points Score: 0
+Player: ρδψ ηρεο, Rating: 1, Overall Score: 1.4, Points Score: 0
+Player: ΰξιψ ΰψιΰμι, Rating: 1, Overall Score: 1.0, Points Score: 0
+Player: πιϊΰι αιϊο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ςζιζ χΰιεπγε, Rating: 1, Overall Score: 2.0, Points Score: 0
+Player: ςξιϊ λδο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: πεςν αο δψεω, Rating: 1, Overall Score: 3.9, Points Score: 0
+Player: ςαγεμ χεμιαΰμι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ωψο ιιπι, Rating: 1, Overall Score: 4.9, Points Score: 1
+Player: μιΰε απαπιωϊι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ΰξιψ ΰμθεψι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψεπι μΰετψ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ςιγε ειιψ, Rating: 1, Overall Score: 9.9, Points Score: 0
+Player: ςεαιιγδ ηθΰα, Rating: 1, Overall Score: 1.8, Points Score: 0
+Player: γεμα ΰζψεΰμ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ωχγ ηλξεο, Rating: 1, Overall Score: 1.6, Points Score: 0
+Player: ΰωψσ ψαΰη, Rating: 1, Overall Score: 8.7, Points Score: 2
+Player: θΰμα θεεΰθηδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ΰαι ϊεψβ`ξο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιζο πρΰψ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: γπιΰμ τμωψ, Rating: 1, Overall Score: 1.8, Points Score: 0
+Player: ξεηξγ βπΰξδ, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: ιςψ ζξαεψρχι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιψιο ηπεν, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: τμβ ηξπι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψεο ΰεπβψ, Rating: 1, Overall Score: 5.3, Points Score: 1
+Player: ρτιψ ΰιθη, Rating: 1, Overall Score: 4.7, Points Score: 1
+Player: βιΰ ξζψηι, Rating: 1, Overall Score: 4.5, Points Score: 1
+Player: ΰιφιχ ωεμξιιρθψ, Rating: 1, Overall Score: 1.8, Points Score: 0
+Player: ΰαια μιο, Rating: 1, Overall Score: 7.1, Points Score: 0
+Player: ψο εΰϊεψι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: γεψ ΰμε, Rating: 1, Overall Score: 4.3, Points Score: 1
+Player: ιεψΰι ξμιη, Rating: 1, Overall Score: 9.4, Points Score: 2
+Player: ξεηξγ ξεψΰγ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: πεςν ξμξεγ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψξι βψωεο, Rating: 1, Overall Score: 1.4, Points Score: 0
+Player: ΰιϊι αο ωαϊ, Rating: 1, Overall Score: 1.6, Points Score: 0
+Player: ςιγο πηξιΰρ, Rating: 1, Overall Score: 6.5, Points Score: 1
+Player: ΰψι ξψπωθιιο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: πια τμιθψ, Rating: 1, Overall Score: 1.0, Points Score: 0
+Player: ΰαια ρμν, Rating: 1, Overall Score: 1.4, Points Score: 0
+Player: ψιΰγ ΰαε ψιΰ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψΰξι βπΰιν, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: μιγεψ ξιξεο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψεςι ξξο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ξχριν ααχε, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψεςι ψαιπεαιυ`, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ΰαια ΰαψδν, Rating: 1, Overall Score: 7.2, Points Score: 0
+Player: ψει αο παιΰ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: μιΰεψ χΰρδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ΰιιμ βεμρδ, Rating: 1, Overall Score: 11.8, Points Score: 2
+Player: ψισ ΰξρμν, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: θιζιΰπε φ`χπδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιιρξΰε χαγδ, Rating: 1, Overall Score: 8.3, Points Score: -3
+Player: ιψιο βαψι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: πια θεαεμ, Rating: 1, Overall Score: 3.1, Points Score: 1
+Player: ξιψεο θμ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ςιγε γειγεα, Rating: 1, Overall Score: 1.8, Points Score: 0
+Player: ιψιο μει, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ΰιζχ τΰτε, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: β`ιξι ΰμλριρ, Rating: 1, Overall Score: 6.4, Points Score: -2
+Player: ςεγγ φεχεμ, Rating: 1, Overall Score: 3.1, Points Score: 1
+Player: γεμα ηζιζδ, Rating: 1, Overall Score: 9.9, Points Score: 1
+Player: ΰψιΰμ μεβρι, Rating: 1, Overall Score: 10.8, Points Score: 2
+Player: ψεϊν ηθεΰμ, Rating: 1, Overall Score: 6.1, Points Score: 1
+Player: ΰγδν ρεεΰςγ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: μιΰεψ ψεχη, Rating: 1, Overall Score: 11.8, Points Score: 2
+Player: ΰψι λδο, Rating: 1, Overall Score: 5.1, Points Score: 1
+Player: πεςν αεπδ, Rating: 1, Overall Score: 8.9, Points Score: 1
+Player: ςζΰμγιο βαιρ, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: ΰεψο ριθαεο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιεαμ λδο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: πιψ ηρεο, Rating: 1, Overall Score: 1.0, Points Score: 0
+Player: ΰηξγ ςΰαγ, Rating: 1, Overall Score: 10.8, Points Score: 1
+Player: ρεμιξο ξΰψδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: μιΰμ γψςι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιεπϊο ΰθιΰρ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιψιο ρψγμ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψιφ`ΰψγ αεΰθπβ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: μιΰν πηεν, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: μιςν γεγ ξψβι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ςμι ςαΰρ, Rating: 1, Overall Score: 1.2, Points Score: 0
+Player: ΰεψΰμ αΰιιδ, Rating: 1, Overall Score: 5.3, Points Score: 1
+Player: ΰιμι φςιψι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψει χεψιο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: αρΰν ζςψεψδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: μιψει βαΰι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ρεσ τεγβεψΰπε, Rating: 1, Overall Score: 4.1, Points Score: 1
+Player: ιεαμ ωγδ, Rating: 1, Overall Score: 11.7, Points Score: 1
+Player: μιψο ρψγμ, Rating: 1, Overall Score: 9.8, Points Score: 2
+Player: ςγο ωξιψ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: βεπι πΰεψ, Rating: 1, Overall Score: 2.0, Points Score: 0
+Player: ςιμΰιι ηβ`β`, Rating: 1, Overall Score: 6.5, Points Score: 1
+Player: ΰιμιι ξγξεο, Rating: 1, Overall Score: 1.4, Points Score: 0
+Player: ωβιΰ βπιρ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ξεηξγ λπςΰο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ξψθιο ΰπγζι ΰθξπβδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ριιγ ΰαε τψηι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιψιο ρεειρδ, Rating: 1, Overall Score: 5.1, Points Score: 1
+Player: ψΰπι ηγιγ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ςΰξψ αΰρμ, Rating: 1, Overall Score: 1.4, Points Score: 0
+Player: αψ μιο, Rating: 1, Overall Score: 1.9, Points Score: 0
+Player: ηξζδ ωιαμι, Rating: 1, Overall Score: 10.2, Points Score: 2
+Player: ζιε αο ωιξεμ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: θψΰζι ϊεξΰ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψεςι ΰμχεχιο, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιεΰα ϊεξψ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψζ ζψαΰιμεα, Rating: 1, Overall Score: 1.4, Points Score: 0
+Player: λΰψν ζεςαι, Rating: 1, Overall Score: 1.0, Points Score: 0
+Player: χεεΰξι ττψδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ιΰο ιερετεα, Rating: 1, Overall Score: 1.2, Points Score: 0
+Player: ρςψ αψξι, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: μιςγ ψξεϊ, Rating: 1, Overall Score: 4.9, Points Score: 1
+Player: ξεηξγ τεχψΰ, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: ωεαμ βεζμο, Rating: 1, Overall Score: 11.7, Points Score: 2
+Player: ψαιγ ΰαψβ`ιμ, Rating: 1, Overall Score: 7.2, Points Score: 2
+Player: ξεηξγ ημΰιιμδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ΰηξγ δξΰν, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ΰετχ ΰεωψ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: βιια ρβμ, Rating: 1, Overall Score: 10.3, Points Score: 2
+Player: αο ΰζ`εαμ, Rating: 1, Overall Score: 1.4, Points Score: 0
+Player: ϊεξψ ηξγ, Rating: 1, Overall Score: 2.4, Points Score: 0
+Player: ψΰπβ`με ιΰπβδ, Rating: 1, Overall Score: 11.9, Points Score: 1
+Player: ςεξψ ρπιεψ, Rating: 1, Overall Score: 7.9, Points Score: 2
+Player: ξεψ τγιγδ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ΰεωψ ΰμιδε, Rating: 1, Overall Score: 1.8, Points Score: 0
+Player: ξβ`γ ρεμιξΰο, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: πεςν ωηψ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ψεν ΰμιβεο, Rating: 1, Overall Score: 3.7, Points Score: 1
+Player: β`ΰψγ χΰρδ, Rating: 1, Overall Score: 6.1, Points Score: 1
+Player: φ`ιπιξιψιν βεγειο, Rating: 1, Overall Score: 1.7, Points Score: 0
+Player: ΰιμιι ξεψ, Rating: 1, Overall Score: 1.0, Points Score: 0
+Player: ΰεδγ αψζιμι, Rating: 1, Overall Score: 5.5, Points Score: 1
+Player: ΰιξψο ΰεμΰγ ςεξΰψ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ξιλΰμ ΰεηπδ, Rating: 1, Overall Score: 7.1, Points Score: 1
+Player: ΰηξγ ςεεΰγ, Rating: 1, Overall Score: 0.0, Points Score: 0
+Player: ρΰψβ`ι ΰξθΰπρ, Rating: 1, Overall Score: 0.8, Points Score: 0
+Player: ΰμιδ βθδεο, Rating: 1, Overall Score: 0.8, Points Score: 0

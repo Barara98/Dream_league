@@ -28,7 +28,6 @@ def update_json_structure(input_file, output_file):
     with open(output_file, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
-
 def fixture_data(html_file_path):
 
     with open(html_file_path, "r", encoding="utf-8") as file:
@@ -62,7 +61,6 @@ def fixture_data(html_file_path):
     }
 
     return table_dict
-
 
 def extract_player_profile(html_file_path):
     # Parse the HTML content
@@ -103,7 +101,6 @@ def extract_player_profile(html_file_path):
     }
 
     return player_object
-
 
 def process_player_folders(root_directory):
     all_players_data = {}

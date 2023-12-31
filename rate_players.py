@@ -1,5 +1,4 @@
 from data_utility import DataUtility
-from player_data_analyzer import PlayersDataAnalyzer
 from playerDB import PlayerDataDB
 import sys
 import numpy as np
@@ -112,8 +111,6 @@ def print_players_by_rating_to_file(rated_players, file_path):
 
 
 db = PlayerDataDB("player_data.db")
-# json_file_path = "data/all_players_data.json"
-# analyzer = PlayersDataAnalyzer(json_file_path)
 data_utility = DataUtility()
 
 

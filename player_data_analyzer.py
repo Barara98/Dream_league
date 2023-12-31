@@ -100,7 +100,7 @@ class PlayersDataAnalyzer:
 
 
 # Create an instance of PlayersDataAnalyzer
-# db_path = "player_data.db"  # Replace with your JSON file path
+# db_path = "player_data.db"
 # analyzer = PlayersDataAnalyzer(db_path)
 
 # # # Use the find_best_team function to find the best team.

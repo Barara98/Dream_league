@@ -270,6 +270,7 @@ class PlayerDataDB:
             }
             player_list.append(player_dict)
         return player_list
+    
     def get_all_players_with_points(self, fixtures_list):
         self.cursor.execute("SELECT * FROM Players")
         results = self.cursor.fetchall()

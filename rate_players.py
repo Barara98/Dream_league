@@ -10,8 +10,8 @@ def rate_players(
     events_list,
     event_weights,
     games_played_weight=0.2,
-    points_weight=1,
-    price_weight=0.3,
+    points_weight=0.8,
+    price_weight=0.2,
 ):
     print("Starting calculate")
     # Calculate performance scores for each player
@@ -112,8 +112,8 @@ def print_players_by_rating_to_file(rated_players, file_path):
 
 
 db = PlayerDataDB("player_data.db")
-json_file_path = "data/all_players_data.json"
-analyzer = PlayersDataAnalyzer(json_file_path)
+# json_file_path = "data/all_players_data.json"
+# analyzer = PlayersDataAnalyzer(json_file_path)
 data_utility = DataUtility()
 
 

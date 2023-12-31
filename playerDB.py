@@ -338,6 +338,7 @@ class PlayerDataDB:
             player_data['Price'] = player_info['price']
             player_data['game_played'] = game_played
             player_data['points'] = player_points
+            player_data['team'] = player_info['team']
 
             players_with_events.append(player_data)
 
@@ -381,7 +382,7 @@ class PlayerDataDB:
         self.cursor.execute(
             """
             SELECT * FROM Players
-            WHERE team_name=? AND (position='CB' OR position='GK')
+            WHERE team_name=? AND (position='CB' OR position='GK') AND injury = 0
             """,
             (team_name,),
         )
@@ -403,7 +404,7 @@ class PlayerDataDB:
         self.cursor.execute(
             """
             SELECT * FROM Players
-            WHERE team_name=? AND (position='MD' OR position='FW')
+            WHERE team_name=? AND (position='MD' OR position='FW') AND injury = 0
             """,
             (team_name,),
         )

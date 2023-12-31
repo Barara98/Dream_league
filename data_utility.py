@@ -262,20 +262,20 @@ class DataUtility:
         }
         self.event_weights = {
             "Minutes Played": 0.2,
-            "Assists": 2.5,
-            "Penalties Caused": 2,
-            "Clean Sheets": 2,
-            "Penalties Squeezed": 1.5,
-            "Goals Scored": 3.5,
+            "Assists": 3,
+            "Penalties Caused": -4,
+            "Clean Sheets": 4,
+            "Penalties Squeezed": 2,
+            "Goals Scored": 5.4,
             "Goals Conceded": -2,
             "Starting Lineup": 3,
-            "Own Goals": -3,
-            "Penalties Missed": -2.5,
-            "Penalties Stopped": 3,
-            "Red Cards": -4,
+            "Own Goals": -5,
+            "Penalties Missed": -4,
+            "Penalties Stopped": 4,
+            "Red Cards": -3,
             "Substituted In": 0.5,
             "Substituted Out": -0.5,
-            "Yellow Cards": -1.5,
+            "Yellow Cards": -1,
         }
 
     # def set_team_attributes(self, team_dict):

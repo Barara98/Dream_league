@@ -6,10 +6,5 @@ __pycache__/
 # Ignore the .env file
 .env
 
-# Ignore the scrapper.py file
-scrapper.py
-
-# Ignore the players folder and its contents
-data/
 
 .DS_Store

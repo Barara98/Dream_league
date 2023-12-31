@@ -1,424 +1,425 @@
-
-Rating 5 (Total Players: 18):
-Player: אופיר מרציאנו, Rating: 5, Overall Score: 82.0, Points Score: 14
-Player: מיגל ויטור, Rating: 5, Overall Score: 89.3, Points Score: 19
-Player: הלדר לופס, Rating: 5, Overall Score: 91.5, Points Score: 20
-Player: יהב גורפינקל, Rating: 5, Overall Score: 84.4, Points Score: 16
-Player: אור ישראלוב, Rating: 5, Overall Score: 77.9, Points Score: 14
-Player: אור בלוריאן, Rating: 5, Overall Score: 79.2, Points Score: 13
-Player: אלון אזוגי, Rating: 5, Overall Score: 78.6, Points Score: 13
-Player: פליסיו מילסון, Rating: 5, Overall Score: 98.6, Points Score: 22
-Player: אנטוניו ספר, Rating: 5, Overall Score: 82.9, Points Score: 14
-Player: סאהר תאג`י, Rating: 5, Overall Score: 81.7, Points Score: 14
-Player: איתן אזולאי, Rating: 5, Overall Score: 88.4, Points Score: 16
-Player: תומר יוספי, Rating: 5, Overall Score: 83.2, Points Score: 14
-Player: ירדן שועה, Rating: 5, Overall Score: 92.9, Points Score: 18
-Player: סטניסלב בילנקי, Rating: 5, Overall Score: 77.9, Points Score: 11
-Player: שלומי אזולאי (חלוץ), Rating: 5, Overall Score: 79.4, Points Score: 13
-Player: ערן זהבי, Rating: 5, Overall Score: 91.7, Points Score: 17
-Player: עידן טוקלומטי, Rating: 5, Overall Score: 87.7, Points Score: 15
-Player: גיא מלמד, Rating: 5, Overall Score: 93.8, Points Score: 18
-
-Rating 4 (Total Players: 32):
-Player: רועי משפתי, Rating: 4, Overall Score: 73.4, Points Score: 10
-Player: מיגל סילבה, Rating: 4, Overall Score: 72.7, Points Score: 9
-Player: יואב ג`ראפי, Rating: 4, Overall Score: 72.7, Points Score: 9
-Player: אמיליוש זובאס, Rating: 4, Overall Score: 76.7, Points Score: 12
-Player: בן ביטון, Rating: 4, Overall Score: 72.7, Points Score: 9
-Player: גרגורי מורוזוב, Rating: 4, Overall Score: 70.2, Points Score: 11
-Player: אוראל דגני, Rating: 4, Overall Score: 70.2, Points Score: 8
-Player: איאד ח`וטבא, Rating: 4, Overall Score: 66.6, Points Score: 8
-Player: פרנן מאיימבו, Rating: 4, Overall Score: 70.7, Points Score: 5
-Player: איבן מאסון, Rating: 4, Overall Score: 69.3, Points Score: 10
-Player: אורן ביטון, Rating: 4, Overall Score: 75.7, Points Score: 11
-Player: דניס פוליאקוב, Rating: 4, Overall Score: 72.7, Points Score: 9
-Player: אופק ביטון, Rating: 4, Overall Score: 77.4, Points Score: 12
-Player: דן איינבינדר, Rating: 4, Overall Score: 76.4, Points Score: 11
-Player: רועי שוקרני, Rating: 4, Overall Score: 66.5, Points Score: 6
-Player: יוריס ואן אובריים, Rating: 4, Overall Score: 74.0, Points Score: 9
-Player: הישאם לאיוס, Rating: 4, Overall Score: 68.6, Points Score: 6
-Player: מאור לוי, Rating: 4, Overall Score: 68.8, Points Score: 8
-Player: דיא סבע, Rating: 4, Overall Score: 69.7, Points Score: 17
-Player: נאור סבג, Rating: 4, Overall Score: 76.9, Points Score: 9
-Player: נדב נידם, Rating: 4, Overall Score: 73.2, Points Score: 11
-Player: אופיר קריאף, Rating: 4, Overall Score: 71.0, Points Score: 8
-Player: מריאנו בריירו, Rating: 4, Overall Score: 71.7, Points Score: 6
-Player: סמי בוראר, Rating: 4, Overall Score: 69.5, Points Score: 5
-Player: בוריס אינו, Rating: 4, Overall Score: 68.9, Points Score: 5
-Player: אניס עיאש, Rating: 4, Overall Score: 76.8, Points Score: 11
-Player: נועם מוצ`ה, Rating: 4, Overall Score: 66.7, Points Score: 6
-Player: אלון תורג`מן, Rating: 4, Overall Score: 68.1, Points Score: 10
-Player: קייס גאנם, Rating: 4, Overall Score: 67.1, Points Score: 10
-Player: מוחמד קמארה, Rating: 4, Overall Score: 75.1, Points Score: 10
-Player: מארק קוסטה, Rating: 4, Overall Score: 72.3, Points Score: 6
-Player: מיירון ג`ורג`, Rating: 4, Overall Score: 66.8, Points Score: 17
-
-Rating 3 (Total Players: 99):
-Player: אדלאיי אדבאיו, Rating: 3, Overall Score: 63.7, Points Score: 4
-Player: עומר כץ, Rating: 3, Overall Score: 41.2, Points Score: 1
-Player: איתמר ניצן, Rating: 3, Overall Score: 40.3, Points Score: 1
-Player: גד עמוס, Rating: 3, Overall Score: 62.9, Points Score: 5
-Player: רובי לבקוביץ`, Rating: 3, Overall Score: 60.9, Points Score: 3
-Player: אריאל הרוש, Rating: 3, Overall Score: 60.4, Points Score: 1
-Player: ניקולאס האגן, Rating: 3, Overall Score: 44.2, Points Score: 4
-Player: אוהד לויטה, Rating: 3, Overall Score: 60.4, Points Score: 1
-Player: ז`אן קיניונס, Rating: 3, Overall Score: 41.2, Points Score: 1
-Player: סולימאן קוליבאלי, Rating: 3, Overall Score: 55.4, Points Score: -1
-Player: חסן חילו, Rating: 3, Overall Score: 62.6, Points Score: 5
-Player: מתן גושה, Rating: 3, Overall Score: 40.9, Points Score: 1
-Player: נמניה ליוביסבלייביץ`, Rating: 3, Overall Score: 60.4, Points Score: 4
-Player: הדר פוקס, Rating: 3, Overall Score: 60.6, Points Score: 3
-Player: אופק נדיר, Rating: 3, Overall Score: 61.6, Points Score: 4
-Player: פייר קורנו, Rating: 3, Overall Score: 43.4, Points Score: 2
-Player: שגיב יחזקאל, Rating: 3, Overall Score: 53.8, Points Score: 10
-Player: אנריק סאבוריט, Rating: 3, Overall Score: 53.0, Points Score: 7
-Player: מוחמד הינדי, Rating: 3, Overall Score: 63.2, Points Score: 10
-Player: ניר ביטון, Rating: 3, Overall Score: 47.1, Points Score: 7
-Player: אביב סולומון, Rating: 3, Overall Score: 52.5, Points Score: 14
-Player: דיא לבאבידי, Rating: 3, Overall Score: 52.0, Points Score: 0
-Player: פלאמן גלאבוב, Rating: 3, Overall Score: 43.5, Points Score: 3
-Player: עידו לוי, Rating: 3, Overall Score: 53.5, Points Score: 2
-Player: גיל כהן, Rating: 3, Overall Score: 40.2, Points Score: 0
-Player: כארם ג`אבר, Rating: 3, Overall Score: 39.5, Points Score: 2
-Player: שחר פיבן, Rating: 3, Overall Score: 40.2, Points Score: 2
-Player: רוי רביבו, Rating: 3, Overall Score: 64.8, Points Score: 17
-Player: קלארק רוברטסון, Rating: 3, Overall Score: 37.7, Points Score: 1
-Player: אונדז`יי באצ`ו, Rating: 3, Overall Score: 61.2, Points Score: 3
-Player: אלוז` יאו, Rating: 3, Overall Score: 43.5, Points Score: 3
-Player: אורי דהן, Rating: 3, Overall Score: 52.5, Points Score: 8
-Player: עבדולאי סק, Rating: 3, Overall Score: 52.6, Points Score: 8
-Player: עבד ג`אבר, Rating: 3, Overall Score: 60.4, Points Score: 5
-Player: סמביניה, Rating: 3, Overall Score: 62.9, Points Score: 5
-Player: דריק לוקאסן, Rating: 3, Overall Score: 45.3, Points Score: 4
-Player: מואיז אדילהו, Rating: 3, Overall Score: 60.9, Points Score: 3
-Player: דניאל סונדגרן, Rating: 3, Overall Score: 42.6, Points Score: 3
-Player: ירדן כהן, Rating: 3, Overall Score: 58.7, Points Score: 5
-Player: מארון גנטוס, Rating: 3, Overall Score: 44.2, Points Score: 4
-Player: קויה מבאה, Rating: 3, Overall Score: 60.4, Points Score: 1
-Player: טימותי אוואני, Rating: 3, Overall Score: 49.9, Points Score: -5
-Player: ינון אליהו, Rating: 3, Overall Score: 66.4, Points Score: 8
-Player: עובדיה דרוויש, Rating: 3, Overall Score: 54.7, Points Score: 7
-Player: חוסה רודריגס, Rating: 3, Overall Score: 65.6, Points Score: 6
-Player: תומר אלטמן, Rating: 3, Overall Score: 59.2, Points Score: 6
-Player: בר כהן, Rating: 3, Overall Score: 62.5, Points Score: 9
-Player: יעקב בריהון, Rating: 3, Overall Score: 41.2, Points Score: 4
-Player: רועי לוי, Rating: 3, Overall Score: 43.2, Points Score: 4
-Player: עילאי טרוסט, Rating: 3, Overall Score: 47.9, Points Score: 5
-Player: מאוויס צ`יבוטה, Rating: 3, Overall Score: 48.2, Points Score: 9
-Player: גדעון אקווה, Rating: 3, Overall Score: 47.9, Points Score: 5
-Player: ענאן חלאילי, Rating: 3, Overall Score: 38.5, Points Score: 4
-Player: עדי יונה, Rating: 3, Overall Score: 39.2, Points Score: 4
-Player: גבי קניקובסקי, Rating: 3, Overall Score: 57.2, Points Score: 10
-Player: ליאור רפאלוב, Rating: 3, Overall Score: 47.2, Points Score: 8
-Player: מוחמד אוסמן, Rating: 3, Overall Score: 58.5, Points Score: 5
-Player: תמיר גלזר, Rating: 3, Overall Score: 62.6, Points Score: 5
-Player: ג`ורדן סבן, Rating: 3, Overall Score: 64.9, Points Score: 5
-Player: מתן חוזז, Rating: 3, Overall Score: 60.5, Points Score: 6
-Player: יוני סטויאנוב, Rating: 3, Overall Score: 61.3, Points Score: 6
-Player: אל ים קנצפולסקי, Rating: 3, Overall Score: 54.0, Points Score: 2
-Player: הנרי ואקה, Rating: 3, Overall Score: 49.7, Points Score: 4
-Player: שי אליאס, Rating: 3, Overall Score: 51.0, Points Score: 0
-Player: רן בנימין, Rating: 3, Overall Score: 41.8, Points Score: 4
-Player: טוני גומס, Rating: 3, Overall Score: 37.5, Points Score: 4
-Player: דן ביטון, Rating: 3, Overall Score: 59.0, Points Score: 10
-Player: דור מיכה, Rating: 3, Overall Score: 56.1, Points Score: 5
-Player: טל בן חיים, Rating: 3, Overall Score: 39.3, Points Score: 9
-Player: אלעד שחף, Rating: 3, Overall Score: 38.0, Points Score: 4
-Player: רוי נאווי, Rating: 3, Overall Score: 45.4, Points Score: 3
-Player: תמיר עדי, Rating: 3, Overall Score: 60.1, Points Score: 6
-Player: יונתן כהן, Rating: 3, Overall Score: 56.3, Points Score: 6
-Player: סמואל בראון, Rating: 3, Overall Score: 45.4, Points Score: 3
-Player: ראצ`יד צ`ירינו, Rating: 3, Overall Score: 38.4, Points Score: 4
-Player: עידן ורד, Rating: 3, Overall Score: 45.3, Points Score: 8
-Player: דור פרץ, Rating: 3, Overall Score: 48.4, Points Score: 7
-Player: פליפה סנטוס, Rating: 3, Overall Score: 55.4, Points Score: 10
-Player: איברהים ג`באר, Rating: 3, Overall Score: 46.7, Points Score: 6
-Player: צ`ארון שרי, Rating: 3, Overall Score: 53.6, Points Score: 6
-Player: רועי גורדנה, Rating: 3, Overall Score: 43.9, Points Score: 4
-Player: בירם כיאל, Rating: 3, Overall Score: 36.9, Points Score: 3
-Player: עלי מוחמד, Rating: 3, Overall Score: 43.7, Points Score: 4
-Player: ניב גוטליב, Rating: 3, Overall Score: 48.3, Points Score: 5
-Player: סתיו טוריאל, Rating: 3, Overall Score: 49.6, Points Score: 5
-Player: סטפן אומאונגה, Rating: 3, Overall Score: 45.7, Points Score: 3
-Player: אמיר ג`נאח, Rating: 3, Overall Score: 55.2, Points Score: 8
-Player: דון סדריק, Rating: 3, Overall Score: 55.7, Points Score: 8
-Player: איגור זלטאנוביץ`, Rating: 3, Overall Score: 45.6, Points Score: 10
-Player: אלן אוז`בולט, Rating: 3, Overall Score: 54.2, Points Score: 9
-Player: שביט מזל, Rating: 3, Overall Score: 39.9, Points Score: 3
-Player: זאהי אחמד, Rating: 3, Overall Score: 43.1, Points Score: 4
-Player: דין דוד, Rating: 3, Overall Score: 43.7, Points Score: 4
-Player: דור חוגי, Rating: 3, Overall Score: 49.1, Points Score: 4
-Player: רז שטיין, Rating: 3, Overall Score: 39.3, Points Score: 4
-Player: איתי בוגאנים, Rating: 3, Overall Score: 40.9, Points Score: 6
-Player: פורצ`ן באסיי, Rating: 3, Overall Score: 41.1, Points Score: 4
-Player: פרד פריידיי, Rating: 3, Overall Score: 38.7, Points Score: 7
-Player: סאליו גואינדו, Rating: 3, Overall Score: 37.2, Points Score: 3
-
-Rating 2 (Total Players: 99):
-Player: רז כרמי, Rating: 2, Overall Score: 23.4, Points Score: 2
-Player: מוחמד אבו ניל, Rating: 2, Overall Score: 22.5, Points Score: 2
-Player: תומר צרפתי, Rating: 2, Overall Score: 33.1, Points Score: -6
-Player: גיא דזנט, Rating: 2, Overall Score: 35.7, Points Score: 3
-Player: מתן פלג, Rating: 2, Overall Score: 7.1, Points Score: 0
-Player: אופיר דוידזאדה, Rating: 2, Overall Score: 25.9, Points Score: 3
-Player: לורנצו שימיץ`, Rating: 2, Overall Score: 22.1, Points Score: 0
-Player: עמית גלזר, Rating: 2, Overall Score: 34.7, Points Score: 4
-Player: נפתלי בלאי, Rating: 2, Overall Score: 29.9, Points Score: 1
-Player: רם לוי, Rating: 2, Overall Score: 17.3, Points Score: 1
-Player: עידו וייר, Rating: 2, Overall Score: 9.9, Points Score: 0
-Player: ג`ורג` דיבה, Rating: 2, Overall Score: 25.0, Points Score: 6
-Player: חאתם עבד אלחמיד, Rating: 2, Overall Score: 8.4, Points Score: 2
-Player: איליה מרטינוביץ`, Rating: 2, Overall Score: 20.8, Points Score: 1
-Player: עיאד אבו עביד, Rating: 2, Overall Score: 7.1, Points Score: 1
-Player: טום בן זקן, Rating: 2, Overall Score: 27.0, Points Score: 0
-Player: מונטרי קמאהני, Rating: 2, Overall Score: 12.4, Points Score: -4
-Player: נאסים אואמאו, Rating: 2, Overall Score: 31.6, Points Score: 4
-Player: אנדרה טישיירה, Rating: 2, Overall Score: 36.7, Points Score: -4
-Player: דניס קוליקוב, Rating: 2, Overall Score: 22.4, Points Score: 2
-Player: אביב לין, Rating: 2, Overall Score: 7.5, Points Score: 0
-Player: בר נאווי, Rating: 2, Overall Score: 19.0, Points Score: 8
-Player: עומר אגבדיש, Rating: 2, Overall Score: 12.8, Points Score: 1
-Player: לי-און מזרחי, Rating: 2, Overall Score: 11.3, Points Score: 2
-Player: מתן לוי, Rating: 2, Overall Score: 31.4, Points Score: 3
-Player: שון גולדברג, Rating: 2, Overall Score: 23.9, Points Score: 2
-Player: איתן טיבי, Rating: 2, Overall Score: 17.6, Points Score: 1
-Player: תומר לוי, Rating: 2, Overall Score: 13.0, Points Score: 2
-Player: אדי גוטליב, Rating: 2, Overall Score: 22.5, Points Score: 1
-Player: דור מלול, Rating: 2, Overall Score: 22.2, Points Score: 2
-Player: טארק בושנאק, Rating: 2, Overall Score: 9.4, Points Score: 2
-Player: דוד קופרמן, Rating: 2, Overall Score: 9.7, Points Score: 1
-Player: מופלח שלאעטה, Rating: 2, Overall Score: 27.3, Points Score: 3
-Player: ג`ואל אבו חנא, Rating: 2, Overall Score: 28.9, Points Score: 2
-Player: זוהר זסנו, Rating: 2, Overall Score: 31.6, Points Score: 2
-Player: פיליפ איפולה, Rating: 2, Overall Score: 14.5, Points Score: 1
-Player: עידן דהן, Rating: 2, Overall Score: 19.0, Points Score: 2
-Player: אביב אברהם, Rating: 2, Overall Score: 7.2, Points Score: 0
-Player: אור רויזמן, Rating: 2, Overall Score: 24.1, Points Score: 3
-Player: ייסמאו קבדה, Rating: 2, Overall Score: 13.4, Points Score: -3
-Player: לואי חלף, Rating: 2, Overall Score: 16.1, Points Score: 1
-Player: גיא בדש, Rating: 2, Overall Score: 16.7, Points Score: 2
-Player: קיקו בונדוסו, Rating: 2, Overall Score: 16.1, Points Score: 4
-Player: לירן רוטמן, Rating: 2, Overall Score: 21.4, Points Score: 8
-Player: עמרי אלטמן, Rating: 2, Overall Score: 23.7, Points Score: 2
-Player: אביאל זרגרי, Rating: 2, Overall Score: 29.8, Points Score: 3
-Player: מנשה זלקה, Rating: 2, Overall Score: 29.4, Points Score: 2
-Player: אדריאן פאון, Rating: 2, Overall Score: 10.3, Points Score: 2
-Player: אלעד מדמון, Rating: 2, Overall Score: 17.0, Points Score: 1
-Player: גולן בני, Rating: 2, Overall Score: 25.7, Points Score: 3
-Player: דולב חזיזה, Rating: 2, Overall Score: 11.4, Points Score: 1
-Player: שואו, Rating: 2, Overall Score: 9.0, Points Score: 2
-Player: דני הוצ`קו, Rating: 2, Overall Score: 33.7, Points Score: -1
-Player: אחמד טאהא, Rating: 2, Overall Score: 22.0, Points Score: 1
-Player: אנדרה פוקו, Rating: 2, Overall Score: 22.9, Points Score: 2
-Player: ליאור רוקח, Rating: 2, Overall Score: 7.2, Points Score: 1
-Player: נהוראי דבוש, Rating: 2, Overall Score: 19.9, Points Score: 2
-Player: עוז בילו, Rating: 2, Overall Score: 27.3, Points Score: 3
-Player: נועם בונה, Rating: 2, Overall Score: 9.5, Points Score: 1
-Player: איסמעילה סורו, Rating: 2, Overall Score: 12.3, Points Score: 1
-Player: מוחמד בדארנה, Rating: 2, Overall Score: 18.3, Points Score: 7
-Player: אחמד עאבד, Rating: 2, Overall Score: 11.2, Points Score: 1
-Player: איתמר נוי, Rating: 2, Overall Score: 10.0, Points Score: 1
-Player: אבי ריקן, Rating: 2, Overall Score: 23.0, Points Score: 2
-Player: איתי זדה, Rating: 2, Overall Score: 13.8, Points Score: 2
-Player: קאפיטה, Rating: 2, Overall Score: 32.4, Points Score: 3
-Player: אושר דוידה, Rating: 2, Overall Score: 12.9, Points Score: 1
-Player: איינהו פרדה, Rating: 2, Overall Score: 16.8, Points Score: 2
-Player: מחמוד ג`אבר, Rating: 2, Overall Score: 11.1, Points Score: 1
-Player: דן עזריה, Rating: 2, Overall Score: 29.6, Points Score: 3
-Player: לוקאס סלינאס, Rating: 2, Overall Score: 28.2, Points Score: 3
-Player: מקסים פלקושצ`נקו, Rating: 2, Overall Score: 22.6, Points Score: 3
-Player: יונתן טפר, Rating: 2, Overall Score: 36.3, Points Score: 6
-Player: אווקה אשטה, Rating: 2, Overall Score: 35.0, Points Score: 4
-Player: כריסטופר פטרסון, Rating: 2, Overall Score: 33.5, Points Score: 4
-Player: עידו שחר, Rating: 2, Overall Score: 16.5, Points Score: 5
-Player: אמיר ברקוביץ`, Rating: 2, Overall Score: 21.5, Points Score: 3
-Player: יובל שדה, Rating: 2, Overall Score: 12.5, Points Score: 1
-Player: שלומי אזולאי (קשר), Rating: 2, Overall Score: 36.2, Points Score: 3
-Player: מרוואן קבהא, Rating: 2, Overall Score: 18.8, Points Score: 3
-Player: עמית מאיר, Rating: 2, Overall Score: 13.6, Points Score: 3
-Player: מוחמד שכר, Rating: 2, Overall Score: 28.1, Points Score: 3
-Player: גבי גורי, Rating: 2, Overall Score: 23.1, Points Score: 1
-Player: עילאיי חג`ג`, Rating: 2, Overall Score: 7.2, Points Score: 1
-Player: אריק שוראנוב, Rating: 2, Overall Score: 14.2, Points Score: 2
-Player: אחמד סלמן, Rating: 2, Overall Score: 35.3, Points Score: 4
-Player: איתי שכטר, Rating: 2, Overall Score: 16.4, Points Score: 2
-Player: יילה דוין, Rating: 2, Overall Score: 17.4, Points Score: 5
-Player: דור ג`אן, Rating: 2, Overall Score: 33.1, Points Score: 3
-Player: שובל גוזלן, Rating: 2, Overall Score: 7.4, Points Score: 1
-Player: בסיל חורי, Rating: 2, Overall Score: 14.2, Points Score: 2
-Player: עלא חסן, Rating: 2, Overall Score: 16.9, Points Score: 1
-Player: אנס מחמיד, Rating: 2, Overall Score: 27.1, Points Score: 8
-Player: אבנעזר ממאטה, Rating: 2, Overall Score: 32.0, Points Score: 3
-Player: בן שהר, Rating: 2, Overall Score: 30.8, Points Score: 6
-Player: פטריק קלימלה, Rating: 2, Overall Score: 18.1, Points Score: 2
-Player: דור תורג`מן, Rating: 2, Overall Score: 16.3, Points Score: 3
-Player: יואל אבוחצירה, Rating: 2, Overall Score: 24.2, Points Score: 2
-Player: אדיר לוי, Rating: 2, Overall Score: 17.1, Points Score: 6
-
-Rating 1 (Total Players: 166):
-Player: ניב אנטמן, Rating: 1, Overall Score: 1.8, Points Score: 0
-Player: עמית משיח, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: מרקו וולף, Rating: 1, Overall Score: 1.8, Points Score: 0
-Player: נדב זמיר, Rating: 1, Overall Score: 1.5, Points Score: 0
-Player: שגיא הראל, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רועי פוקס, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: מהראן גאדיר, Rating: 1, Overall Score: 1.5, Points Score: 0
-Player: תומר אלון, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: דניאל צדיק, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: גיא הרמן, Rating: 1, Overall Score: 1.5, Points Score: 0
-Player: יואב אריכא, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: שחר גולן, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ניב אליאסי, Rating: 1, Overall Score: 1.5, Points Score: 0
-Player: עדי חייקין, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עמית סוארי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: קים זיבת, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: רן חשפיה, Rating: 1, Overall Score: 1.3, Points Score: 0
-Player: רוי ששון, Rating: 1, Overall Score: 1.5, Points Score: 0
-Player: פורז ולקוביץ`, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: דניאל טננבאום, Rating: 1, Overall Score: 3.0, Points Score: 0
-Player: אורלנדו מוסקרה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: שריף כיוף, Rating: 1, Overall Score: 2.5, Points Score: 0
-Player: רוי ברנס, Rating: 1, Overall Score: 1.5, Points Score: 0
-Player: ראם גולן, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: יונתן שני, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עומר נחפאווי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: סהר חסון, Rating: 1, Overall Score: 1.3, Points Score: 0
-Player: אמיר אריאלי, Rating: 1, Overall Score: 1.4, Points Score: 0
-Player: דרור ניר, Rating: 1, Overall Score: 1.4, Points Score: 0
-Player: ניתאי ביתן, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עזיז קאיונדו, Rating: 1, Overall Score: 2.5, Points Score: 0
-Player: עמית כהן, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: מקסים גרצ`קין, Rating: 1, Overall Score: 2.4, Points Score: 0
-Player: בריאן פאסי, Rating: 1, Overall Score: 6.8, Points Score: 1
-Player: נועם בן הרוש, Rating: 1, Overall Score: 3.4, Points Score: 0
-Player: עבדול קוליבאלי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: שרן ייני, Rating: 1, Overall Score: 5.8, Points Score: 1
-Player: אבישי כהן, Rating: 1, Overall Score: 5.8, Points Score: 1
-Player: ליאו בנבנישתי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: אמיר אלטורי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עומר קורסיה, Rating: 1, Overall Score: 2.6, Points Score: 0
-Player: רוני לאופר, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: מאור קנדיל, Rating: 1, Overall Score: 2.8, Points Score: 0
-Player: עוביידה חטאב, Rating: 1, Overall Score: 2.1, Points Score: 0
-Player: דולב אזרואל, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: שקד חכמון, Rating: 1, Overall Score: 1.7, Points Score: 0
-Player: אשרף רבאח, Rating: 1, Overall Score: 2.7, Points Score: 0
-Player: טאלב טוואטחה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: אבי תורג`מן, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: יזן נסאר, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: דניאל פלשר, Rating: 1, Overall Score: 2.2, Points Score: 0
-Player: מוחמד גנאמה, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: יער זמבורסקי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ירין חנום, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: פלג חמני, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רון אונגר, Rating: 1, Overall Score: 5.7, Points Score: 1
-Player: ספיר איטח, Rating: 1, Overall Score: 5.3, Points Score: 1
-Player: גיא מזרחי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: איציק שולמייסטר, Rating: 1, Overall Score: 1.8, Points Score: 0
-Player: רן ואתורי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רועי אלימלך, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: דור אלו, Rating: 1, Overall Score: 4.9, Points Score: 1
-Player: יוראי מליח, Rating: 1, Overall Score: 4.4, Points Score: 1
-Player: מוחמד מוראד, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: נועם מלמוד, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: לורנצו פרמאטי, Rating: 1, Overall Score: 6.9, Points Score: 1
-Player: רמי גרשון, Rating: 1, Overall Score: 2.0, Points Score: 0
-Player: טל ארצ`ל, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רותם קלר, Rating: 1, Overall Score: 7.0, Points Score: 1
-Player: איתי בן שבת, Rating: 1, Overall Score: 2.0, Points Score: 0
-Player: עידן נחמיאס, Rating: 1, Overall Score: 2.4, Points Score: 0
-Player: ארי מרנשטיין, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ניב פליטר, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: אביב סלם, Rating: 1, Overall Score: 1.6, Points Score: 0
-Player: ריאד אבו ריא, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: הראל שלום, Rating: 1, Overall Score: 5.5, Points Score: 1
-Player: ראמי גנאים, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: לידור מימון, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רועי ממן, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: מקסים בבקו, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רועי רבינוביץ`, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רוי בן נביא, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ליאור קאסה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: אייל גולסה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ריף אמסלם, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: טיזיאנו צ`קנה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ירין גברי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ניב טובול, Rating: 1, Overall Score: 3.6, Points Score: 1
-Player: מירון טל, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עידו דוידוב, Rating: 1, Overall Score: 2.0, Points Score: 0
-Player: ירין לוי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: איזק פאפו, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ג`ימי אלכסיס, Rating: 1, Overall Score: 5.5, Points Score: -2
-Player: עודד צוקול, Rating: 1, Overall Score: 3.8, Points Score: 1
-Player: איליי טמם, Rating: 1, Overall Score: 5.0, Points Score: 1
-Player: מתנאל טדסה, Rating: 1, Overall Score: 1.7, Points Score: 0
-Player: אריאל לוגסי, Rating: 1, Overall Score: 2.4, Points Score: 0
-Player: רותם חטואל, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: אדהם סוואעד, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ארי כהן, Rating: 1, Overall Score: 1.6, Points Score: 0
-Player: עזאלדין גביס, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: אורן סיטבון, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: יובל כהן, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ניר חסון, Rating: 1, Overall Score: 1.4, Points Score: 0
-Player: סולימן מארה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ליאל דרעי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: יונתן אטיאס, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: מוטי ברשצקי, Rating: 1, Overall Score: 6.0, Points Score: 1
-Player: ירין סרדל, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ריצ`ארד בואטנג, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ליאם נחום, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ליעם דוד מרגי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עלי עבאס, Rating: 1, Overall Score: 1.5, Points Score: 0
-Player: אוראל באייה, Rating: 1, Overall Score: 6.0, Points Score: 1
-Player: אילי צעירי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רוי קורין, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: בסאם זערורה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: לירוי גבאי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: סוף פודגוראנו, Rating: 1, Overall Score: 5.1, Points Score: 1
-Player: יובל אשכנזי, Rating: 1, Overall Score: 5.6, Points Score: 1
-Player: שלו הרוש, Rating: 1, Overall Score: 4.4, Points Score: 1
-Player: לירן סרדל, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עדן שמיר, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: גוני נאור, Rating: 1, Overall Score: 2.2, Points Score: 0
-Player: איליי מדמון, Rating: 1, Overall Score: 1.7, Points Score: 0
-Player: שגיא גניס, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: מוחמד כנעאן, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: מרטין אנדזי אטמנגה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: סייד אבו פרחי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ירין סוויסה, Rating: 1, Overall Score: 5.5, Points Score: 1
-Player: טימו מוזי, Rating: 1, Overall Score: 2.0, Points Score: 0
-Player: ראני חדיד, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עאמר באסל, Rating: 1, Overall Score: 1.5, Points Score: 0
-Player: בר לין, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: חמזה שיבלי, Rating: 1, Overall Score: 5.4, Points Score: 1
-Player: זיו בן שימול, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: טראזי תומא, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רועי אלקוקין, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: יואב תומר, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רז זרבאילוב, Rating: 1, Overall Score: 1.6, Points Score: 0
-Player: כארם זועבי, Rating: 1, Overall Score: 1.4, Points Score: 0
-Player: קוואמי פפרה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: יאן יוסופוב, Rating: 1, Overall Score: 1.7, Points Score: 0
-Player: אילון אלמוג, Rating: 1, Overall Score: 2.6, Points Score: 0
-Player: סער ברמי, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ליעד רמות, Rating: 1, Overall Score: 5.6, Points Score: 1
-Player: מוחמד פוקרא, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: רביד אברג`יל, Rating: 1, Overall Score: 4.4, Points Score: 1
-Player: מוחמד חלאיילה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: אחמד המאם, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: אופק אושר, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: גייב סגל, Rating: 1, Overall Score: 4.8, Points Score: 1
-Player: רז טוויזר, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: בן אז`ובל, Rating: 1, Overall Score: 2.0, Points Score: 0
-Player: תומר חמד, Rating: 1, Overall Score: 3.2, Points Score: 0
-Player: ראנג`לו יאנגה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: פראנזי פיירו, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: עומר סניור, Rating: 1, Overall Score: 4.4, Points Score: 1
-Player: מור פדידה, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: אושר אליהו, Rating: 1, Overall Score: 1.8, Points Score: 0
-Player: מג`ד סולימאן, Rating: 1, Overall Score: 1.1, Points Score: 0
-Player: נועם שחר, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: רום אליגון, Rating: 1, Overall Score: 0.0, Points Score: 0
-Player: ג`ארד קאסה, Rating: 1, Overall Score: 2.3, Points Score: 0
-Player: צ`ינימירים גודוין, Rating: 1, Overall Score: 2.2, Points Score: 0
-Player: איתמר שבירו, Rating: 1, Overall Score: 0.0, Points Score: 0
+name	predicted_rating
+ניב אנטמן	
+עמית משיח	
+מרקו וולף	
+אדלאיי אדבאיו	
+נדב זמיר	
+שגיא הראל	
+עומר כץ	
+רועי משפתי	
+איתמר ניצן	
+גד עמוס	
+רועי פוקס	
+מיגל סילבה	
+מהראן גאדיר	
+רז כרמי	
+תומר אלון	
+אופיר מרציאנו	
+רובי לבקוביץ`	
+אריאל הרוש	
+דניאל צדיק	
+גיא הרמן	
+יואב אריכא	
+יואב ג`ראפי	
+מוחמד אבו ניל	
+שחר גולן	
+ניב אליאסי	
+אמיליוש זובאס	
+עדי חייקין	
+עמית סוארי	
+קים זיבת	
+רן חשפיה	
+רוי ששון	
+פורז ולקוביץ`	
+תומר צרפתי	
+דניאל טננבאום	
+אורלנדו מוסקרה	
+שריף כיוף	
+רוי ברנס	
+ראם גולן	
+ניקולאס האגן	
+יונתן שני	
+עומר נחפאווי	
+אוהד לויטה	
+סהר חסון	
+אמיר אריאלי	
+דרור ניר	
+ניתאי ביתן	
+עזיז קאיונדו	
+ז`אן קיניונס	
+סולימאן קוליבאלי	
+עמית כהן	
+גיא דזנט	
+מתן פלג	
+מקסים גרצ`קין	
+בריאן פאסי	
+נועם בן הרוש	
+עבדול קוליבאלי	
+שרן ייני	
+אבישי כהן	
+ליאו בנבנישתי	
+אמיר אלטורי	
+בן ביטון	
+עומר קורסיה	
+אופיר דוידזאדה	
+לורנצו שימיץ`	
+גרגורי מורוזוב	
+חסן חילו	
+רוני לאופר	
+עמית גלזר	
+מתן גושה	
+נפתלי בלאי	
+רם לוי	
+מאור קנדיל	
+נמניה ליוביסבלייביץ`	
+אוראל דגני	
+עידו וייר	
+הדר פוקס	
+אופק נדיר	
+פייר קורנו	
+ג`ורג` דיבה	
+שגיב יחזקאל	
+מיגל ויטור	
+עוביידה חטאב	
+אנריק סאבוריט	
+חאתם עבד אלחמיד	
+איליה מרטינוביץ`	
+מוחמד הינדי	
+הלדר לופס	
+דולב אזרואל	
+שקד חכמון	
+איאד ח`וטבא	
+אשרף רבאח	
+טאלב טוואטחה	
+עיאד אבו עביד	
+ניר ביטון	
+אבי תורג`מן	
+אביב סולומון	
+טום בן זקן	
+דיא לבאבידי	
+פרנן מאיימבו	
+פלאמן גלאבוב	
+יזן נסאר	
+עידו לוי	
+גיל כהן	
+מונטרי קמאהני	
+כארם ג`אבר	
+שחר פיבן	
+נאסים אואמאו	
+דניאל פלשר	
+אנדרה טישיירה	
+דניס קוליקוב	
+מוחמד גנאמה	
+יער זמבורסקי	
+רוי רביבו	
+יהב גורפינקל	
+ירין חנום	
+קלארק רוברטסון	
+אונדז`יי באצ`ו	
+פלג חמני	
+רון אונגר	
+ספיר איטח	
+אור ישראלוב	
+גיא מזרחי	
+אור בלוריאן	
+איציק שולמייסטר	
+אביב לין	
+אלוז` יאו	
+רן ואתורי	
+בר נאווי	
+עומר אגבדיש	
+רועי אלימלך	
+לי-און מזרחי	
+איבן מאסון	
+אורי דהן	
+דור אלו	
+עבדולאי סק	
+יוראי מליח	
+מתן לוי	
+מוחמד מוראד	
+נועם מלמוד	
+שון גולדברג	
+עבד ג`אבר	
+סמביניה	
+דריק לוקאסן	
+לורנצו פרמאטי	
+איתן טיבי	
+רמי גרשון	
+מואיז אדילהו	
+תומר לוי	
+טל ארצ`ל	
+רותם קלר	
+דניאל סונדגרן	
+ירדן כהן	
+איתי בן שבת	
+אדי גוטליב	
+עידן נחמיאס	
+אלון אזוגי	
+ארי מרנשטיין	
+דור מלול	
+טארק בושנאק	
+אורן ביטון	
+מארון גנטוס	
+קויה מבאה	
+ניב פליטר	
+טימותי אוואני	
+דוד קופרמן	
+מופלח שלאעטה	
+דניס פוליאקוב	
+אביב סלם	
+ינון אליהו	
+ג`ואל אבו חנא	
+ריאד אבו ריא	
+הראל שלום	
+זוהר זסנו	
+ראמי גנאים	
+לידור מימון	
+עובדיה דרוויש	
+פיליפ איפולה	
+עידן דהן	
+אופק ביטון	
+חוסה רודריגס	
+רועי ממן	
+מקסים בבקו	
+רועי רבינוביץ`	
+אביב אברהם	
+רוי בן נביא	
+ליאור קאסה	
+אייל גולסה	
+ריף אמסלם	
+דן איינבינדר	
+טיזיאנו צ`קנה	
+אור רויזמן	
+ייסמאו קבדה	
+תומר אלטמן	
+ירין גברי	
+בר כהן	
+ניב טובול	
+מירון טל	
+עידו דוידוב	
+יעקב בריהון	
+לואי חלף	
+רועי לוי	
+עילאי טרוסט	
+ירין לוי	
+מאוויס צ`יבוטה	
+גיא בדש	
+קיקו בונדוסו	
+גדעון אקווה	
+לירן רוטמן	
+רועי שוקרני	
+ענאן חלאילי	
+איזק פאפו	
+עדי יונה	
+יוריס ואן אובריים	
+עמרי אלטמן	
+הישאם לאיוס	
+ג`ימי אלכסיס	
+גבי קניקובסקי	
+עודד צוקול	
+אביאל זרגרי	
+ליאור רפאלוב	
+מוחמד אוסמן	
+איליי טמם	
+תמיר גלזר	
+מתנאל טדסה	
+מנשה זלקה	
+פליסיו מילסון	
+אנטוניו ספר	
+מאור לוי	
+ג`ורדן סבן	
+סאהר תאג`י	
+אדריאן פאון	
+אלעד מדמון	
+גולן בני	
+דולב חזיזה	
+מתן חוזז	
+אריאל לוגסי	
+דיא סבע	
+יוני סטויאנוב	
+רותם חטואל	
+איתן אזולאי	
+שואו	
+דני הוצ`קו	
+אחמד טאהא	
+אנדרה פוקו	
+אדהם סוואעד	
+אל ים קנצפולסקי	
+ליאור רוקח	
+נהוראי דבוש	
+הנרי ואקה	
+ארי כהן	
+עוז בילו	
+נועם בונה	
+עזאלדין גביס	
+אורן סיטבון	
+שי אליאס	
+יובל כהן	
+איסמעילה סורו	
+תומר יוספי	
+ניר חסון	
+רן בנימין	
+טוני גומס	
+מוחמד בדארנה	
+אחמד עאבד	
+סולימן מארה	
+ליאל דרעי	
+יונתן אטיאס	
+מוטי ברשצקי	
+ירין סרדל	
+ריצ`ארד בואטנג	
+ליאם נחום	
+נאור סבג	
+ליעם דוד מרגי	
+איתמר נוי	
+אבי ריקן	
+איתי זדה	
+קאפיטה	
+עלי עבאס	
+אושר דוידה	
+אוראל באייה	
+דן ביטון	
+איינהו פרדה	
+אילי צעירי	
+דור מיכה	
+נדב נידם	
+רוי קורין	
+מחמוד ג`אבר	
+דן עזריה	
+לוקאס סלינאס	
+טל בן חיים	
+מקסים פלקושצ`נקו	
+אלעד שחף	
+יונתן טפר	
+בסאם זערורה	
+אווקה אשטה	
+כריסטופר פטרסון	
+רוי נאווי	
+תמיר עדי	
+יונתן כהן	
+לירוי גבאי	
+סמואל בראון	
+ראצ`יד צ`ירינו	
+עידו שחר	
+עידן ורד	
+אמיר ברקוביץ`	
+אופיר קריאף	
+סוף פודגוראנו	
+יובל שדה	
+דור פרץ	
+פליפה סנטוס	
+איברהים ג`באר	
+יובל אשכנזי	
+מריאנו בריירו	
+שלו הרוש	
+שלומי אזולאי (קשר)	
+מרוואן קבהא	
+עמית מאיר	
+סמי בוראר	
+צ`ארון שרי	
+רועי גורדנה	
+ירדן שועה	
+לירן סרדל	
+עדן שמיר	
+גוני נאור	
+מוחמד שכר	
+בוריס אינו	
+בירם כיאל	
+גבי גורי	
+עילאיי חג`ג`	
+איליי מדמון	
+שגיא גניס	
+מוחמד כנעאן	
+מרטין אנדזי אטמנגה	
+אניס עיאש	
+עלי מוחמד	
+סייד אבו פרחי	
+ירין סוויסה	
+טימו מוזי	
+נועם מוצ`ה	
+ראני חדיד	
+ניב גוטליב	
+עאמר באסל	
+סתיו טוריאל	
+בר לין	
+חמזה שיבלי	
+זיו בן שימול	
+סטפן אומאונגה	
+טראזי תומא	
+אמיר ג`נאח	
+רועי אלקוקין	
+יואב תומר	
+רז זרבאילוב	
+כארם זועבי	
+דון סדריק	
+קוואמי פפרה	
+סטניסלב בילנקי	
+אריק שוראנוב	
+איגור זלטאנוביץ`	
+אלן אוז`בולט	
+יאן יוסופוב	
+אילון אלמוג	
+שלומי אזולאי (חלוץ)	
+אלון תורג`מן	
+סער ברמי	
+ליעד רמות	
+שביט מזל	
+אחמד סלמן	
+איתי שכטר	
+ערן זהבי	
+יילה דוין	
+זאהי אחמד	
+דין דוד	
+דור חוגי	
+דור ג`אן	
+רז שטיין	
+מוחמד פוקרא	
+שובל גוזלן	
+בסיל חורי	
+עלא חסן	
+רביד אברג`יל	
+מוחמד חלאיילה	
+אחמד המאם	
+איתי בוגאנים	
+אופק אושר	
+גייב סגל	
+פורצ`ן באסיי	
+עידן טוקלומטי	
+אנס מחמיד	
+רז טוויזר	
+בן אז`ובל	
+אבנעזר ממאטה	
+קייס גאנם	
+גיא מלמד	
+תומר חמד	
+פרד פריידיי	
+בן שהר	
+ראנג`לו יאנגה	
+פטריק קלימלה	
+פראנזי פיירו	
+מוחמד קמארה	
+עומר סניור	
+דור תורג`מן	
+יואל אבוחצירה	
+סאליו גואינדו	
+מארק קוסטה	
+מור פדידה	
+מיירון ג`ורג`	
+אושר אליהו	
+מג`ד סולימאן	
+נועם שחר	
+אדיר לוי	
+רום אליגון	
+ג`ארד קאסה	
+צ`ינימירים גודוין	
+איתמר שבירו	
+איליי מור	
+אוהד ברזילי	
+ארון לייה איסקה	
+אימרן אולאד עומאר	
+מיכאל אוחנה	
+פרדי ורגאס	
+ג`ורדן בוטאקה	
+אחמד עוואד	
+סארג`י אמטאנס	
+אליה גטהון	

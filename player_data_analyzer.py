@@ -83,13 +83,6 @@ class PlayersDataAnalyzer:
         players_data = self.players_data.get(fixture_name, [])
         return players_data
 
-    def get_total_points_by_position(self):
-        total_points_by_position = {}
-        for position, position_data in self.players_data.items():
-            total_points = sum(player["points"] for player in position_data)
-            total_points_by_position[position] = total_points
-        return total_points_by_position
-
     def build_random_team(self):
         print("Building random team")
         budget = 108  # Initial budget in millions
@@ -386,32 +379,6 @@ class PlayersDataAnalyzer:
         total_stars = sum(player_data["stars"] for player_data in best_team)
 
         return best_team, total_points, total_cost, total_stars
-
-    def get_attackers_by_team(self, team_name):
-        attackers = []
-        for category_data in self.players_data.values():
-            for player in category_data:
-                if (
-                    player["position"] in ["FW", "MD"]
-                    and player["team"] == team_name
-                    and player["injury"] == False
-                    and player["stars"] > 2
-                ):
-                    attackers.append(player)
-        return attackers
-
-    def get_defenders_by_team(self, team_name):
-        defenders = []
-        for category_data in self.players_data.values():
-            for player in category_data:
-                if (
-                    player["position"] in ["CB", "GK"]
-                    and player["team"] == team_name
-                    and player["injury"] == False
-                    and player["stars"] > 2
-                ):
-                    defenders.append(player)
-        return defenders
 
 
 # # Create an instance of PlayersDataAnalyzer

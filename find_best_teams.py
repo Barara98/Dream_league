@@ -5,7 +5,7 @@ import json
 from player_data_analyzer import PlayersDataAnalyzer
 
 # Create an instance of PlayersDataAnalyzer
-json_file_path = "all_players_data.json"
+json_file_path = "data/all_players_data.json"
 analyzer = PlayersDataAnalyzer(json_file_path)
 
 

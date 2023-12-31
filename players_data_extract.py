@@ -97,9 +97,9 @@ def extract_player_profile(html_file_path):
         "team": player_team,
         "price": player_price,
         "points": player_points,
-        "stars": 0, 
+        "stars": 0,
         "injury": injury,
-        "fixtures": {}
+        "fixtures": {},
     }
 
     return player_object
@@ -134,12 +134,12 @@ def process_player_folders(root_directory):
                     fixture_name = os.path.splitext(fixture_file)[0]
                     fixture = fixture_data(fixture_file_path)
                     player_data["fixtures"][fixture_name] = fixture
-                    
+
             if player_data["position"] not in all_players_data:
                 all_players_data[player_data["position"]] = []
             all_players_data[player_data["position"]].append(player_data)
 
-    file_path = "all_players_data_fixture4.json"
+    file_path = "all_players_data_fixture5.json"
 
     # Write the player data to the JSON file
     with open(file_path, "w", encoding="utf-8") as json_file:
@@ -154,7 +154,7 @@ def process_player_folders(root_directory):
 
 
 # Define the root directory
-root_directory = "players_fixture4/"
+root_directory = "players_fixture5/"
 
 # Call the function to process player folders
 process_player_folders(root_directory)

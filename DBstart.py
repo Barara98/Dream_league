@@ -92,12 +92,13 @@ def update_player_data(player_data):
 
 
 def update_DB():
-    json_file_path = "all_players_data_fixture4.json"
+    fixture_name = "fixture5"
+    json_file_path = f"all_players_data_{fixture_name}.json"
     analyzer = PlayersDataAnalyzer(json_file_path)
     print("Updating DB:")
     total_players = analyzer.get_total_players("All", -10)
     update_player_data(total_players)
     insert_all_fixtures(total_players)
-    insert_all_events_by_fixture(total_players, "fixture4")
+    insert_all_events_by_fixture(total_players, fixture_name)
 
 update_DB()

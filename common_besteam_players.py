@@ -43,7 +43,7 @@ def display_random_team():
 
 # Usage example:
 # Enter best team file:
-json_file_path = 'best_teams/fixture14.json'  
+json_file_path = 'best_teams/fixture6.json'  
 
 player_count_list = count_players_in_teams(json_file_path)
 

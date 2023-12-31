@@ -5,7 +5,7 @@ from playerDB import PlayerDataDB
 db = PlayerDataDB("player_data.db")
 
 
-def find_best_sequence_of_squads(analyzer, fixture_names):
+def find_best_sequence_of_squads(analyzer, fixture_names, players):
     num_fixtures = len(fixture_names)
     max_substitutions = 3
 
@@ -23,7 +23,11 @@ def find_best_sequence_of_squads(analyzer, fixture_names):
 
     for i in range(num_fixtures):
         current_fixture_name = fixture_names[i]
-        players_data = db.get_players_by_fixture(current_fixture_name)
+
+        if current_fixture_name == "fixture1":
+            players_data = players
+        else:
+            players_data = db.get_players_by_fixture(current_fixture_name)
 
         # Create a linear programming problem
         prob = pulp.LpProblem("FantasyFootball", pulp.LpMaximize)
@@ -162,10 +166,11 @@ def get_user_team():
     found_players = []
     player_list = db.get_players_by_fixture("fixture1")
     for player in player_list:
-        if player['name'] in players_name:
+        if player["name"] in players_name:
             found_players.append(player)
 
     return found_players
+
 
 
 
@@ -173,26 +178,32 @@ players = get_user_team()
 print(len(players))
 
 
-# # Example usage
-# analyzer = PlayersDataAnalyzer("data/all_players_data.json")
-# fixture_names = ["fixture2", "fixture3"]  # Replace with your fixture names
-# results = find_best_sequence_of_squads(analyzer, fixture_names)
+# Example usage
+analyzer = PlayersDataAnalyzer("data/all_players_data.json")
+fixture_names = [
+    "fixture1",
+    "fixture2",
+    "fixture3",
+    "fixture4",
+]  # Replace with your fixture names
+results = find_best_sequence_of_squads(analyzer, fixture_names, players)
 # print(results)
 
-# for result in results:
-#     print(f"Fixture: {result['fixture_name']}")
-#     print(f"Total Points: {result['total_points']}")
-#     print(f"Total Cost: {result['total_cost']}")
-#     print("Selected Team:")
-#     for player in result["best_team"]:
-#         print(
-#             f"Name: {player['name']}, Position: {player['position']}, Team: {player['team']}, Price: {player['price']}, Points: {player['points']}"
-#         )
-#     print("Substitutions In:")
-#     for player_name in result["substitutions_in"]:
-#         print(f"Name: {player_name}")
-#     print("Substitutions Out:")
-#     for player_name in result["substitutions_out"]:
-#         print(f"Name: {player_name}")
-#     print("=" * 30)
-# print(f"Total Points: {result['total_points_over_sequence']}")
+for result in results:
+    print(f"Fixture: {result['fixture_name']}")
+    print(f"Total Points: {result['total_points']}")
+    print(f"Total Cost: {result['total_cost']}")
+    print("Selected Team:")
+    for player in result["best_team"]:
+        print(
+            f"Name: {player['name']}, Position: {player['position']}, Team: {player['team']}, Price: {player['price']}, Points: {player['points']}"
+        )
+    if result['fixture_name'] is not "fixture1":
+        print("Substitutions In:")
+        for player_name in result["substitutions_in"]:
+            print(f"Name: {player_name}")
+        print("Substitutions Out:")
+        for player_name in result["substitutions_out"]:
+            print(f"Name: {player_name}")
+    print("=" * 30)
+print(f"Total Points: {result['total_points_over_sequence']}")

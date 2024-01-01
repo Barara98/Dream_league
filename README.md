@@ -1,6 +1,5 @@
 # Dream_league
-Isreal Dream League tool
 
-hosted with streamlit : https://dreamleague.streamlit.app/
+Isreal Dream League tool
 
 tool for the isreali dream league

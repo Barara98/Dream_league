@@ -97,7 +97,7 @@ class PlayerDataDB:
                 INSERT INTO Players (name, position, team_name, price, points, stars, injury)
                 VALUES (?, ?, ?, ?, ?, ?, ?)
                 """,
-                (name, position, team, price, points, 0 , injury),
+                (name, position, team, price, points, 0, injury),
             )
             self.conn.commit()
             return self.cursor.lastrowid
@@ -134,7 +134,8 @@ class PlayerDataDB:
 
     def insert_event(self, fixture_id, event_name, event_quantity, event_points):
         # Check if the event already exists for the fixture
-        existing_event = self.get_event_by_fixture_and_name(fixture_id, event_name)
+        existing_event = self.get_event_by_fixture_and_name(
+            fixture_id, event_name)
 
         if not existing_event:
             # Event does not exist, insert it
@@ -247,6 +248,23 @@ class PlayerDataDB:
             player_list.append(player_dict)
         return player_list
 
+    def get_players_min_points(self, points):
+        self.cursor.execute("SELECT * FROM Players")
+        results = self.cursor.fetchall()
+        player_list = []
+        for result in results:
+            player_dict = {
+                "name": result[0],
+                "position": result[1],
+                "team": result[2],
+                "price": result[3],
+                "points": result[4],
+                "stars": result[5],
+            }
+            if player_dict["points"] > points:
+                player_list.append(player_dict)
+        return player_list
+
     def get_players_by_fixture(self, fixture_name):
         self.cursor.execute(
             """
@@ -270,7 +288,7 @@ class PlayerDataDB:
             }
             player_list.append(player_dict)
         return player_list
-    
+
     def get_all_players_with_points(self, fixtures_list):
         self.cursor.execute("SELECT * FROM Players")
         results = self.cursor.fetchall()
@@ -281,13 +299,16 @@ class PlayerDataDB:
                 "name": result[0],
                 "position": result[1],
                 "team": result[2],
-                "price": int(result[3]),  # Convert price to float if it's stored as DECIMAL
+                # Convert price to float if it's stored as DECIMAL
+                "price": int(result[3]),
                 "points": {},
             }
 
             # Get fixture-specific points for the player
-            existing_fixtures = self.get_fixtures_by_player_name(player_dict["name"])
-            existing_fixture_names = {fixture["fixture_name"]: fixture for fixture in existing_fixtures}
+            existing_fixtures = self.get_fixtures_by_player_name(
+                player_dict["name"])
+            existing_fixture_names = {
+                fixture["fixture_name"]: fixture for fixture in existing_fixtures}
 
             for fixture_name in fixtures_list:
                 if fixture_name not in existing_fixture_names:
@@ -327,9 +348,11 @@ class PlayerDataDB:
 
                 for event in events_list:
                     # If the event exists in the database, add its quantity to the total_event_quantities
-                    event_data = self.get_event_by_fixture_and_name(fixture_id, event)
+                    event_data = self.get_event_by_fixture_and_name(
+                        fixture_id, event)
                     if event_data is not None:
-                        total_event_quantities[event] = total_event_quantities.get(event, 0) + event_data['event_quantity']
+                        total_event_quantities[event] = total_event_quantities.get(
+                            event, 0) + event_data['event_quantity']
 
             # Add the player's total event quantities to the player_data dictionary
             for event, total_quantity in total_event_quantities.items():
@@ -358,7 +381,7 @@ class PlayerDataDB:
             }
             team_list.append(team_dict)
         return team_list
-        
+
     def get_team_by_name(self, team_name):
         self.cursor.execute(
             """
@@ -378,7 +401,7 @@ class PlayerDataDB:
             return team_dict
         else:
             return None
- 
+
     def get_defenders_by_team_name(self, team_name):
         self.cursor.execute(
             """
@@ -447,7 +470,8 @@ class PlayerDataDB:
 
     def update_player_stars(self, player_scores):
         for player_name, player_data in player_scores.items():
-            rating = player_data.get("Rating", 1)  # Default to 1 star if not provided
+            # Default to 1 star if not provided
+            rating = player_data.get("Rating", 1)
             # Update the star rating for the player in the database
             self.cursor.execute(
                 """
@@ -458,6 +482,6 @@ class PlayerDataDB:
                 (rating, player_name),
             )
             self.conn.commit()
-            
+
     def close(self):
         self.conn.close()

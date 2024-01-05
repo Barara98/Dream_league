@@ -189,6 +189,24 @@ class PlayerDataDB:
             fixtures_list.append(fixture_dict)
         return fixtures_list
 
+    def get_player_points_in_fixture(self, player_name, fixture_name):
+        self.cursor.execute(
+            """
+            SELECT Fixtures.fixture_points
+            FROM Players
+            INNER JOIN Fixtures ON Players.name = Fixtures.player_name
+            WHERE Players.name=? AND Fixtures.fixture_name=?
+        """,
+            (player_name, fixture_name),
+        )
+        result = self.cursor.fetchone()
+
+        if result:
+            # Return the points for the player in the specified fixture
+            return result[0]
+        else:
+            return 0
+
     def get_events_by_fixture_id(self, fixture_id):
         self.cursor.execute(
             """

@@ -98,8 +98,9 @@ def get_valid_teams(teams, budget_limit, max_players_per_team):
 db_path = "player_data.db"
 analyzer = PlayersDataAnalyzer(db_path)
 
-valid_squads = analyzer.generate_valid_squads(19)
-print(len(valid_squads))
+for fixture in fixture_list:
+    valid_squads = analyzer.generate_valid_squads(19)
+    print(len(valid_squads))
 # print(valid_squads[0])
 
 if are_squads_unique(valid_squads):

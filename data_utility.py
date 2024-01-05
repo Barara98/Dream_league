@@ -72,7 +72,8 @@ class DataUtility:
             "Substituted Out",
             "Yellow Cards",
         ]
-        self.fixture_list = ["All", "Fixture1", "Fixture2"]
+        self.fixture_list = ["fixture1", "fixture2",
+                             "fixture3", "fixture4", "fixture5"]
         self.fixtures_table = {
             "fixture1": [
                 ("מכבי חיפה", "הפועל פתח תקווה"),
@@ -209,3 +210,5 @@ class DataUtility:
             "Substituted Out": -0.5,
             "Yellow Cards": -1,
         }
+        self.formations = [(3, 5, 2), (3, 4, 3), (4, 3, 3),
+                           (4, 4, 2), (4, 5, 1), (5, 4, 1), (5, 3, 2)]

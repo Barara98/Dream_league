@@ -1,3 +1,5 @@
+import random
+import re
 import sqlite3
 
 
@@ -262,6 +264,7 @@ class PlayerDataDB:
                 "price": result[3],
                 "points": result[4],
                 "stars": result[5],
+                "rand_index": random.randint(1, 420)
             }
             player_list.append(player_dict)
         return player_list
@@ -284,6 +287,10 @@ class PlayerDataDB:
         return player_list
 
     def get_players_by_fixture(self, fixture_name):
+        next_fixture_name = re.sub(r'(\d+)', lambda x: str(int(x.group(0)) + 1), fixture_name)
+        next_fixture2_name = re.sub(r'(\d+)', lambda x: str(int(x.group(0)) + 2), fixture_name)
+        next_fixture3_name = re.sub(r'(\d+)', lambda x: str(int(x.group(0)) + 3), fixture_name)
+
         self.cursor.execute(
             """
             SELECT Players.name, Players.position, Players.team_name, Players.price, Fixtures.fixture_points, Players.stars
@@ -302,9 +309,12 @@ class PlayerDataDB:
                 "team": result[2],
                 "price": result[3],
                 "points": result[4],
+                "next_points": self.get_player_points_in_fixture(result[0], next_fixture_name),
                 "stars": result[5],
+                "rand_index": random.randint(1, 420)
             }
-            player_list.append(player_dict)
+            if player_dict["next_points"] >= 0:
+                player_list.append(player_dict)
         return player_list
 
     def get_all_players_with_points(self, fixtures_list):

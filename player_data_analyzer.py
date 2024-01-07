@@ -91,83 +91,6 @@ class PlayersDataAnalyzer:
 
         return best_team
 
-    def check_team_constraints(self, squad_combination):
-        team_counts = {}
-        checker = []
-        for player in squad_combination:
-            team_name = player["team"]
-            team_counts[team_name] = team_counts.get(team_name, 0) + 1
-            if team_counts[team_name] > self.max_players_per_team:
-                return False, checker
-            if team_counts[team_name] == self.max_players_per_team and team_name not in checker:
-                checker.append(team_name)
-        return True, checker
-
-    def random_subs(self, team):
-        available_players = self.db.get_all_players()
-        remaining_players = [
-            player for player in available_players if player not in team]
-        remaining_players.sort(key=lambda x: x["points"], reverse=True)
-
-        num_of_subs = random.randint(1, 3)
-        subs_out = random.sample(team, num_of_subs)
-        new_team = [player for player in team if player not in subs_out]
-        names_set = set(player["name"] for player in new_team)
-        subs_in = []
-
-        players_count = {"GK": 0, "CB": 0, "MD": 0, "FW": 0}
-        team_count = {}
-        for player in new_team:
-            players_count[player["position"]] += 1
-            team_count[player["team"]] = team_count.get(player["team"], 0) + 1
-
-        remaining_budget = self.budget - \
-            sum(player["price"] for player in team)
-
-        if players_count["GK"] == 0:
-            gk_reamined = [
-                player for player in remaining_players if player["position"] == "GK"]
-            selecting = True
-            while selecting:
-                gk = random.choice(gk_reamined)
-                if gk["name"] in names_set:
-                    continue
-                if self.add_player_to_team(gk, players_count, team_count, remaining_budget, self.position_constraints, self.max_players_per_team):
-                    subs_in.append(gk)
-                    new_team.append(gk)
-                    selecting = False
-
-        for player in remaining_players:
-            if player["name"] in names_set:
-                continue
-            if self.add_player_to_team(player, players_count, team_count, remaining_budget, self.position_constraints, self.max_players_per_team):
-                subs_in.append(player)
-                new_team.append(player)
-
-                # Check if we have exactly 11 players
-                if len(new_team) == 11:
-                    # Check if minimum constraints are met
-                    if (
-                        players_count["GK"] == 1
-                        and players_count["CB"] >= self.position_constraints["CB"][0]
-                        and players_count["CB"] <= self.position_constraints["CB"][1]
-                        and players_count["MD"] >= self.position_constraints["MD"][0]
-                        and players_count["MD"] <= self.position_constraints["MD"][1]
-                        and players_count["FW"] >= self.position_constraints["FW"][0]
-                        and players_count["FW"] <= self.position_constraints["FW"][1]
-                    ):
-                        return new_team
-        return self.random_subs(team)
-
-    def get_valid_teams(self, teams):
-        valid_teams = []
-
-        for team in teams:
-            if self.check_team_constraints(team):
-                valid_teams.append(team)
-
-        return valid_teams
-
     def check_team_constraints(self, team):
         total_budget = sum(player["price"] for player in team)
 
@@ -200,19 +123,6 @@ class PlayersDataAnalyzer:
 
         # All constraints are met
         return True
-
-    def add_player_to_team(self, player, players_count, team_count, remaining_budget, position_constraints, max_players_per_team):
-        if (
-            players_count[player["position"]
-                          ] < position_constraints[player["position"]][1]
-            and team_count.get(player["team"], 0) < max_players_per_team
-            and remaining_budget >= player["price"]
-        ):
-            players_count[player["position"]] += 1
-            team_count[player["team"]] = team_count.get(player["team"], 0) + 1
-            remaining_budget -= player["price"]
-            return True
-        return False
 
     def team_sequence(self):
         budget = random.randint(92, 108)
@@ -357,32 +267,21 @@ analyzer = PlayersDataAnalyzer(db_path)
 # print("Best Team:")
 # analyzer.display_team(best_team, best_points, total_cost)
 
-count = 0
-random_sequences = [analyzer.team_sequence() for i in range(10)]
-for i in range(len(random_sequences)):
-    random_sequences[i] = analyzer.crossover(random_sequences[i])
-for team in random_sequences:
-    if analyzer.check_sequence(team) is not None:
-        count += 1
-print(count)
+
+best = analyzer.ga(10, 10, 0.7)
+
+for fixture in analyzer.fixture_list:
+    print(f'Team {fixture}:')
+    analyzer.display_team(best[fixture])
+print(analyzer.fitness(best))
+
+fix = analyzer.check_sequence(best)
+if fix is not None:
+    print(fix)
+else:
+    print("OK!!")
 
 
-# best = analyzer.ga(10, 10, 0.7)
-
-# for fixture in analyzer.fixture_list:
-#     print(f'Team {fixture}:')
-#     analyzer.display_team(best[fixture])
-# print(analyzer.fitness(best))
-
-# fix = analyzer.check_sequence(best)
-# if fix is not None:
-#     print(fix)
-# else:
-#     print("OK!!")
 
 
-# random_sequences = [analyzer.team_sequence() for i in range(2)]
 
-
-# team = analyzer.find_best_team(key="price", fixture="fixture1")
-# team2 = analyzer.find_best_team(key="points", fixture="fixture1")

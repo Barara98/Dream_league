@@ -72,7 +72,7 @@ try:
     add_player_button.click()
 
     # Sleep for a few seconds to allow the page to load
-    time.sleep(0.5)
+    time.sleep(1.5)
 
     # Find the "הכל" (All) button by its label text
     all_button = driver.find_element(
@@ -91,7 +91,7 @@ try:
     print(len(rows))
 
     # Iterate through each row and extract player information
-    for row in rows[150:152]:  # Skip the header row
+    for row in rows[352:354]:  # Skip the header row
         buttons = row.find_elements(By.TAG_NAME, "button")
 
         # Click the first button in the row
@@ -99,7 +99,7 @@ try:
             buttons[0].click()
 
         # Sleep for a few seconds to allow the modal to open
-        time.sleep(0.6)
+        time.sleep(1)
 
         modals = driver.find_elements(By.CLASS_NAME, "modal-dialog-scrollable")
 
@@ -109,7 +109,7 @@ try:
         # Save the modal body HTML to a file with a unique name (e.g., player1.html, player2.html, etc.)
         player_index = rows.index(row)  # Get the index of the player's row
         print(player_index)
-        player_dir = f"players_fixture5/Player{player_index}"
+        player_dir = f"players_fixture6/Player{player_index}"
 
         if not os.path.exists(player_dir):
             os.makedirs(player_dir)
@@ -131,7 +131,7 @@ try:
             rows_stats = table.find_elements(By.TAG_NAME, "tr")
             for row in rows_stats:
                 fixture_text = row.find_elements(By.TAG_NAME, "td")[0].text
-                if fixture_text == "מחזור 5":
+                if fixture_text == "מחזור 6":
                     fixture_number = (
                         re.search(r"\d+", fixture_text).group()
                         if re.search(r"\d+", fixture_text)
@@ -165,7 +165,7 @@ try:
                         fixture_file.write(table_stats_html)
 
                     button_in_table.click()
-                    time.sleep(0.5)
+                    time.sleep(0.9)
 
         # Find and click the close button for the modal
         close_button = modals[1].find_element(By.CLASS_NAME, "btn-close")

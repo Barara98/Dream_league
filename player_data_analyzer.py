@@ -20,7 +20,7 @@ class PlayersDataAnalyzer:
             "FW": (1, 3),  # 1 to 3 forwards
         }
         self.max_players_per_team = 2
-        self.fixture_list = ["fixture1", "fixture2", "fixture3", "fixture4", "fixture5"]
+        self.fixture_list = ["fixture1", "fixture2", "fixture3", "fixture4", "fixture5", "fixture6"]
 
     def display_team(self, team):
         total_points = sum(player["points"] for player in team)
@@ -50,7 +50,7 @@ class PlayersDataAnalyzer:
                 f"{player['name']} ({player['position']}) - {player['team']} - Price: {player['price']} - Points: {player['points']}"
             )
 
-    def find_best_team(self, fixture="All", key="points", sub_key="stars", budget=108):
+    def find_best_team(self, fixture="All", key="points", sub_key="points", budget=108, min_budget=92):
         if fixture == "All":
             player_list = self.db.get_all_players()
         else:
@@ -70,6 +70,7 @@ class PlayersDataAnalyzer:
 
         # Budget constraint
         prob += pulp.lpSum(player["price"] * player_vars[player["name"]] for player in player_list) <= budget
+        prob += pulp.lpSum(player["price"] * player_vars[player["name"]] for player in player_list) >= min_budget
 
         # Position constraints
         for position, (min_count, max_count) in self.position_constraints.items():
@@ -125,9 +126,10 @@ class PlayersDataAnalyzer:
         return True
 
     def team_sequence(self):
-        budget = random.randint(92, 108)
-        team = analyzer.find_best_team(key="stars", sub_key="price", fixture="fixture1", budget=budget)
-        team_sequence = analyzer.find_best_sequence_of_squads(team, analyzer.fixture_list, key="price", sub_key="stars")
+        budget_max = random.randint(92, 108)
+        budget_min = random.randint(92, budget_max)
+        team = self.find_best_team(key="stars", sub_key="stars", fixture="fixture1", budget=budget_max, min_budget=budget_min)
+        team_sequence = self.find_best_sequence_of_squads(team, self.fixture_list)
 
         return team_sequence
 
@@ -144,8 +146,8 @@ class PlayersDataAnalyzer:
         fx_lst = self.fixture_list[index:]
         temp = copy.deepcopy(team_sq_copy[fixture])
         if mutate:
-            choice = random.choice(["stars", "price"])
-            choice2 = random.choice(["stars", "price"])
+            choice = random.choice(["stars", "price", "next_points", "rand_index"])
+            choice2 = random.choice(["stars", "price", "next_points", "rand_index"])
             team_sq_copy.update(self.find_best_sequence_of_squads(temp, fx_lst, key=choice, sub_key=choice2))
         else:
             team_sq_copy.update(self.find_best_sequence_of_squads(temp, fx_lst))
@@ -160,21 +162,22 @@ class PlayersDataAnalyzer:
             names_set2 = set(player["name"] for player in temp2)
             unique_names_set1 = names_set1.difference(names_set2)
             if len(unique_names_set1) > 3:
-                return fixture
+                return len(unique_names_set1)
         return None
 
     def ga(self, size, generations, muProb):
-        random_sequences = [analyzer.team_sequence() for i in range(size)]
+        random_sequences = [self.team_sequence() for i in range(size)]
         random_sequences.sort(key=self.fitness, reverse=True)
         print(f'Best Random Result:{self.fitness(random_sequences[0])}')
 
         best = random_sequences[0]
 
         for i in range(generations):
-            random_sequences = random_sequences[len(random_sequences)//2:]
+            random_sequences = random_sequences[:len(random_sequences)//2]
             childrens = []
             for j in range(len(random_sequences)):
                 if random.random() < muProb:
+
                     c1 = self.crossover(random_sequences[j], True)
                 else:
                     c1 = self.crossover(random_sequences[j])
@@ -183,18 +186,18 @@ class PlayersDataAnalyzer:
             random_sequences.sort(key=self.fitness, reverse=True)
             print(f'Best Result in the Generation:{self.fitness(random_sequences[0])}')
 
-            if (self.fitness(best) <= self.fitness(random_sequences[0])):
+            if (self.fitness(best) < self.fitness(random_sequences[0])):
                 best = random_sequences[0]
                 print(f'Generation: {i + 1}')
                 print(f'Best Result:{self.fitness(best)}')
         return best
 
-    def find_best_sequence_of_squads(self, starting_team, fixture_sequence, key="points", sub_key="stars"):
+    def find_best_sequence_of_squads(self, starting_team, fixture_sequence, key="points", sub_key="next_points"):
         max_substitutions = 3
         selected_players_sequence = []
         result = {}
-        # modified_sequence = fixture_sequence.copy()
-        # modified_sequence.insert(0, "initial")
+        modified_sequence = fixture_sequence.copy()
+        modified_sequence.insert(0, "initial")
 
         for i, fixture in enumerate(fixture_sequence):
             if i == 0:
@@ -229,7 +232,7 @@ class PlayersDataAnalyzer:
             prob += pulp.lpSum(player_vars.values()) == 11
 
             # If not the first fixture, add the substitution constraint
-            if len(selected_players_sequence) == 11:
+            if i > 0:
                 substitutions = pulp.lpSum(
                     player_vars[player_data["name"]] for player_data in players_data if player_data["name"] not in selected_players_sequence)
                 prob += substitutions <= max_substitutions
@@ -251,24 +254,14 @@ class PlayersDataAnalyzer:
         return result
 
 
-# Create an instance of PlayersDataAnalyzer
 db_path = "player_data.db"
 analyzer = PlayersDataAnalyzer(db_path)
 
-# # # Use the find_best_team function to find the best team.
-# best_team = analyzer.find_best_team(key="price", fixture="fixture1")
-# print("Best Team:")
-# analyzer.display_team(best_team)
+# best = analyzer.find_best_team(fixture="fixture6")
+# analyzer.display_team(best)
 
 
-# fixture = 'fixture2'
-# best_team, best_points, total_cost = analyzer.find_best_team_lp_by_fixture(
-#     fixture)
-# print("Best Team:")
-# analyzer.display_team(best_team, best_points, total_cost)
-
-
-best = analyzer.ga(10, 10, 0.7)
+best = analyzer.ga(5, 20, 0.7)
 
 for fixture in analyzer.fixture_list:
     print(f'Team {fixture}:')
@@ -280,8 +273,3 @@ if fix is not None:
     print(fix)
 else:
     print("OK!!")
-
-
-
-
-

@@ -113,7 +113,7 @@ def get_fixture_players(json_file_path):
 
 
 def update_DB():
-    fixture_name = "fixture5"
+    fixture_name = "fixture6"
     json_file_path = f"data/all_players_data_{fixture_name}.json"
     print("Updating DB:")
     total_players = get_fixture_players(json_file_path)

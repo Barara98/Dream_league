@@ -6,8 +6,8 @@ from tkinter import filedialog
 
 data_utility = DataUtility()
 
-OUTPUT_FILE_NAME = "data/all_players_data_fixture5.json"
-ROOT_DIRECTORY = "data/players/players_fixture5/"
+OUTPUT_FILE_NAME = "data/all_players_data_fixture6.json"
+ROOT_DIRECTORY = "data/players/players_fixture6/"
 
 
 def extract_player_profile(html_content):
